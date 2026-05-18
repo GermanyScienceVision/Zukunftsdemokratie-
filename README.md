@@ -26,6 +26,8 @@ Im Mittelpunkt stehen fünf Herausforderungen:
 
 Zukunftsdemokratie versteht sich nicht als Parteiprogramm, Wahlkampfpapier oder fertiger Gesetzesentwurf, sondern als offene, überprüfbare und weiterzuentwickelnde Reformarchitektur.
 
+Für einen kompakten Einstieg siehe: [Kurzfassung lesen](KURZFASSUNG.md)
+
 ---
 
 ## Grundidee
@@ -131,6 +133,7 @@ Die Anlagen sammeln technische, juristische, finanzielle und begriffliche Vertie
 
 Das Projekt versteht sich als Diskussionsgrundlage. Kritik, offene Konflikte und Gegenargumente sollen sichtbar dokumentiert werden.
 
+- Noch nicht abschließend geklärte Punkte werden in [OFFENE_FRAGEN.md](OFFENE_FRAGEN.md) gesammelt.
 - [Kritikpunkte](diskussion/kritikpunkte.md)
 - [Offene Konflikte](diskussion/offene-konflikte.md)
 - [Antworten auf Einwände](diskussion/antworten-auf-einwaende.md)
@@ -150,6 +153,8 @@ Geplante Entwicklungsstufen:
 - `v0.3.0` – erste öffentliche Diskussionsfassung
 - `v0.4.0` – überarbeitete Fassung nach erstem Feedback
 - `v1.0.0` – erste stabile Grundfassung
+
+Die geplanten Entwicklungsschritte sind in der [Roadmap](ROADMAP.md) dokumentiert.
 
 ---
 
@@ -181,6 +186,8 @@ Zukunftsdemokratie ist kein technokratisches Ersatzmodell für Demokratie.
 
 Das Projekt versteht Wissenschaft nicht als Ersatz für demokratische Entscheidung, sondern als Mindeststandard für verantwortliche Politik. Die letzte Entscheidung bleibt demokratisch legitimierten Institutionen vorbehalten.
 
+Eine ausführlichere Abgrenzung des Projekts findet sich in [ABGRENZUNG.md](ABGRENZUNG.md).
+
 ---
 
 ## Mitwirken
@@ -197,6 +204,8 @@ Beiträge sollen sich am Charakter des Projekts orientieren:
 - nicht parteipolitisch vereinnahmend
 
 Für größere Änderungen sollen Issues oder Pull Requests genutzt werden.
+
+Regeln für Beiträge, Forks, Projektpflege und offizielle Fassungen sind in der [Governance](GOVERNANCE.md) beschrieben.
 
 ---
 
@@ -215,3 +224,5 @@ Die konkrete Lizenzstruktur des Projekts befindet sich noch in Ausarbeitung.
 Bis zur endgültigen Festlegung der Lizenz dient dieses Repository ausschließlich der öffentlichen Diskussion, Analyse und Weiterentwicklung des Reformkonzepts.
 
 Forks und Diskussionen sind ausdrücklich erwünscht. Irreführende Nutzung im Namen des Projekts oder die Darstellung inoffizieller Fassungen als offizielle Projektversion soll vermieden werden.
+
+Die konkrete Lizenz ist in der Datei [LICENSE](LICENSE) dokumentiert.
