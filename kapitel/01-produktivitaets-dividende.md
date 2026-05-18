@@ -10,42 +10,42 @@
 
 ## Inhaltsverzeichnis
 
-- [Die Produktivitäts-Dividende](#die-produktivitäts-dividende)
-- [Die Leitidee: Produktivitäts-Dividende](#die-leitidee-produktivitäts-dividende)
+- [Die Produktivitäts-Dividende](#die-produktivitaets-dividende)
+- [Die Leitidee: Produktivitäts-Dividende](#die-leitidee-produktivitaets-dividende)
 - [Ausgangslage](#ausgangslage)
 - [TEIL I](#teil-i)
   - [Kernpaket](#kernpaket)
-  - [Baustein 1: Wertschöpfungsabgabe](#baustein-1-wertschöpfungsabgabe)
+  - [Baustein 1: Wertschöpfungsabgabe](#baustein-1-wertschoepfungsabgabe)
     - [Juristische Konstruktion: Sozialbeitrag, nicht Steuer](#juristische-konstruktion-sozialbeitrag-nicht-steuer)
     - [Bemessungsgrundlage](#bemessungsgrundlage)
     - [Investitionssicherung: Sofortabschreibung produktiver Investitionen](#investitionssicherung-sofortabschreibung-produktiver-investitionen)
-    - [Linear-progressiver Tarif für Phase 1](#linear-progressiver-tarif-für-phase-1)
+    - [Linear-progressiver Tarif für Phase 1](#linear-progressiver-tarif-fuer-phase-1)
     - [Marktwirkungs-Komponente: Plattformen erfassen](#marktwirkungs-komponente-plattformen-erfassen)
     - [Teil-Ersatz heutiger Lohnnebenkosten](#teil-ersatz-heutiger-lohnnebenkosten)
     - [Inflationsschutz: Kalibrierung und Preismonitoring](#inflationsschutz-kalibrierung-und-preismonitoring)
     - [Drei Beispiele: Wie das System konkret wirkt](#drei-beispiele-wie-das-system-konkret-wirkt)
-      - [Beispiel 1: Friseursalon mit drei Beschäftigten](#beispiel-1-friseursalon-mit-drei-beschäftigten)
-      - [Beispiel 2: Mittelständischer Maschinenbauer mit 80 Beschäftigten](#beispiel-2-mittelständischer-maschinenbauer-mit-80-beschäftigten)
-      - [Beispiel 3: Digitale Plattform mit 30 Beschäftigten und 5 Millionen Nutzern in Deutschland](#beispiel-3-digitale-plattform-mit-30-beschäftigten-und-5-millionen-nutzern-in-deutschland)
+      - [Beispiel 1: Friseursalon mit drei Beschäftigten](#beispiel-1-friseursalon-mit-drei-beschaeftigten)
+      - [Beispiel 2: Mittelständischer Maschinenbauer mit 80 Beschäftigten](#beispiel-2-mittelstaendischer-maschinenbauer-mit-80-beschaeftigten)
+      - [Beispiel 3: Digitale Plattform mit 30 Beschäftigten und 5 Millionen Nutzern in Deutschland](#beispiel-3-digitale-plattform-mit-30-beschaeftigten-und-5-millionen-nutzern-in-deutschland)
     - [Was die Beispiele zeigen](#was-die-beispiele-zeigen)
-  - [Baustein 2: Pflichtversicherung für alle Erwerbstätigen](#baustein-2-pflichtversicherung-für-alle-erwerbstätigen)
+  - [Baustein 2: Pflichtversicherung für alle Erwerbstätigen](#baustein-2-pflichtversicherung-fuer-alle-erwerbstaetigen)
     - [Wer ist erfasst](#wer-ist-erfasst)
     - [Vereinheitlichung der Sondersysteme](#vereinheitlichung-der-sondersysteme)
-    - [Übergangsfristen](#übergangsfristen)
-  - [Baustein 3: Bildungs- und Übergangsoffensive](#baustein-3-bildungs-und-übergangsoffensive)
+    - [Übergangsfristen](#uebergangsfristen)
+  - [Baustein 3: Bildungs- und Übergangsoffensive](#baustein-3-bildungs-und-uebergangsoffensive)
     - [Bildung in Schulen](#bildung-in-schulen)
-    - [Transfer-Garantie: Das Sicherheitsnetz gegen die Geschwindigkeits-Lücke](#transfer-garantie-das-sicherheitsnetz-gegen-die-geschwindigkeits-lücke)
-    - [Aktive Beschäftigungsförderung mit Green-Skills-Bonus](#aktive-beschäftigungsförderung-mit-green-skills-bonus)
-  - [Baustein 4: Brückenfinanzierung mit regionalem Schutzschirm](#baustein-4-brückenfinanzierung-mit-regionalem-schutzschirm)
-    - [Drei Mechanismen für die geteilte Last](#drei-mechanismen-für-die-geteilte-last)
-    - [Transformationsfonds: Strukturelle regionale Förderung](#transformationsfonds-strukturelle-regionale-förderung)
-    - [Rapid Response Fund: Sofort-Mechanismus für Härtefälle](#rapid-response-fund-sofort-mechanismus-für-härtefälle)
+    - [Transfer-Garantie: Das Sicherheitsnetz gegen die Geschwindigkeits-Lücke](#transfer-garantie-das-sicherheitsnetz-gegen-die-geschwindigkeits-luecke)
+    - [Aktive Beschäftigungsförderung mit Green-Skills-Bonus](#aktive-beschaeftigungsfoerderung-mit-green-skills-bonus)
+  - [Baustein 4: Brückenfinanzierung mit regionalem Schutzschirm](#baustein-4-brueckenfinanzierung-mit-regionalem-schutzschirm)
+    - [Drei Mechanismen für die geteilte Last](#drei-mechanismen-fuer-die-geteilte-last)
+    - [Transformationsfonds: Strukturelle regionale Förderung](#transformationsfonds-strukturelle-regionale-foerderung)
+    - [Rapid Response Fund: Sofort-Mechanismus für Härtefälle](#rapid-response-fund-sofort-mechanismus-fuer-haertefaelle)
   - [Drei Phasen der Umsetzung](#drei-phasen-der-umsetzung)
-  - [Erfolgsmaßstäbe: KPIs für das Kernpaket](#erfolgsmaßstäbe-kpis-für-das-kernpaket)
-    - [KPIs für die Wertschöpfungsabgabe](#kpis-für-die-wertschöpfungsabgabe)
-    - [KPIs für die Pflichtversicherung](#kpis-für-die-pflichtversicherung)
-    - [KPIs für die Bildungs- und Übergangsoffensive](#kpis-für-die-bildungs-und-übergangsoffensive)
-    - [KPIs für die Brückenfinanzierung](#kpis-für-die-brückenfinanzierung)
+  - [Erfolgsmaßstäbe: KPIs für das Kernpaket](#erfolgsmassstaebe-kpis-fuer-das-kernpaket)
+    - [KPIs für die Wertschöpfungsabgabe](#kpis-fuer-die-wertschoepfungsabgabe)
+    - [KPIs für die Pflichtversicherung](#kpis-fuer-die-pflichtversicherung)
+    - [KPIs für die Bildungs- und Übergangsoffensive](#kpis-fuer-die-bildungs-und-uebergangsoffensive)
+    - [KPIs für die Brückenfinanzierung](#kpis-fuer-die-brueckenfinanzierung)
     - [Konsequenzen aus verfehlten KPIs](#konsequenzen-aus-verfehlten-kpis)
 - [TEIL II](#teil-ii)
   - [Ausbaupaket](#ausbaupaket)
@@ -53,22 +53,22 @@
   - [Erweiterung B: Vorleistungs-Differenzierung (Zielbild)](#erweiterung-b-vorleistungs-differenzierung-zielbild)
   - [Erweiterung C: Datenabgabe nach Datenart differenziert](#erweiterung-c-datenabgabe-nach-datenart-differenziert)
     - [Personenbezogene Daten](#personenbezogene-daten)
-    - [Öffentliche Daten](#öffentliche-daten)
-    - [Urheberrechtlich geschützte Daten](#urheberrechtlich-geschützte-daten)
+    - [Öffentliche Daten](#oeffentliche-daten)
+    - [Urheberrechtlich geschützte Daten](#urheberrechtlich-geschuetzte-daten)
     - [Nutzungsdaten](#nutzungsdaten)
-  - [Erweiterung D: Ökologische Säule](#erweiterung-d-ökologische-säule)
+  - [Erweiterung D: Ökologische Säule](#erweiterung-d-oekologische-saeule)
     - [Mechanismen](#mechanismen)
-    - [Fusionsforschung: Substanzielle Komponente, keine alleinige Lösung](#fusionsforschung-substanzielle-komponente-keine-alleinige-lösung)
-    - [Pflicht zur Bereitstellung von Forschungskapazitäten](#pflicht-zur-bereitstellung-von-forschungskapazitäten)
-  - [Erweiterung E: Technologische Souveränität](#erweiterung-e-technologische-souveränität)
-    - [Mechanismen](#mechanismen-1)
+    - [Fusionsforschung: Substanzielle Komponente, keine alleinige Lösung](#fusionsforschung-substanzielle-komponente-keine-alleinige-loesung)
+    - [Pflicht zur Bereitstellung von Forschungskapazitäten](#pflicht-zur-bereitstellung-von-forschungskapazitaeten)
+  - [Erweiterung E: Technologische Souveränität](#erweiterung-e-technologische-souveraenitaet)
+    - [Mechanismen](#mechanismen-2)
   - [Realistische Risiken und Begrenzungen](#realistische-risiken-und-begrenzungen)
 - [Die Leitformel zum Schluss](#die-leitformel-zum-schluss)
 - [Hinweis zur Iteration](#hinweis-zur-iteration)
 
 ---
 
-
+<a id="die-produktivitaets-dividende"></a>
 ## Die Produktivitäts-Dividende
 
 *Arbeit entlasten. Wertschöpfung beteiligen. Zukunft finanzieren.*
@@ -81,6 +81,8 @@ Stand: 15. Mai 2026
 
 *Wer durch KI und Robotik massiv produktiver wird, gibt einen Teil dieses Produktivitätsgewinns an die Gesellschaft zurück, die ihn erst möglich gemacht hat.*
 
+
+<a id="die-leitidee-produktivitaets-dividende"></a>
 ## Die Leitidee: Produktivitäts-Dividende
 
 Deutschland steht vor einem doppelten Wandel: Die Bevölkerung schrumpft, gleichzeitig verändert eine technologische Welle aus KI, Robotik und Automatisierung die Wirtschaft. Beide Bewegungen scheinen zunächst Probleme zu sein. Sie können aber zur Lösung füreinander werden – wenn wir aktiv gestalten.
@@ -99,6 +101,8 @@ Die drei Leitsätze, die das Konzept strukturieren:
 
 Wenn mit weniger Menschen mehr Wertschöpfung möglich wird, kann der Wohlstand stabil bleiben. Aber das funktioniert nur unter drei Bedingungen: Die neue Wertschöpfung wird breiter geteilt. Menschen werden befähigt, in der neuen Arbeitswelt produktiv zu sein. Die ökologischen Voraussetzungen werden gesichert.
 
+
+<a id="ausgangslage"></a>
 ## Ausgangslage
 
 Die Geburtenrate liegt deutlich unter dem Bestandserhaltungsniveau. Das Verhältnis von Erwerbstätigen zu Rentnern verschlechtert sich, die gesetzliche Rente steht unter Druck. Der Arbeitsmarkt zeigt gleichzeitig Arbeitslosigkeit und Fachkräftemangel. Das Problem ist nicht nur die Menge an Arbeitskräften, sondern Qualifikation, regionale Passung und Sprache.
@@ -109,8 +113,12 @@ Die zentrale Einsicht: Schrumpfung der Erwerbsbevölkerung und Automatisierungsp
 
 Was anderswo als Bedrohung erscheint – Massenarbeitslosigkeit durch Automatisierung – kann hier zur Lösung des demografischen Problems werden. Was anderswo als Verlust erscheint – schrumpfende Bevölkerung – macht den Übergang in die Automatisierungsökonomie sozial verträglich. Diese Synchronisation funktioniert nur mit aktiver Gestaltung.
 
+
+<a id="teil-i"></a>
 ## TEIL I
 
+
+<a id="kernpaket"></a>
 ### Kernpaket
 
 *Vier Bausteine, die zusammen umgesetzt werden müssen, um die akute demografische Herausforderung zu bewältigen.*
@@ -119,10 +127,14 @@ Das Kernpaket besteht aus vier Bausteinen, die eng miteinander verzahnt sind: We
 
 Was nicht im Kernpaket steht, kann später kommen. Das Ausbaupaket in Teil II beschreibt strategische Erweiterungen, die schrittweise verfolgt werden können, ohne dass das Kernpaket scheitert, wenn sie politisch nicht durchsetzbar sind.
 
+
+<a id="baustein-1-wertschoepfungsabgabe"></a>
 ### Baustein 1: Wertschöpfungsabgabe
 
 Die Wertschöpfungsabgabe – die Produktivitäts-Dividende der Gesellschaft – ist eine Abgabe auf die gesamte unternehmerische Wertschöpfung in Deutschland, unabhängig davon, ob diese durch Menschen, Maschinen, KI oder Roboter erzeugt wird. Sie ersetzt teilweise die heutigen Lohnnebenkosten und verbreitert die Finanzierungsbasis des Sozialstaats.
 
+
+<a id="juristische-konstruktion-sozialbeitrag-nicht-steuer"></a>
 #### Juristische Konstruktion: Sozialbeitrag, nicht Steuer
 
 Die Wertschöpfungsabgabe ist juristisch als zweckgebundener Sozialbeitrag konstruiert, nicht als allgemeine Steuer. Diese Abgrenzung ist nicht nur kommunikativ, sondern strukturell wichtig – sie schützt das Konzept vor der größten juristischen Gefahr, der Einstufung als unzulässige Zweit-Mehrwertsteuer durch den EuGH.
@@ -141,10 +153,14 @@ Fünf konkrete Abgrenzungselemente sichern diese Konstruktion:
 
 Ergänzend wird vor der vollen Einführung eine Konsultation mit der Europäischen Kommission angestrebt. Eine deutsche Wertschöpfungsabgabe wird von Anfang an als Bestandteil einer europäischen Initiative positioniert, was die Wahrscheinlichkeit wohlwollender Prüfung erhöht.
 
+
+<a id="bemessungsgrundlage"></a>
 #### Bemessungsgrundlage
 
 Die Bemessungsgrundlage ist Umsatz minus Vorleistungen. Diese Größe ist aus der Mehrwertsteuer bekannt und über jede Buchhaltungssoftware automatisch berechenbar. Konzerninterne Vorleistungen werden eingeschränkt anerkannt, um Verschiebungsmechanismen zu begrenzen.
 
+
+<a id="investitionssicherung-sofortabschreibung-produktiver-investitionen"></a>
 #### Investitionssicherung: Sofortabschreibung produktiver Investitionen
 
 Eine zentrale Sorge bei jeder Wertschöpfungsabgabe ist das Investitions-Dilemma: Würden wir genau das besteuern, was wir fördern wollen, nämlich Investitionen in die Produktivität? Die Antwort des Konzepts ist konsequent und entscheidend: nein.
@@ -167,6 +183,8 @@ Eine Schutzregel verhindert Missbrauch: Investitionen müssen mindestens 3 Jahre
 
 Diese Konstruktion dreht das Narrativ um: Wir besteuern nicht Investitionen, sondern den dauerhaften Wertschöpfungsstrom, der aus ihnen entsteht. Wer investiert, wird kurzfristig entlastet. Wer dauerhaft profitiert, gibt einen Teil zurück.
 
+
+<a id="linear-progressiver-tarif-fuer-phase-1"></a>
 #### Linear-progressiver Tarif für Phase 1
 
 Für die Einführungsphase 2028 bis 2035 gilt ein linear-progressiver Tarif statt einer stufigen Architektur. Das hat drei Vorteile: Es vermeidet harte Schwellen, an denen Aufspaltung lohnen würde. Es ist juristisch sauberer, weil die Steigerung kontinuierlich begründbar ist. Es ist administrativ einfacher – Buchhaltungssoftware kann die Abgabe mit einer Formel berechnen.
@@ -183,6 +201,8 @@ Die Spitzenstufe wurde gegenüber früheren Iterationen bewusst auf 4,5 statt 5 
 
 Eine konzernweite Betrachtung verhindert die Aufspaltung in Kleinsteinheiten. Bei Tochterunternehmen wird Substanz geprüft. In Phase 2 kann bei Bedarf eine differenziertere Stufung erfolgen.
 
+
+<a id="marktwirkungs-komponente-plattformen-erfassen"></a>
 #### Marktwirkungs-Komponente: Plattformen erfassen
 
 Eine zentrale Schwäche eines reinen Wertschöpfungstarifs ist, dass Plattformen mit geringer nomineller Wertschöpfung in Deutschland trotz erheblicher Marktwirkung wenig beitragen würden. Die Marktwirkungs-Komponente schließt diese Lücke bereits im Kernpaket.
@@ -197,12 +217,16 @@ Unternehmen fallen alternativ in die Spitzenstufe (über 50 Millionen Euro), wen
 
 Es greift jeweils die höhere Bemessungsgrundlage. Damit kann sich keine Plattform durch geschickte Strukturierung in eine niedrigere Stufe schummeln. Die Logik ist analog zur OECD-Mindeststeuer Pillar Two.
 
+
+<a id="teil-ersatz-heutiger-lohnnebenkosten"></a>
 #### Teil-Ersatz heutiger Lohnnebenkosten
 
 Mit der Einführung der Wertschöpfungsabgabe werden die Arbeitgeberanteile zur Renten-, Pflege- und Arbeitslosenversicherung schrittweise abgesenkt. Beschäftigungsintensive Unternehmen werden dadurch entlastet. Hochautomatisierte Unternehmen tragen erstmals substanziell zur Sozialfinanzierung bei.
 
 Dieser Ersatz ist das Herzstück der sozialen Erzählung: Wir entlasten Arbeit und beteiligen Wertschöpfung. Es ist eine Umschichtung, keine Zusatzsteuer. Die Kalibrierung erfolgt so, dass die durchschnittliche Belastung der Wirtschaft als Ganzes etwa neutral bleibt.
 
+
+<a id="inflationsschutz-kalibrierung-und-preismonitoring"></a>
 #### Inflationsschutz: Kalibrierung und Preismonitoring
 
 Eine Wertschöpfungsabgabe kann theoretisch zur Preiserhöhung führen, wenn Unternehmen die Belastung überwälzen. Drei Mechanismen begrenzen dieses Risiko:
@@ -215,10 +239,14 @@ Drittens die kompensierende Wirkung der Lohnnebenkostensenkung. Da die meisten U
 
 Eine ehrliche Aussage gehört zur Wahrheit: Plattformen und hochautomatisierte Großunternehmen mit Marktmacht werden eher überwälzen können als Unternehmen im Wettbewerb. Eine gewisse Preiserhöhung in spezifischen Bereichen (digitale Dienste, Plattform-Vermittlung) wird eintreten. Das ist nicht das Problem, sondern Teil der Lösung: Plattformen, die heute exzessive Margen erzielen, geben einen Teil davon an die Gesellschaft zurück.
 
+
+<a id="drei-beispiele-wie-das-system-konkret-wirkt"></a>
 #### Drei Beispiele: Wie das System konkret wirkt
 
 Zahlen sagen mehr als Prinzipien. Die folgenden drei Beispiele zeigen, wie das Kernpaket auf typische Unternehmen wirken würde. Die Zahlen sind illustrativ und zeigen die Wirkungsrichtung, nicht die exakte Höhe.
 
+
+<a id="beispiel-1-friseursalon-mit-drei-beschaeftigten"></a>
 ##### Beispiel 1: Friseursalon mit drei Beschäftigten
 
 - Jahresumsatz: 250.000 Euro
@@ -235,6 +263,8 @@ Nach der Reform: Die Wertschöpfungsabgabe nach dem linear-progressiven Tarif (d
 
 Nettoeffekt: Entlastung um etwa 2.600 Euro pro Jahr. Der Friseursalon gehört zu den klaren Gewinnern der Reform.
 
+
+<a id="beispiel-2-mittelstaendischer-maschinenbauer-mit-80-beschaeftigten"></a>
 ##### Beispiel 2: Mittelständischer Maschinenbauer mit 80 Beschäftigten
 
 - Jahresumsatz: 20 Millionen Euro
@@ -253,6 +283,8 @@ Nach der Reform: Die Wertschöpfungsabgabe nach linear-progressivem Tarif auf 8 
 
 Nettoeffekt: Entlastung um etwa 35.000 Euro pro Jahr. Der Maschinenbauer ist Profiteur der Reform – seine produktiven Investitionen werden voll honoriert, seine Beschäftigung wird entlastet.
 
+
+<a id="beispiel-3-digitale-plattform-mit-30-beschaeftigten-und-5-millionen-nutzern-in-deutschland"></a>
 ##### Beispiel 3: Digitale Plattform mit 30 Beschäftigten und 5 Millionen Nutzern in Deutschland
 
 - Jahresumsatz aus Vermittlung: 100 Millionen Euro
@@ -269,16 +301,22 @@ Nach der Reform: Die Plattform fällt durch die Marktwirkungs-Komponente in die 
 
 Nettoeffekt: Mehrbelastung um etwa 1,15 Millionen Euro pro Jahr, mit Potenzial nach oben durch das Ausbaupaket.
 
+
+<a id="was-die-beispiele-zeigen"></a>
 #### Was die Beispiele zeigen
 
 Die Beispiele verdeutlichen die innere Logik. Beschäftigungsintensive Kleinbetriebe werden klar entlastet. Klassische produzierende Mittelständler werden ebenfalls entlastet, insbesondere durch die Sofortabschreibung der Produktivitäts-Investitionen. Plattformen mit niedriger nomineller Wertschöpfung und hoher Marktwirkung tragen substanziell mehr – und das ist der eigentliche Zweck.
 
 Die Verteilungswirkung ist zielgerichtet: Sie entlastet die, die viele Menschen beschäftigen, und beteiligt die, die mit wenigen Beschäftigten viel Wertschöpfung erzeugen.
 
+
+<a id="baustein-2-pflichtversicherung-fuer-alle-erwerbstaetigen"></a>
 ### Baustein 2: Pflichtversicherung für alle Erwerbstätigen
 
 Parallel zur Wertschöpfungsabgabe wird die Rentenversicherung auf alle Erwerbstätigen ausgeweitet. Wer arbeitet, ist versichert – und erwirbt einen entsprechenden Rentenanspruch.
 
+
+<a id="wer-ist-erfasst"></a>
 #### Wer ist erfasst
 
 Die Pflichtversicherung gilt ab dem ersten Euro Erwerbseinkommen, mit gestaffelten Mindestbeiträgen. Erfasst sind:
@@ -295,24 +333,34 @@ Die Pflichtversicherung gilt ab dem ersten Euro Erwerbseinkommen, mit gestaffelt
 
 Ehrenamtliche mit Aufwandsentschädigungen unterhalb einer Bagatellgrenze bleiben außen vor.
 
+
+<a id="vereinheitlichung-der-sondersysteme"></a>
 #### Vereinheitlichung der Sondersysteme
 
 Die Sondersysteme – Beamtenpension, berufsständische Versorgungswerke, Alterskasse für Landwirte – werden langfristig in das Hauptsystem überführt. Bestehende Ansprüche bleiben erhalten. Ab einem Stichtag werden neue Berufseintritte ins Einheitssystem aufgenommen. Die Sondersysteme laufen über 30 bis 40 Jahre aus.
 
+
+<a id="uebergangsfristen"></a>
 #### Übergangsfristen
 
 Für Branchen mit hohem Minijob-Anteil (Gastronomie, Einzelhandel, Reinigung) gibt es Übergangsfristen von 3 bis 5 Jahren. Die parallele Entlastung durch den Lohnnebenkostenersatz aus Baustein 1 federt den Mehraufwand ab.
 
+
+<a id="baustein-3-bildungs-und-uebergangsoffensive"></a>
 ### Baustein 3: Bildungs- und Übergangsoffensive
 
 Bildung ist nicht nur Themenfeld, sondern Voraussetzung der gesamten Transformation. Sie ermöglicht es Menschen, mit KI und Robotik produktiv zu arbeiten, und befähigt diejenigen, deren bisherige Tätigkeit wegfällt, in neue Beschäftigung zu wechseln.
 
+
+<a id="bildung-in-schulen"></a>
 #### Bildung in Schulen
 
 KI entlastet Lehrkräfte: differenzierte Aufgaben, Fördermaterial, einfache Sprache, Fehlerdiagnosen, Unterrichtsplanung. Die Lehrkraft bleibt pädagogisch verantwortlich. KI übernimmt Routine, damit mehr Zeit für Beziehung, Erklärung und individuelle Begleitung bleibt.
 
 Lehrkräfte müssen selbst KI-kompetent werden. Eine umfassende Fortbildung beginnt sofort, lange bevor die Wertschöpfungsabgabe ihre volle Wirkung entfaltet.
 
+
+<a id="transfer-garantie-das-sicherheitsnetz-gegen-die-geschwindigkeits-luecke"></a>
 #### Transfer-Garantie: Das Sicherheitsnetz gegen die Geschwindigkeits-Lücke
 
 Eine ernste Sorge ist die Geschwindigkeits-Lücke: Was, wenn KI-Entwicklung exponentiell verläuft, die bürokratische Umsetzung von Bildungsprogrammen aber nur linear? Menschen könnten zwischen den Stühlen sitzen – die alten Jobs sind weg, die neuen erfordern Qualifikationen, die noch erworben werden müssen.
@@ -331,6 +379,8 @@ Die Antwort des Konzepts ist die Transfer-Garantie als einklagbarer Anspruch:
 
 Für Menschen, bei denen die Anpassung strukturell nicht mehr möglich ist – etwa ältere Beschäftigte über 55 mit langjähriger einseitiger Berufserfahrung – gibt es einen würdigen Übergang: vorgezogene Rente ohne Abschläge bei nachweisbarer struktureller Nicht-Vermittelbarkeit.
 
+
+<a id="aktive-beschaeftigungsfoerderung-mit-green-skills-bonus"></a>
 #### Aktive Beschäftigungsförderung mit Green-Skills-Bonus
 
 Zwei Instrumente belohnen Beschäftigung direkt. Beide sind so konzipiert, dass sie zugleich ökologische Wirkung entfalten.
@@ -345,12 +395,16 @@ Als zukunftsrelevant gelten: effizienter KI-Einsatz, Green Skills (energieeffizi
 
 Zweitens der gestaffelte Übernahmebonus für Absolventen von Umschulungsprogrammen. Lohnkostenzuschuss von 50 Prozent im ersten Jahr, 30 Prozent im zweiten, 15 Prozent im dritten. Für Umgeschulte über 50 Jahren erhöhen sich die Sätze um weitere 25 Prozentpunkte.
 
+
+<a id="baustein-4-brueckenfinanzierung-mit-regionalem-schutzschirm"></a>
 ### Baustein 4: Brückenfinanzierung mit regionalem Schutzschirm
 
 Die Demografie diktiert das Tempo. Die geburtenstarken Jahrgänge verlassen den Arbeitsmarkt zwischen 2025 und 2035. Die Wertschöpfungsabgabe wird ihre volle Wirkung erst ab etwa 2030 entfalten. Zwischen diesen Zeitpunkten klafft eine Finanzierungslücke, die durch die Brückenfinanzierung gedeckt wird.
 
 Zusätzlich enthält die Brückenfinanzierung einen regionalen Schutzschirm – den Transformationsfonds mit integriertem Rapid Response Fund. Dieser Schutzschirm ist nicht Anhängsel des Konzepts, sondern konstitutives Element. Die schöne Theorie der demografisch-technologischen Synchronisation funktioniert nur auf der Gesamtebene. Regional können Schrumpfung und Automatisierungsdruck mit unterschiedlicher Stärke und unterschiedlichem Timing zusammenfallen.
 
+
+<a id="drei-mechanismen-fuer-die-geteilte-last"></a>
 #### Drei Mechanismen für die geteilte Last
 
 Die Brückenfinanzierung verteilt sich auf drei Säulen, jeweils zu etwa einem Drittel:
@@ -363,6 +417,8 @@ Die Brückenfinanzierung verteilt sich auf drei Säulen, jeweils zu etwa einem D
 
 Etwa 20 Prozent der Brückenfinanzierungs-Mittel fließen von Anfang an gezielt in den Transformationsfonds für regionale Strukturpolitik. Dieser Anteil ist nicht verhandelbar – er sichert die soziale Stabilität, die das Gesamtkonzept trägt.
 
+
+<a id="transformationsfonds-strukturelle-regionale-foerderung"></a>
 #### Transformationsfonds: Strukturelle regionale Förderung
 
 Der Transformationsfonds verteilt seine Mittel nach Indikatoren des Transformationsdrucks: automatisierungsgefährdete Arbeitsplätze, demografische Entwicklung, Wirtschaftsstruktur, Arbeitslosigkeit. Diese Indikatoren werden früh transparent gemacht, damit Regionen Planungssicherheit haben.
@@ -371,6 +427,8 @@ Verwendung der Mittel: Investitionen in regionale Bildungsinfrastruktur, Struktu
 
 Vorbild: Just Transition Fund der EU, kombiniert mit dem Strukturstärkungsgesetz für Kohleregionen.
 
+
+<a id="rapid-response-fund-sofort-mechanismus-fuer-haertefaelle"></a>
 #### Rapid Response Fund: Sofort-Mechanismus für Härtefälle
 
 Automatisierung folgt nicht immer einem linearen Pfad. Es gibt Sprungereignisse: Ein Konzern entscheidet kurzfristig, ein Werk zu schließen, weil die KI-Integration schneller funktioniert als geplant. Eine Versicherung lagert ihre Sachbearbeitung über Nacht aus. Ein Logistikunternehmen führt autonome Systeme schneller ein als angekündigt.
@@ -389,6 +447,8 @@ Vorbild: Der europäische Globalisierungsfonds (EGF) und ähnliche Mechanismen f
 
 Der Rapid Response Fund ist nicht nur sozialpolitisch wichtig, sondern politisch entscheidend: Eine Region, die spürt, dass die Politik im Krisenfall sofort reagieren kann, wird das Gesamtkonzept anders bewerten als eine, die sich allein gelassen fühlt.
 
+
+<a id="drei-phasen-der-umsetzung"></a>
 ### Drei Phasen der Umsetzung
 
 Phase 1, akute Übergangsphase 2026 bis 2035: Sofortige Bildungsoffensive und Aufbau der digitalen Infrastruktur. Ab 2027 Beginn der Umschulungsprogramme. Ab 2028 reduzierte Wertschöpfungsabgabe (halber Satz). Ab 2030 voller Satz. Pflichtversicherung wird ab 2028 schrittweise eingeführt. Transformationsfonds und Rapid Response Fund sind ab 2028 funktionsfähig.
@@ -397,12 +457,16 @@ Phase 2, Stabilisierung 2035 bis 2045: Die Boomer-Welle ist durch. Die Wertschö
 
 Phase 3, eingeschwungenes System ab 2045: Die Reform ist Routine. Lohnnebenkosten sind dauerhaft niedriger. Die Pflichtversicherung für alle ist Realität. Migration ist gezielte Ergänzung.
 
+
+<a id="erfolgsmassstaebe-kpis-fuer-das-kernpaket"></a>
 ### Erfolgsmaßstäbe: KPIs für das Kernpaket
 
 Das Konzept braucht klare, messbare Meilensteine. Ohne sie wird die Evaluierung zur politischen Selbstbestätigung. Mit ihnen wird Erfolg überprüfbar – und Verfehlung sichtbar.
 
 Alle KPIs werden jährlich öffentlich berichtet, nicht erst zur 5-Jahres-Evaluierung.
 
+
+<a id="kpis-fuer-die-wertschoepfungsabgabe"></a>
 #### KPIs für die Wertschöpfungsabgabe
 
 - Senkung der Arbeitgeberanteile zur Sozialversicherung um mindestens 20 Prozent bis 2032
@@ -413,6 +477,8 @@ Alle KPIs werden jährlich öffentlich berichtet, nicht erst zur 5-Jahres-Evalui
 
 - Preismonitoring: Inflationseffekt in den ersten drei Jahren maximal 0,5 Prozentpunkte über Vergleichsszenario
 
+
+<a id="kpis-fuer-die-pflichtversicherung"></a>
 #### KPIs für die Pflichtversicherung
 
 - Erfassung von mindestens 95 Prozent aller Erwerbstätigen bis 2032
@@ -421,6 +487,8 @@ Alle KPIs werden jährlich öffentlich berichtet, nicht erst zur 5-Jahres-Evalui
 
 - Vollständige Erfassung neuer Berufseintritte ins Einheitssystem ab Stichtag 2030
 
+
+<a id="kpis-fuer-die-bildungs-und-uebergangsoffensive"></a>
 #### KPIs für die Bildungs- und Übergangsoffensive
 
 - Mindest-Umschulungsquote: 80 Prozent der durch Automatisierung freigesetzten Arbeitskräfte werden in Programme aufgenommen
@@ -431,6 +499,8 @@ Alle KPIs werden jährlich öffentlich berichtet, nicht erst zur 5-Jahres-Evalui
 
 - Transfer-Garantie eingehalten in mindestens 95 Prozent der Fälle
 
+
+<a id="kpis-fuer-die-brueckenfinanzierung"></a>
 #### KPIs für die Brückenfinanzierung
 
 - Drittel-Aufteilung der Last: keine Säule trägt mehr als 40 Prozent
@@ -441,18 +511,26 @@ Alle KPIs werden jährlich öffentlich berichtet, nicht erst zur 5-Jahres-Evalui
 
 - Rapid Response Fund: Mittelzusage innerhalb von 30 Tagen bei allen ausgelösten Härtefällen
 
+
+<a id="konsequenzen-aus-verfehlten-kpis"></a>
 #### Konsequenzen aus verfehlten KPIs
 
 Werden zentrale KPIs verfehlt, greift ein Nachjustierungsmechanismus. Eine unabhängige Reformkommission – paritätisch besetzt aus Wissenschaft, Wirtschaft, Gewerkschaften und Politik – bewertet die Ursachen und schlägt Korrekturen vor. Diese Korrekturen werden in einem beschleunigten Verfahren entschieden.
 
+
+<a id="teil-ii"></a>
 ## TEIL II
 
+
+<a id="ausbaupaket"></a>
 ### Ausbaupaket
 
 *Strategische Erweiterungen, die schrittweise verfolgt werden können.*
 
 Die folgenden Elemente sind wichtige Erweiterungen des Konzepts. Sie stärken seine Wirkung, schärfen seine Lenkungseffekte und adressieren längerfristige Fragen. Jedes Element kann separat verhandelt und umgesetzt werden.
 
+
+<a id="erweiterung-a-automatisierungszuschlag-pilotphase"></a>
 ### Erweiterung A: Automatisierungszuschlag (Pilotphase)
 
 Der Automatisierungszuschlag adressiert direkt das demografische Problem: Wenn ein Unternehmen mit weniger Beschäftigten denselben oder höheren Output erzeugt, fließt weniger in die umlagefinanzierten Sozialsysteme. Der Zuschlag gleicht das aus.
@@ -469,6 +547,8 @@ Statt das System sofort flächendeckend einzuführen, beginnt der Automatisierun
 
 Die Pilotphase läuft 3 bis 5 Jahre mit klarer Evaluierung. Erst nach erfolgreicher Pilotphase entscheidet die Politik über die Ausweitung.
 
+
+<a id="erweiterung-b-vorleistungs-differenzierung-zielbild"></a>
 ### Erweiterung B: Vorleistungs-Differenzierung (Zielbild)
 
 Die Vorleistungs-Differenzierung ist ein langfristiges Zielbild, kein sofortiges Instrument. Sie würde Vorleistungen aus Ländern mit vergleichbarer sozialer Wertschöpfungsfinanzierung voll anerkennen und Vorleistungen aus anderen Ländern nur teilweise. Sie ist nur europäisch sinnvoll umsetzbar.
@@ -479,32 +559,46 @@ Die Vorleistungs-Differenzierung ist ein langfristiges Zielbild, kein sofortiges
 
 - Stufe 3 (langfristig): Voll ausgeprägte Differenzierung auf EU-Ebene koordiniert
 
+
+<a id="erweiterung-c-datenabgabe-nach-datenart-differenziert"></a>
 ### Erweiterung C: Datenabgabe nach Datenart differenziert
 
 Daten sind ein zentraler Rohstoff der modernen Wertschöpfung. Sie sollten nicht einheitlich behandelt werden, sondern nach ihrer Art differenziert. Vier Kategorien:
 
+
+<a id="personenbezogene-daten"></a>
 #### Personenbezogene Daten
 
 Diese unterliegen dem Datenschutzrecht (DSGVO) und sind hoch geschützt. Eine zusätzliche Abgabe wäre konzeptionell schwierig. Das bestehende Schutzregime wird gestärkt. Deutsche Nutzerdaten müssen unter europäischer Jurisdiktion verarbeitet werden.
 
+
+<a id="oeffentliche-daten"></a>
 #### Öffentliche Daten
 
 Statistiken, Wetter, Geodaten, Verkehrsdaten gehören dem Gemeinwesen. Freie Nutzung für gemeinwohlorientierte Zwecke, Lizenzgebühr für kommerzielle Verwertung.
 
+
+<a id="urheberrechtlich-geschuetzte-daten"></a>
 #### Urheberrechtlich geschützte Daten
 
 Texte, Bilder, Musik, Code unterliegen dem Urheberrecht. Die zentrale Frage ist das Training kommerzieller KI-Modelle. Lizenzregelung mit kollektiver Verwertung (analog zur GEMA). Einnahmen fließen in einen Fonds zur Entschädigung von Urhebern und zur Stärkung der digitalen Allgemeinheit.
 
 Nicht-kommerzielle Forschung und vollständig offene Modelle sind befreit. Das Prinzip: Wer mit den Werken Gewinn erzielt, zahlt. Wer sie für Gemeinwohl nutzt, nicht.
 
+
+<a id="nutzungsdaten"></a>
 #### Nutzungsdaten
 
 Verhalten auf Plattformen, Interaktionsmuster, aggregierte Verhaltensdaten sind heute die wichtigste kommerzielle Wertquelle. Plattform-Datenabgabe auf Basis der Zahl deutscher Nutzer und des Datenvolumens. Befreit sind nicht-kommerzielle Alternativen.
 
+
+<a id="erweiterung-d-oekologische-saeule"></a>
 ### Erweiterung D: Ökologische Säule
 
 KI und Robotik haben einen erheblichen ökologischen Fußabdruck (Strom, Wasser, seltene Rohstoffe). Wenn das Konzept auf Automatisierung setzt, muss die ökologische Tragfähigkeit gesichert werden.
 
+
+<a id="mechanismen"></a>
 #### Mechanismen
 
 Ein ökologischer Korrekturfaktor in der Wertschöpfungsabgabe begünstigt ressourceneffiziente Unternehmen. Bemessung anhand von CO2-Emissionen, Energie- und Wasserverbrauch pro Wertschöpfungseinheit.
@@ -513,6 +607,8 @@ Rechenzentren in Deutschland werden verpflichtet, ihren Strombedarf zu 100 Proze
 
 Industrieautomatisierung wird mit Ressourceneffizienz- und Kreislaufwirtschafts-Standards verknüpft. Lokale KI wird gegenüber großer Cloud-KI gefördert.
 
+
+<a id="fusionsforschung-substanzielle-komponente-keine-alleinige-loesung"></a>
 #### Fusionsforschung: Substanzielle Komponente, keine alleinige Lösung
 
 Die Energiewende beruht auf erneuerbaren Energien, Effizienzgewinnen und Sektorkopplung – Technologien, die heute funktionieren. Das ist die tragende Säule, und sie bleibt es.
@@ -525,18 +621,24 @@ Wichtig ist die Einordnung: Fusion ist nicht alternative Lösung zur Energiewend
 
 Die KI-Forschungspflicht (siehe unten) sieht Fusion explizit als prioritären Forschungsbereich vor – neben Klimaforschung, Materialforschung und Medizin. Damit erhält die Plasmaphysik konkrete Unterstützung durch Rechenkapazität.
 
+
+<a id="pflicht-zur-bereitstellung-von-forschungskapazitaeten"></a>
 #### Pflicht zur Bereitstellung von Forschungskapazitäten
 
 Kommerzielle KI-Anbieter ab einer Mindestgröße werden verpflichtet, einen definierten Anteil ihrer Rechenkapazität (etwa 2 bis 5 Prozent) für öffentliche Forschung kostenfrei zur Verfügung zu stellen.
 
 Prioritäre Forschungsbereiche: Klimaforschung, Materialforschung, Medizin, nachhaltige Energietechnologien und Fusionsforschung. Die Verteilung erfolgt über eine öffentliche Stelle nach wissenschaftlichen Kriterien. Die Pflicht kann durch tatsächliche Bereitstellung oder durch eine Ablösezahlung erfüllt werden.
 
+
+<a id="erweiterung-e-technologische-souveraenitaet"></a>
 ### Erweiterung E: Technologische Souveränität
 
 Das Konzept setzt voraus, dass KI und Robotik in Deutschland Wertschöpfung erzeugen. Das funktioniert nur in begrenztem Maß, wenn die kritische Infrastruktur in fremder Hand ist.
 
 Eine ehrliche Bilanz: Wir werden die USA und China nicht in 10 oder 15 Jahren einholen. Das Ziel ist strategische Autonomie – ein Maß an Unabhängigkeit, das uns vor extremer Erpressbarkeit schützt. Realistisch wäre: 2040 sollten 30 bis 40 Prozent der in Deutschland genutzten KI- und Cloud-Infrastruktur aus europäischer Quelle stammen.
 
+
+<a id="mechanismen-2"></a>
 #### Mechanismen
 
 Zweckgebundene Investitionen aus der Wertschöpfungsabgabe (etwa 10 bis 15 Prozent der Einnahmen) fließen in europäische KI- und Robotik-Infrastruktur.
@@ -545,6 +647,8 @@ Strategische Beschaffung verpflichtet öffentliche Verwaltung, Bildung und syste
 
 Eine pragmatische Datenstrategie reformiert die deutsche Umsetzung des EU-Datenschutzrechts: strenger Schutz personenbezogener Daten, breitere Verfügbarkeit anonymisierter Daten für europäische KI-Entwicklung.
 
+
+<a id="realistische-risiken-und-begrenzungen"></a>
 ### Realistische Risiken und Begrenzungen
 
 Das Konzept ist ambitioniert. Mehrere Risiken sind ernst zu nehmen:
@@ -563,6 +667,8 @@ Umgehung wird nie vollständig verhindert. Realistisch wird das System 70 bis 85
 
 Geschwindigkeits-Lücke: Die Transfer-Garantie ist die direkte Antwort. Sie kann nicht jede einzelne Härte vermeiden, aber sie sichert das Sicherheitsnetz.
 
+
+<a id="die-leitformel-zum-schluss"></a>
 ## Die Leitformel zum Schluss
 
 Die zentrale Frage des Konzepts lautet nicht mehr „Wie viele Beitragszahler kommen auf einen Rentner?“
@@ -585,6 +691,8 @@ Das Zeitfenster ist eng. Die Demografie diktiert das Tempo. Wer wartet, verliert
 
 Wer durch KI und Robotik massiv produktiver wird, gibt einen Teil dieses Produktivitätsgewinns an die Gesellschaft zurück, die ihn erst möglich gemacht hat. Das ist die Produktivitäts-Dividende – und sie ist gerecht.
 
+
+<a id="hinweis-zur-iteration"></a>
 ## Hinweis zur Iteration
 
 Dieses Dokument ist die vierte Iteration der gemeinsamen Diskussion. Es führt den Leitbegriff der Produktivitäts-Dividende ein, adressiert juristische, ökonomische und soziale Risiken proaktiv und schärft die Mechanismen des Kernpakets.
