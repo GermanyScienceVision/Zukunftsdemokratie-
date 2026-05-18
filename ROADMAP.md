@@ -3,7 +3,7 @@
 **Projekt:** Zukunftsdemokratie  
 **Status:** Strukturierte Arbeitsfassung  
 **Version:** v0.1.0  
-**Stand:** Mai 2026  
+**Stand:** Mai 2026
 
 ---
 
@@ -14,6 +14,8 @@ Diese Roadmap beschreibt die geplante Entwicklung des Projekts **Zukunftsdemokra
 Sie dient nicht als politischer Kampagnenplan, sondern als Arbeits- und Entwicklungsplan für ein versioniertes Reformmodell.
 
 Ziel ist es, die vorhandenen Inhalte schrittweise in eine nachvollziehbare, prüfbare und diskussionsfähige Repository-Struktur zu überführen.
+
+Die Regeln zur Projektpflege sind in [GOVERNANCE.md](GOVERNANCE.md) beschrieben. Der inhaltliche Geltungsbereich ist in [ABGRENZUNG.md](ABGRENZUNG.md) definiert.
 
 Das Leitprinzip lautet:
 
@@ -54,8 +56,12 @@ Die Grundstruktur des Projekts wird sichtbar gemacht.
 
 - README überarbeiten
 - Kurzfassung erstellen
+- Abgrenzung und Geltungsbereich überarbeiten
+- Governance und Verhaltenskodex überarbeiten
+- Themenfelder und offene Fragen ordnen
+- Feedback-Template anlegen
 - Ordnerstruktur anlegen
-- Kapiteldateien als strukturierte Platzhalter anlegen
+- Kapitelstruktur anlegen und Inhalte ablegen
 - Modulordner anlegen
 - Anlagenordner anlegen
 - Diskussionsordner anlegen
@@ -65,24 +71,25 @@ Die Grundstruktur des Projekts wird sichtbar gemacht.
 
 ---
 
-### v0.2.0 – Vollständige Übertragung der Kapitel
+### v0.2.0 – Vollständige Übertragung und Konsistenzprüfung
 
 **Ziel:**  
-Die vorhandenen Kapitel werden vollständig in die neue Repository-Struktur übertragen.
+Die vorhandenen Kapitel werden vollständig geprüft und konsistent in die Repository-Struktur eingebettet.
 
 **Inhalt:**
 
-- Kapitel 1 vollständig übertragen
-- Kapitel 2 vollständig übertragen
-- Kapitel 3 vollständig übertragen
-- Kapitel 4 Teil 1 und Teil 2 zusammenführen
+- Kapitel 1 auf Konsistenz prüfen
+- Kapitel 2 auf Konsistenz prüfen
+- Kapitel 3 auf Konsistenz prüfen
+- Kapitel 4 auf Konsistenz prüfen
+- Modul Reziproke Solidarität auf Konsistenz prüfen
 - Kapitel 5 als Arbeitsfassung ergänzen
-- Modul Reziproke Solidarität vollständig übertragen
 - interne Links prüfen
 - einheitliche Kopfzeilen und Dokumentstatus sicherstellen
+- übergreifendes Glossar und Querverweise einführen
 
 **Ergebnis:**  
-Das Projekt liegt erstmals als vollständige strukturierte Arbeitsfassung im Repository vor.
+Das Projekt liegt erstmals als vollständige, konsistent geprüfte Arbeitsfassung im Repository vor.
 
 ---
 
@@ -219,11 +226,9 @@ Wichtiger sind:
 
 ## 7. Verantwortlichkeit
 
-Die offizielle Fassung dieses Repositorys wird über den GitHub-Account **GermanyScienceVision** gepflegt.
+Die offizielle Fassung dieses Repositorys wird über den GitHub-Account **GermanyScienceVision** gepflegt. Hintergrund und Anonymität der Projektleitung sind im [README](README.md#wer-hinter-dem-projekt-steht) beschrieben.
 
-Hinter dem Projekt steht nach aktuellem Stand keine Partei, keine parteinahe Organisation, kein Verband, keine Lobbyorganisation und keine Kampagne.
-
-Die Projektleitung entscheidet, welche Änderungen in die offizielle Fassung übernommen werden. Forks und alternative Bearbeitungen sind möglich, müssen aber als solche kenntlich gemacht werden.
+Die Projektleitung entscheidet, welche Änderungen in die offizielle Fassung übernommen werden. Forks und alternative Bearbeitungen sind möglich, müssen aber als solche kenntlich gemacht werden. Die Regeln dazu sind in [GOVERNANCE.md](GOVERNANCE.md) beschrieben.
 
 ---
 
