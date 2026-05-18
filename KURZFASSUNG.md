@@ -1,5 +1,11 @@
 # Kurzfassung: Zukunftsdemokratie
 
+**Status:** Strukturierte Arbeitsfassung  
+**Version:** v0.1.0  
+**Stand:** Mai 2026  
+
+---
+
 ## 1. Ausgangsfrage
 
 Zukunftsdemokratie geht von einer zentralen Frage aus:
@@ -8,118 +14,127 @@ Zukunftsdemokratie geht von einer zentralen Frage aus:
 
 Der demografische Wandel stellt Deutschland vor tiefgreifende Herausforderungen: weniger Erwerbstätige, steigende Anforderungen an Pflege und Gesundheit, wachsende Belastungen für soziale Sicherungssysteme, Fachkräftemangel, sinkende staatliche Handlungsfähigkeit und zunehmende Anforderungen an Bildung, Energieversorgung und Verwaltung.
 
-Gleichzeitig entstehen durch Digitalisierung, Automatisierung und Künstliche Intelligenz neue Möglichkeiten, Produktivität zu erhöhen, Wissen besser zu nutzen, Prozesse zu entlasten und staatliche sowie gesellschaftliche Strukturen widerstandsfähiger zu machen.
+Gleichzeitig entstehen durch Digitalisierung, Automatisierung, Künstliche Intelligenz und Robotik neue Möglichkeiten, Produktivität zu erhöhen, Wissen besser zu nutzen, Prozesse zu entlasten und staatliche sowie gesellschaftliche Strukturen widerstandsfähiger zu machen.
 
-Zukunftsdemokratie untersucht, wie diese Entwicklung demokratisch, wissenschaftsbasiert und gemeinwohlorientiert gestaltet werden kann.
+Die zentrale These lautet: Wenn Deutschland diese technologische Entwicklung nicht aktiv gestaltet, verschärft sie bestehende Krisen. Wenn sie jedoch demokratisch kontrolliert, wissenschaftlich geprüft und gemeinwohlorientiert eingesetzt wird, kann sie ein zentraler Teil der Lösung werden.
 
----
-
-## 2. Grundidee
-
-Zukunftsdemokratie ist ein unabhängiger Reformentwurf zur Modernisierung demokratischer Politik in Deutschland.
-
-Das Projekt verfolgt drei Grundziele:
-
-1. **Demokratie stärken**
-   
-   Demokratische Entscheidungen sollen besser vorbereitet, transparenter begründet und stärker an langfristigen Wirkungen orientiert werden.
-
-2. **Wissenschaftliche Grundlagen verbessern**
-   
-   Politische Entscheidungen sollen stärker auf überprüfbaren Daten, Forschung, Folgenabschätzung und lernenden Verfahren beruhen, ohne demokratische Verantwortung durch Expertokratie zu ersetzen.
-
-3. **Staatliche Handlungsfähigkeit erhöhen**
-   
-   Deutschland braucht leistungsfähigere Institutionen, bessere digitale Infrastruktur, schnellere Umsetzung und größere Resilienz gegenüber Krisen, Abhängigkeiten und demografischem Druck.
+Zur ausführlicheren konzeptionellen Grundlage siehe: [Grundidee](GRUNDIDEE.md)
 
 ---
 
-## 3. Zentrale Annahme
+## 2. Warum Einzelreformen nicht ausreichen
 
-Die digitale Revolution ist nicht nur ein technisches Ereignis. Sie verändert Arbeit, Bildung, Verwaltung, Pflege, Energie, Öffentlichkeit und politische Entscheidungsprozesse.
+Die großen Herausforderungen Deutschlands hängen miteinander zusammen.
 
-Wenn Deutschland diese Entwicklung nicht aktiv gestaltet, können bestehende Probleme größer werden:
+Der Sozialstaat steht unter Druck, weil weniger Erwerbstätige mehr Menschen tragen müssen. Gleichzeitig verändert Automatisierung die Grundlage wirtschaftlicher Wertschöpfung. Bildung entscheidet darüber, ob Menschen in dieser neuen Arbeitswelt handlungsfähig bleiben. Verwaltung entscheidet darüber, ob Reformen überhaupt umgesetzt werden können. Öffentliche Infrastruktur entscheidet darüber, ob Teilhabe, Wirtschaft und Versorgung funktionieren. Und Politik entscheidet darüber, ob diese Veränderungen lernfähig, glaubwürdig und demokratisch kontrolliert gestaltet werden.
 
-- Überforderung öffentlicher Verwaltung
-- wachsender Fachkräftemangel
-- steigende Belastung der Pflege
-- sinkende Innovationsfähigkeit
-- größere Abhängigkeit von ausländischen Technologien
-- Vertrauensverlust in politische Institutionen
-- soziale Spaltung durch ungleiche Teilhabe an Digitalisierung
+Deshalb reicht es nicht, einzelne Reformen nebeneinanderzustellen.
 
-Wenn Digitalisierung und KI jedoch demokratisch kontrolliert, wissenschaftlich geprüft und gemeinwohlorientiert eingesetzt werden, können sie Teil der Lösung werden.
+Eine Rentenreform ohne Produktivitätsstrategie bleibt unvollständig. Eine Digitalisierungsstrategie ohne Bildungspolitik bleibt oberflächlich. Eine Bildungsreform ohne moderne Verwaltung bleibt schwer umsetzbar. Eine Infrastrukturpolitik ohne demokratische Kontrolle bleibt anfällig für kurzfristige Marktlogik. Und eine wissenschaftliche Politikberatung ohne demokratische Legitimation wäre technokratisch.
+
+Zukunftsdemokratie versucht daher, diese Felder als zusammenhängende Reformarchitektur zu denken.
 
 ---
 
-## 4. Themenfelder
+## 3. Die Reformlogik
 
-Das Projekt betrachtet zunächst fünf zentrale Themenfelder:
+Das Projekt verbindet fünf zentrale Reformrichtungen.
 
-1. **Politik und Demokratie**
-   
-   Wie können demokratische Institutionen lernfähiger, transparenter und langfristiger handlungsfähig werden?
+### 1. Produktivität gesellschaftlich nutzbar machen
 
-2. **Künstliche Intelligenz und Digitalisierung**
-   
-   Wie können KI und digitale Systeme produktiv genutzt werden, ohne demokratische Kontrolle, Datenschutz und individuelle Freiheit zu gefährden?
+Die erste Frage lautet: Wie kann ein Sozialstaat finanziert werden, wenn ein wachsender Teil der Wertschöpfung durch KI, Robotik und Automatisierung entsteht?
 
-3. **Schule und Bildung**
-   
-   Wie muss Bildung verändert werden, damit Menschen in einer digitalen und alternden Gesellschaft selbstbestimmt, kompetent und produktiv handeln können?
+Die Produktivitäts-Dividende setzt genau hier an. Sie geht davon aus, dass Produktivitätsgewinne nicht im luftleeren Raum entstehen. Sie beruhen auf Bildung, Infrastruktur, Rechtssicherheit, Forschung, öffentlicher Ordnung und sozialem Frieden. Wenn Unternehmen durch KI und Robotik deutlich produktiver werden, soll ein Teil dieser zusätzlichen Wertschöpfung an die Gesellschaft zurückfließen.
 
-4. **Pflege und Gesundheit**
-   
-   Wie kann der demografische Druck im Gesundheits- und Pflegesystem durch bessere Organisation, Technologie und gesellschaftliche Verantwortung abgefedert werden?
+Ziel ist nicht, Innovation zu bestrafen. Ziel ist, Arbeit zu entlasten, die Finanzierungsbasis des Sozialstaats zu verbreitern und Zukunftsinvestitionen möglich zu machen.
 
-5. **Energie und industrielle Grundlage**
-   
-   Wie kann Deutschland eine sichere, bezahlbare, resiliente und zukunftsfähige Energieversorgung als Grundlage wirtschaftlicher Stärke sichern?
+Weiterlesen: [Kapitel 1 – Produktivitäts-Dividende](kapitel/01-produktivitaets-dividende.md)
+
+### 2. Lebensgrundlagen demokratisch sichern
+
+Die zweite Frage lautet: Welche Bereiche dürfen nicht allein nach kurzfristiger Marktlogik organisiert werden?
+
+Energie, Wasser, Verkehr, digitale Infrastruktur, Bildung, Gesundheit, Pflege und Wohnraum sind Grundlagen gesellschaftlicher Teilhabe. Wer von ihnen ausgeschlossen ist, kann am wirtschaftlichen, sozialen und demokratischen Leben nur eingeschränkt teilnehmen.
+
+Zukunftsdemokratie versteht öffentliche Grundversorgung deshalb als demokratische Grundlage. Strategische Infrastruktur soll öffentlich oder gemeinwohlorientiert kontrolliert werden. Private und gemeinnützige Anbieter können weiterhin Betrieb, Wartung und Innovation leisten, aber Standards, Netze, Versorgungspflichten und langfristige Steuerung müssen demokratisch verantwortet werden.
+
+Weiterlesen: [Kapitel 2 – Öffentliche Grundversorgung](kapitel/02-oeffentliche-grundversorgung.md)
+
+### 3. Menschen, Technologie und Verwaltung befähigen
+
+Die dritte Frage lautet: Wie bleibt Deutschland in einer von KI, Robotik und globaler Konkurrenz geprägten Welt handlungsfähig?
+
+Dafür müssen drei Bereiche zusammen gedacht werden: Bildung, Technologie und Verwaltung.
+
+Menschen brauchen Kompetenzen, um in einer digitalen und automatisierten Welt selbstbestimmt handeln zu können. Deutschland und Europa brauchen technologische Souveränität, um nicht vollständig von fremden Plattformen, KI-Systemen, Cloud-Infrastrukturen und strategischen Technologien abhängig zu werden. Der Staat braucht eine moderne Verwaltung, damit Reformen nicht an Papierprozessen, Zuständigkeitsgrenzen und veralteter IT scheitern.
+
+Bildung, Technologie und Verwaltung sind deshalb keine getrennten Nebenthemen, sondern eine gemeinsame Befähigungsstruktur.
+
+Weiterlesen: [Kapitel 3 – Bildung, Technologie und Verwaltung](kapitel/03-bildung-technologie-verwaltung.md)
+### 4. Politik lernfähig und überprüfbar machen
+
+Die vierte Frage lautet: Wie kann Demokratie schwierige Reformen besser entscheiden, korrigieren und legitimieren?
+
+Zukunftsdemokratie setzt nicht auf Expertokratie. Die letzte Entscheidung bleibt bei demokratisch legitimierten Institutionen. Aber politische Entscheidungen sollen besser vorbereitet, transparenter begründet, wissenschaftlich überprüft und nach ihrer Wirkung bewertet werden.
+
+Dazu gehören wissenschaftliche Folgenabschätzungen, messbare Ziele, Evaluationen, Sunset-Klauseln, Pilotgesetzgebung, stärkere Integritätsregeln und messbare Wahlversprechen.
+
+Der Kern ist: Politik soll Fehler nicht verstecken müssen, sondern institutionell daraus lernen können.
+
+Weiterlesen: [Kapitel 4 – Agile wissenschaftsgetriebene Politik](kapitel/04-agile-wissenschaftsgetriebene-politik.md)
+
+### 5. Zusammenhalt sichern
+
+Die fünfte Frage lautet: Wie kann Modernisierung gelingen, ohne die Gesellschaft weiter zu spalten?
+
+Technologische, wirtschaftliche und staatliche Reformen können nur funktionieren, wenn Menschen sie als fair, verständlich und gemeinsam getragen erleben. Deshalb braucht die Reformarchitektur eine soziale und kulturelle Klammer.
+
+Gesellschaftlicher Zusammenhalt bedeutet hier: Teilhabe sichern, Integration ernst nehmen, Generationen fair behandeln, regionale Ungleichheit abbauen und Verantwortung nicht einseitig verteilen.
+
+Modernisierung darf nicht als Projekt weniger Gewinner erscheinen. Sie muss so gestaltet werden, dass Bürgerinnen und Bürger erkennen können, welchen Platz sie selbst in dieser Zukunft haben.
+
+Weiterlesen: [Kapitel 5 – Gesellschaftlicher Zusammenhalt](kapitel/05-gesellschaftlicher-zusammenhalt.md)
 
 ---
 
-## 5. Arbeitsweise
+## 4. Reziproke Solidarität
 
-Zukunftsdemokratie versteht sich nicht als fertiger Masterplan, sondern als wachsender Reformentwurf.
+Das ergänzende Modul Reziproke Solidarität vertieft die Frage gemeinsamer Verantwortung.
 
-Das Projekt soll schrittweise entwickelt werden durch:
+Sein Leitgedanke lautet:
 
-- strukturierte Ausarbeitung
-- wissenschaftliche Prüfung
-- Vergleich mit bestehenden Reformvorschlägen
-- kritische Selbstprüfung
-- interdisziplinäre Perspektiven
-- spätere fachliche Rückmeldungen
-- transparente Dokumentation offener Fragen
+> Wer mitwirkt, wird gestärkt. Wer Hilfe braucht, wird getragen.
 
-Aktuell steht der Aufbau einer soliden Grundlage im Vordergrund. Öffentliche Kommunikation oder politische Mobilisierung sind zu diesem Zeitpunkt nicht das Ziel.
+Das Modul verbindet allgemeinen Gesellschaftsdienst, aktivierende Sozialpolitik, Schutz für nicht leistungsfähige Menschen und Verantwortung auch wohlhabender Schichten.
+
+Es ist bewusst als Querschnittsmodul angelegt, weil es politisch und verfassungsrechtlich besonders sensibel ist. Es soll die Sozialstaatslogik ergänzen, nicht die gesamte Reformarchitektur dominieren.
+
+Weiterlesen: [Modul – Reziproke Solidarität](module/reziproke-solidaritaet.md)
 
 ---
 
-## 6. Abgrenzung
+## 5. Was Zukunftsdemokratie nicht ist
 
-Zukunftsdemokratie ist:
-
-- keine Partei
-- keine Wahlplattform
-- keine Kampagne
-- kein Aufruf zum Systembruch
-- keine technokratische Ersetzung demokratischer Entscheidungen
+Zukunftsdemokratie ist keine Partei, keine Wahlplattform, keine Kampagne, kein Aufruf zum Systembruch und keine fertige Gesetzesvorlage.
 
 Das Projekt steht auf dem Boden der freiheitlich-demokratischen Grundordnung.
 
-Es geht nicht darum, Demokratie durch Wissenschaft oder Technik zu ersetzen. Es geht darum, demokratische Politik durch bessere Verfahren, bessere Informationen und bessere institutionelle Lernfähigkeit zu stärken.
+Es geht nicht darum, Demokratie durch Wissenschaft, Technik oder Expertenherrschaft zu ersetzen. Es geht darum, demokratische Politik durch bessere Verfahren, bessere Informationen, stärkere Integrität und größere institutionelle Lernfähigkeit zu stärken.
 
 ---
 
-## 7. Entwicklungsstand
+## 6. Entwicklungsstand
 
-Das Projekt befindet sich in einer Grundlagenphase.
+Zukunftsdemokratie befindet sich in einer strukturierten Arbeitsfassung.
 
-In dieser Phase werden zentrale Begriffe, Themenfelder, offene Fragen und mögliche Reformrichtungen ausgearbeitet.
-
-Erst wenn diese Grundlage tragfähig genug ist, sollen weitere Perspektiven systematisch einbezogen werden.
+Das Ziel dieser Phase ist nicht öffentliche Mobilisierung, sondern Substanz: Begriffe klären, Kapitel ordnen, offene Fragen sichtbar machen, Kritik dokumentieren und die Reformlogik prüfbar ausarbeiten.
 
 Das Leitprinzip lautet:
 
 > Erst Substanz schaffen, dann Resonanz suchen.
+
+Zum weiteren Entwicklungsplan siehe: [Roadmap](ROADMAP.md)
+
+Offene Punkte werden gesammelt unter: [Offene Fragen](OFFENE_FRAGEN.md)
+
+Kritik, Konflikte und Gegenargumente werden dokumentiert unter: [Diskussion und Kritik](diskussion/kritikpunkte.md)
