@@ -3,7 +3,7 @@
 **Projekt:** Zukunftsdemokratie  
 **Status:** Strukturierte Arbeitsfassung  
 **Version:** v0.1.0  
-**Stand:** Mai 2026  
+**Stand:** Mai 2026
 
 ---
 
@@ -42,6 +42,8 @@ Erwünscht sind insbesondere:
 
 Kritik muss nicht vollständig ausgearbeitet sein. Auch gut begründete Zweifel oder offene Fragen können wertvoll sein.
 
+Für strukturiertes Feedback steht das [FEEDBACK_TEMPLATE](FEEDBACK_TEMPLATE.md) zur Verfügung.
+
 ---
 
 ## 4. Unerwünschtes Verhalten
@@ -58,7 +60,7 @@ Nicht akzeptiert werden insbesondere:
 - wiederholtes Stören von Diskussionen ohne inhaltlichen Beitrag
 - bewusste Falschdarstellungen des Projekts oder seiner offiziellen Fassung
 
-Diskussionen über politische Grundrichtungen sind möglich, wenn sie dem Verständnis oder der Prüfung des Projekts dienen. Reine Lager-, Kulturkampf- oder Parteidebatten gehören nicht in dieses Repository.
+Diskussionen über politische Grundrichtungen sind möglich, wenn sie dem Verständnis oder der Prüfung des Projekts dienen. Was als themenfremd oder parteipolitisch vereinnahmend gilt, ist in [ABGRENZUNG.md](ABGRENZUNG.md) näher beschrieben.
 
 ---
 
@@ -75,6 +77,8 @@ Erwartet wird:
 - Trennung von Tatsachenbehauptung, Bewertung und politischer Präferenz
 - Bereitschaft, Gegenargumente korrekt wiederzugeben
 - Verzicht auf pauschale Zuschreibungen gegenüber Gruppen
+
+Reine Lager-, Kulturkampf- oder Parteidebatten passen nicht zum Charakter dieses Projekts und werden moderiert.
 
 ---
 
@@ -96,6 +100,6 @@ Moderationsentscheidungen sollen sich am Schutz einer sachlichen und produktiven
 
 ## 7. Meldung von Verstößen
 
-Verstöße gegen diesen Verhaltenskodex können der Projektleitung gemeldet werden.
+Verstöße gegen diesen Verhaltenskodex können der Projektleitung gemeldet werden, indem ein Issue im Repository eröffnet oder die Projektleitung über den GitHub-Account **GermanyScienceVision** kontaktiert wird.
 
 Meldungen werden vertraulich behandelt, soweit dies im Rahmen der Prüfung und der technischen Möglichkeiten des jeweiligen Kommunikationskanals möglich ist.
