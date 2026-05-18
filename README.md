@@ -1,116 +1,217 @@
 # Zukunftsdemokratie
 
-**Für einen Staat, der vorausdenkt.**
+Eine Reformarchitektur für ein demokratisches, wissenschaftsorientiertes und soziales Deutschland im Zeitalter von KI, Demografie und globaler Transformation.
 
-Zukunftsdemokratie ist ein unabhängiger politischer Reformentwurf mit wissenschaftsorientierter, demokratisch kontrollierter und postideologisch-modernisierender Ausrichtung.
+Das Projekt versteht sich nicht als Sammlung isolierter Forderungen, sondern als miteinander verzahnte Reformarchitektur.
 
-Das zentrale Ziel lautet:
+**Status:** Strukturierte Arbeitsfassung  
+**Version:** v0.1.0  
+**Stand:** Mai 2026  
 
-**Demokratie modernisieren, Politik wissenschaftlicher machen und Macht stärker kontrollieren.**
+---
 
-Das Projekt gehört keiner Partei an und ordnet sich keiner klassischen Ideologie zu. Es versteht sich nicht als politisches Lager, sondern als Reformansatz für einen Staat, der langfristiger denkt, evidenzorientierter handelt und demokratisch besser kontrollierbar bleibt.
+## Kurzbeschreibung
+
+Zukunftsdemokratie ist ein unabhängiger gesellschafts- und politikbezogener Reformentwurf.
+
+Das Projekt untersucht, wie Deutschland seine Demokratie, seinen Sozialstaat, seine Infrastruktur, seine Verwaltung und seine wirtschaftliche Grundlage in einer Zeit tiefgreifender Umbrüche erneuern kann.
+
+Im Mittelpunkt stehen fünf Herausforderungen:
+
+- demografischer Wandel
+- Künstliche Intelligenz, Robotik und Automatisierung
+- Finanzierung des Sozialstaats
+- öffentliche Grundversorgung und kritische Infrastruktur
+- Vertrauensverlust in Politik und demokratische Institutionen
+
+Zukunftsdemokratie versteht sich nicht als Parteiprogramm, Wahlkampfpapier oder fertiger Gesetzesentwurf, sondern als offene, überprüfbare und weiterzuentwickelnde Reformarchitektur.
 
 ---
 
 ## Grundidee
 
-Zukunftsdemokratie geht davon aus, dass viele politische Probleme nicht nur durch einzelne Entscheidungen entstehen, sondern durch Strukturen, die kurzfristiges Denken, parteipolitische Blockaden, institutionelle Trägheit und unzureichende Kontrolle begünstigen.
+Die zentrale Annahme dieses Projekts lautet:
 
-Der Reformentwurf sucht daher nach Wegen, demokratische Institutionen, Verwaltung und politische Entscheidungsprozesse so weiterzuentwickeln, dass langfristige Verantwortung, wissenschaftliche Prüfung, Transparenz und demokratische Kontrolle stärker verankert werden.
+Deutschland braucht nicht nur einzelne Reformen, sondern eine neue Verbindung aus wirtschaftlicher Leistungsfähigkeit, sozialer Stabilität, demokratischer Kontrolle, wissenschaftlicher Evidenz und gesellschaftlichem Zusammenhalt.
 
-Ein vorausdenkender Staat soll Probleme nicht erst bearbeiten, wenn sie eskalieren. Er soll Risiken früher erkennen, Folgen besser abschätzen, aus Fehlern lernen und politische Entscheidungen nachvollziehbarer begründen.
+Die vorgeschlagenen Reformen sollen daher nicht isoliert betrachtet werden. Sie greifen ineinander:
 
----
-
-## Ausrichtung
-
-Zukunftsdemokratie steht für einen wissenschaftsorientierten Reformismus mit demokratischer Kontrolllogik.
-
-Der Ansatz ist postideologisch-modernisierend: Politische Entscheidungen sollen nicht primär aus Lagerdenken, Symbolpolitik oder kurzfristiger Machtlogik entstehen, sondern stärker durch überprüfbare Erkenntnisse, transparente Verfahren und demokratische Rechenschaft geprägt sein.
-
-Das bedeutet nicht, Politik durch Wissenschaft zu ersetzen. Wissenschaft kann Orientierung, Analyse und Folgenabschätzung liefern. Die Entscheidung selbst bleibt demokratisch legitimiert, öffentlich begründbar und kontrollierbar.
-
-Zukunftsdemokratie verbindet drei Leitgedanken:
-
-### 1. Demokratie modernisieren
-
-Demokratische Institutionen sollen so weiterentwickelt werden, dass sie schneller lernen, langfristiger planen und komplexe Probleme besser bearbeiten können.
-
-Demokratie soll nicht geschwächt, sondern strukturell gestärkt werden: durch bessere Verfahren, klarere Verantwortlichkeiten, mehr Transparenz und eine stärkere Ausrichtung auf langfristige Gemeinwohlinteressen.
-
-### 2. Politik wissenschaftlicher machen
-
-Politische Entscheidungen sollen stärker auf Evidenz, Wirkungsprüfung, Daten, Expertise und nachvollziehbarer Begründung beruhen.
-
-Wissenschaft ersetzt dabei nicht den demokratischen Willensbildungsprozess. Sie soll aber helfen, Probleme präziser zu verstehen, politische Maßnahmen besser zu bewerten und Fehlentscheidungen früher erkennbar zu machen.
-
-### 3. Macht stärker kontrollieren
-
-Staatliche und politische Macht soll transparenter, überprüfbarer und begrenzter werden.
-
-Reformen müssen Kontrolle, Gewaltenteilung, Grundrechte und demokratische Legitimation stärken. Ein moderner Staat darf nicht nur handlungsfähiger werden, sondern muss zugleich besser kontrollierbar bleiben.
+- Produktivitätsgewinne aus KI und Robotik sollen gesellschaftlich nutzbar gemacht werden.
+- Kritische Infrastruktur soll demokratisch kontrolliert und verlässlich organisiert werden.
+- Bildung, Technologie und Verwaltung sollen Menschen und Staat handlungsfähig machen.
+- Politik soll wissenschaftlicher, lernfähiger, integrer und überprüfbarer werden.
+- Gesellschaftlicher Zusammenhalt soll als eigene politische Aufgabe verstanden werden.
 
 ---
 
-## Was Zukunftsdemokratie nicht ist
+## Die fünf Kapitel
 
-Zukunftsdemokratie ist keine Partei, keine Bewegung und keine geschlossene Ideologie.
+Die Gesamtkonzeption besteht aus fünf Hauptkapiteln.
 
-Das Projekt ist auch kein technokratisches Modell, in dem Expertinnen und Experten demokratische Entscheidungen ersetzen. Wissenschaft soll Politik verbessern, nicht Demokratie verdrängen.
+### 1. Produktivitäts-Dividende
 
-Zukunftsdemokratie steht für einen Staat, der vorausdenkt, aber kontrolliert bleibt; der wissenschaftliche Erkenntnisse nutzt, aber demokratisch entscheidet; der langfristig plant, aber Macht begrenzt.
+**Arbeit entlasten. Wertschöpfung beteiligen. Zukunft finanzieren.**
 
-Der Reformentwurf versteht sich daher weder als links noch rechts, weder als konservativ noch progressiv im klassischen Sinn. Entscheidend ist nicht die Zugehörigkeit zu einem politischen Lager, sondern die Frage, ob eine Reform demokratische Institutionen zukunftsfähiger, transparenter und verantwortlicher macht.
+Kapitel 1 beschreibt die finanzielle und ökonomische Grundlage des Reformmodells.
+
+Die Leitidee lautet: Wer durch KI, Robotik und Automatisierung massiv produktiver wird, gibt einen Teil dieses Produktivitätsgewinns an die Gesellschaft zurück, die ihn ermöglicht hat.
+
+[Kapitel 1 lesen](kapitel/01-produktivitaets-dividende.md)
+
+### 2. Öffentliche Grundversorgung
+
+**Öffentlich, was alle brauchen. Regional, was alle trägt. Verlässlich, was alle verbindet.**
+
+Kapitel 2 behandelt die demokratische Kontrolle und verlässliche Organisation kritischer Infrastruktur und grundlegender Versorgungssysteme.
+
+Dazu gehören insbesondere Energie, Wasser, Verkehr, digitale Infrastruktur, Bildung, Gesundheit, Pflege und Wohnraum.
+
+[Kapitel 2 lesen](kapitel/02-oeffentliche-grundversorgung.md)
+
+### 3. Bildung, Technologie und Verwaltung
+
+**Befähigen, was die Zukunft braucht. Beherrschen, was uns prägt. Verändern, was uns hemmt.**
+
+Kapitel 3 verbindet Bildungsreform, technologische Souveränität und Verwaltungsmodernisierung.
+
+Die Grundannahme lautet: Ohne befähigte Menschen, beherrschbare Technologie und eine handlungsfähige Verwaltung scheitern alle weiteren Reformen.
+
+[Kapitel 3 lesen](kapitel/03-bildung-technologie-verwaltung.md)
+
+### 4. Agile wissenschaftsgetriebene Politik
+
+**Wissenschaft als Grundlage. Fehler als Lernchance. Integrität als Pflicht.**
+
+Kapitel 4 beschreibt die Entscheidungsarchitektur des Reformmodells.
+
+Es geht um evidenzbasierte Gesetzgebung, wissenschaftliche Mindeststandards, lernfähige Politik, Evaluation, Sunset-Klauseln, Integrität, Lobbykontrolle und messbare Wahlversprechen.
+
+[Kapitel 4 lesen](kapitel/04-agile-wissenschaftsgetriebene-politik.md)
+
+### 5. Gesellschaftlicher Zusammenhalt
+
+**Gemeinschaft sichern. Integration ermöglichen. Generationen verbinden.**
+
+Kapitel 5 behandelt die soziale, kulturelle und generationelle Klammer der Gesamtkonzeption.
+
+Es soll beschreiben, wie Modernisierung so gestaltet werden kann, dass sie nicht spaltet, sondern Zugehörigkeit, Verantwortung und Teilhabe stärkt.
+
+[Kapitel 5 lesen](kapitel/05-gesellschaftlicher-zusammenhalt.md)
 
 ---
 
-## Der Slogan
+## Ergänzende Module
 
-**„Für einen Staat, der vorausdenkt.“**
+Neben den fünf Hauptkapiteln enthält das Projekt ergänzende Module.
 
-Der Slogan beschreibt den Anspruch des Projekts: Politik soll nicht erst handeln, wenn Probleme eskalieren, sondern frühzeitig erkennen, abwägen und gestalten.
+### Reziproke Solidarität
 
-Ein vorausdenkender Staat ist kein bevormundender Staat. Er ist ein demokratisch kontrollierter Staat, der langfristige Folgen ernst nimmt, wissenschaftliche Erkenntnisse einbezieht, institutionell lernfähig bleibt und Verantwortung nicht auf kommende Generationen verschiebt.
+**Wer mitwirkt, wird gestärkt. Wer Hilfe braucht, wird getragen.**
+
+Das Modul „Reziproke Solidarität“ behandelt Verantwortungsteilung, allgemeinen Gesellschaftsdienst und aktivierende Sozialpolitik.
+
+Es ist als Querschnittsmodul angelegt und ergänzt die Sozialstaatslogik der Gesamtkonzeption.
+
+[Modul lesen](module/reziproke-solidaritaet.md)
 
 ---
 
-## Offizielle Fassung und Forks
+## Anlagen
 
-Dieses Repository enthält die offizielle Fassung des Reformentwurfs Zukunftsdemokratie.
+Die Anlagen sammeln technische, juristische, finanzielle und begriffliche Vertiefungen.
 
-Forks, Kopien und abgeleitete Fassungen sind gemäß der Lizenz erlaubt, gelten aber nicht automatisch als offizielle Versionen dieses Projekts.
+- [Begriffe](anlagen/begriffe.md)
+- [Juristische Fragen](anlagen/juristische-fragen.md)
+- [Finanzierungslogik](anlagen/finanzierungslogik.md)
+- [Quellen und Prüfbedarf](anlagen/quellen-und-pruefbedarf.md)
 
-Abweichende Fassungen sollen klar als Fork, Variante oder unabhängige Bearbeitung gekennzeichnet werden. Die Aufnahme von Änderungen in die offizielle Fassung erfolgt nur durch Prüfung und Übernahme in dieses Hauptrepository.
+---
+
+## Diskussion und Kritik
+
+Das Projekt versteht sich als Diskussionsgrundlage. Kritik, offene Konflikte und Gegenargumente sollen sichtbar dokumentiert werden.
+
+- [Kritikpunkte](diskussion/kritikpunkte.md)
+- [Offene Konflikte](diskussion/offene-konflikte.md)
+- [Antworten auf Einwände](diskussion/antworten-auf-einwaende.md)
+
+---
+
+## Status des Projekts
+
+Dieses Repository befindet sich in einer strukturierten Arbeitsfassung.
+
+Die aktuelle Version `v0.1.0` dient dazu, die Grundstruktur des Projekts transparent abzubilden und die vorhandenen Inhalte in eine nachvollziehbare Repository-Architektur zu überführen.
+
+Geplante Entwicklungsstufen:
+
+- `v0.1.0` – erste strukturierte Repository-Fassung
+- `v0.2.0` – Kapitel 1 bis 5 vollständig in GitHub-Struktur übertragen
+- `v0.3.0` – erste öffentliche Diskussionsfassung
+- `v0.4.0` – überarbeitete Fassung nach erstem Feedback
+- `v1.0.0` – erste stabile Grundfassung
+
+---
+
+## Wer hinter dem Projekt steht
+
+**Zukunftsdemokratie** ist der Name dieses Reformprojekts.
+
+Das Projekt wird derzeit über den GitHub-Account **GermanyScienceVision** initiiert, entwickelt und gepflegt.
+
+Hinter dem Projekt steht nach aktuellem Stand keine Partei, keine parteinahe Organisation, kein Verband, keine Lobbyorganisation und keine Kampagne. Es handelt sich um einen unabhängigen konzeptionellen Reformentwurf.
+
+Die verantwortliche Person hinter diesem Account tritt zunächst nicht mit Klarnamen auf. Sie gehört nach eigener Auskunft keiner politischen Partei an und identifiziert sich nicht mit einem festen politischen Lager. Der Grund für die vorläufige Anonymität ist, dass der Entwurf in dieser Phase bewusst als inhaltliches Reformkonzept und nicht als Personenmarke, Kampagne oder parteipolitisches Profil wahrgenommen werden soll.
+
+Anonymität bedeutet dabei nicht Verantwortungslosigkeit: Die offizielle Fassung dieses Repositorys wird durch die Projektleitung gepflegt. Änderungen werden dokumentiert, Forks müssen als solche kenntlich gemacht werden, und Beiträge werden anhand der Grundprinzipien des Projekts geprüft.
+
+---
+
+## Was dieses Projekt nicht ist
+
+Zukunftsdemokratie ist keine Partei.
+
+Zukunftsdemokratie ist kein Wahlprogramm.
+
+Zukunftsdemokratie ist keine Kampagne.
+
+Zukunftsdemokratie ist keine fertige Gesetzesvorlage.
+
+Zukunftsdemokratie ist kein technokratisches Ersatzmodell für Demokratie.
+
+Das Projekt versteht Wissenschaft nicht als Ersatz für demokratische Entscheidung, sondern als Mindeststandard für verantwortliche Politik. Die letzte Entscheidung bleibt demokratisch legitimierten Institutionen vorbehalten.
 
 ---
 
 ## Mitwirken
 
-Beiträge, Kritik und Verbesserungsvorschläge sind willkommen.
+Sachliche Kritik, juristische Hinweise, finanzielle Plausibilitätsprüfungen, sprachliche Verbesserungen und Ergänzungsvorschläge sind willkommen.
 
-Änderungsvorschläge können über Issues oder Pull Requests eingebracht werden. Die Aufnahme in die offizielle Fassung erfolgt nach inhaltlicher Prüfung anhand der Grundprinzipien des Projekts.
+Beiträge sollen sich am Charakter des Projekts orientieren:
 
-Erwünscht sind insbesondere Beiträge, die:
+- sachlich
+- überprüfbar
+- demokratisch
+- menschenwürdeorientiert
+- wissenschaftsoffen
+- nicht parteipolitisch vereinnahmend
 
-- demokratische Institutionen stärken,
-- politische Entscheidungen transparenter machen,
-- wissenschaftliche Evidenz besser nutzbar machen,
-- Macht kontrollierbarer machen,
-- langfristige Verantwortung fördern,
-- Grundrechte und demokratische Legitimation achten.
+Für größere Änderungen sollen Issues oder Pull Requests genutzt werden.
 
-Nicht aufgenommen werden Vorschläge, die demokratische Kontrolle schwächen, Grundrechte relativieren, Macht unkontrollierter machen oder das Projekt parteipolitisch vereinnahmen.
+---
+
+## Offizielle Fassung und Forks
+
+Die offizielle Fassung dieses Projekts liegt in diesem Repository.
+
+Forks, Bearbeitungen und Ableitungen sind möglich, müssen aber als solche kenntlich gemacht werden. Sie dürfen nicht den Eindruck erwecken, die offizielle Fassung des Projekts zu sein, sofern sie nicht durch die Projektleitung übernommen wurden.
 
 ---
 
 ## Lizenz
 
-Dieses Projekt ist, sofern nicht anders angegeben, unter der Creative Commons Attribution-ShareAlike 4.0 International License, kurz CC BY-SA 4.0, lizenziert.
+Die konkrete Lizenzstruktur des Projekts befindet sich noch in Ausarbeitung.
 
-Du darfst den Entwurf teilen, bearbeiten und weiterentwickeln, sofern du die Urheberschaft angibst, Änderungen kenntlich machst und abgeleitete Fassungen unter derselben Lizenz veröffentlichst.
+Bis zur endgültigen Festlegung der Lizenz dient dieses Repository ausschließlich der öffentlichen Diskussion, Analyse und Weiterentwicklung des Reformkonzepts.
 
-Die Lizenz erlaubt offene Weiterentwicklung, schützt aber zugleich davor, dass abgeleitete Fassungen proprietär geschlossen werden.
-
-Weitere Informationen zur Lizenz:
-
-https://creativecommons.org/licenses/by-sa/4.0/
+Forks und Diskussionen sind ausdrücklich erwünscht. Irreführende Nutzung im Namen des Projekts oder die Darstellung inoffizieller Fassungen als offizielle Projektversion soll vermieden werden.
