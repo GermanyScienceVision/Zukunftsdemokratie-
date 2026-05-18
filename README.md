@@ -1,12 +1,14 @@
 # Zukunftsdemokratie
 
+**Für einen Staat, der vorausdenkt.**
+
 Eine Reformarchitektur für ein demokratisches, wissenschaftsorientiertes und soziales Deutschland im Zeitalter von KI, Demografie und globaler Transformation.
 
 Das Projekt versteht sich nicht als Sammlung isolierter Forderungen, sondern als miteinander verzahnte Reformarchitektur.
 
 **Status:** Strukturierte Arbeitsfassung  
 **Version:** v0.1.0  
-**Stand:** Mai 2026  
+**Stand:** Mai 2026
 
 ---
 
@@ -110,7 +112,7 @@ Neben den fünf Hauptkapiteln enthält das Projekt ergänzende Module.
 
 **Wer mitwirkt, wird gestärkt. Wer Hilfe braucht, wird getragen.**
 
-Das Modul „Reziproke Solidarität“ behandelt Verantwortungsteilung, allgemeinen Gesellschaftsdienst und aktivierende Sozialpolitik.
+Das Modul „Reziproke Solidarität" behandelt Verantwortungsteilung, allgemeinen Gesellschaftsdienst und aktivierende Sozialpolitik.
 
 Es ist als Querschnittsmodul angelegt und ergänzt die Sozialstaatslogik der Gesamtkonzeption.
 
@@ -203,9 +205,9 @@ Beiträge sollen sich am Charakter des Projekts orientieren:
 - wissenschaftsoffen
 - nicht parteipolitisch vereinnahmend
 
-Für größere Änderungen sollen Issues oder Pull Requests genutzt werden.
+Für größere Änderungen sollen Issues oder Pull Requests genutzt werden. Für strukturiertes Feedback steht das [Feedback-Template](FEEDBACK_TEMPLATE.md) zur Verfügung.
 
-Regeln für Beiträge, Forks, Projektpflege und offizielle Fassungen sind in der [Governance](GOVERNANCE.md) beschrieben.
+Regeln für Beiträge, Forks, Projektpflege und offizielle Fassungen sind in der [Governance](GOVERNANCE.md) beschrieben. Der Umgangston und die Diskussionskultur sind im [Verhaltenskodex](CODE_OF_CONDUCT.md) geregelt.
 
 ---
 
@@ -219,10 +221,8 @@ Forks, Bearbeitungen und Ableitungen sind möglich, müssen aber als solche kenn
 
 ## Lizenz
 
-Die konkrete Lizenzstruktur des Projekts befindet sich noch in Ausarbeitung.
+Dieses Projekt steht unter der **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** Lizenz.
 
-Bis zur endgültigen Festlegung der Lizenz dient dieses Repository ausschließlich der öffentlichen Diskussion, Analyse und Weiterentwicklung des Reformkonzepts.
+Die Inhalte dürfen geteilt, bearbeitet und weiterentwickelt werden, sofern die Urheberschaft angegeben, Änderungen kenntlich gemacht und abgeleitete Fassungen unter derselben Lizenz veröffentlicht werden. Damit ist offene Weiterentwicklung möglich, während gleichzeitig verhindert wird, dass abgeleitete Fassungen proprietär geschlossen werden.
 
-Forks und Diskussionen sind ausdrücklich erwünscht. Irreführende Nutzung im Namen des Projekts oder die Darstellung inoffizieller Fassungen als offizielle Projektversion soll vermieden werden.
-
-Die konkrete Lizenz ist in der Datei [LICENSE](LICENSE) dokumentiert.
+Der vollständige Lizenztext ist in der Datei [LICENSE](LICENSE) dokumentiert. Weitere Informationen zur Lizenz: <https://creativecommons.org/licenses/by-sa/4.0/>
