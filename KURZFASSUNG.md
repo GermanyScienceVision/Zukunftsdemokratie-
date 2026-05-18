@@ -2,7 +2,7 @@
 
 **Status:** Strukturierte Arbeitsfassung  
 **Version:** v0.1.0  
-**Stand:** Mai 2026  
+**Stand:** Mai 2026
 
 ---
 
@@ -18,7 +18,7 @@ Gleichzeitig entstehen durch Digitalisierung, Automatisierung, Künstliche Intel
 
 Die zentrale These lautet: Wenn Deutschland diese technologische Entwicklung nicht aktiv gestaltet, verschärft sie bestehende Krisen. Wenn sie jedoch demokratisch kontrolliert, wissenschaftlich geprüft und gemeinwohlorientiert eingesetzt wird, kann sie ein zentraler Teil der Lösung werden.
 
-Zur ausführlicheren konzeptionellen Grundlage siehe: [Grundidee](GRUNDIDEE.md)
+Zur ausführlicheren konzeptionellen Grundlage siehe den Abschnitt [Grundidee](README.md#grundidee) im README.
 
 ---
 
@@ -42,6 +42,8 @@ Das Projekt verbindet fünf zentrale Reformrichtungen.
 
 ### 1. Produktivität gesellschaftlich nutzbar machen
 
+*Arbeit entlasten. Wertschöpfung beteiligen. Zukunft finanzieren.*
+
 Die erste Frage lautet: Wie kann ein Sozialstaat finanziert werden, wenn ein wachsender Teil der Wertschöpfung durch KI, Robotik und Automatisierung entsteht?
 
 Die Produktivitäts-Dividende setzt genau hier an. Sie geht davon aus, dass Produktivitätsgewinne nicht im luftleeren Raum entstehen. Sie beruhen auf Bildung, Infrastruktur, Rechtssicherheit, Forschung, öffentlicher Ordnung und sozialem Frieden. Wenn Unternehmen durch KI und Robotik deutlich produktiver werden, soll ein Teil dieser zusätzlichen Wertschöpfung an die Gesellschaft zurückfließen.
@@ -51,6 +53,8 @@ Ziel ist nicht, Innovation zu bestrafen. Ziel ist, Arbeit zu entlasten, die Fina
 Weiterlesen: [Kapitel 1 – Produktivitäts-Dividende](kapitel/01-produktivitaets-dividende.md)
 
 ### 2. Lebensgrundlagen demokratisch sichern
+
+*Öffentlich, was alle brauchen. Regional, was alle trägt. Verlässlich, was alle verbindet.*
 
 Die zweite Frage lautet: Welche Bereiche dürfen nicht allein nach kurzfristiger Marktlogik organisiert werden?
 
@@ -62,6 +66,8 @@ Weiterlesen: [Kapitel 2 – Öffentliche Grundversorgung](kapitel/02-oeffentlich
 
 ### 3. Menschen, Technologie und Verwaltung befähigen
 
+*Befähigen, was die Zukunft braucht. Beherrschen, was uns prägt. Verändern, was uns hemmt.*
+
 Die dritte Frage lautet: Wie bleibt Deutschland in einer von KI, Robotik und globaler Konkurrenz geprägten Welt handlungsfähig?
 
 Dafür müssen drei Bereiche zusammen gedacht werden: Bildung, Technologie und Verwaltung.
@@ -71,7 +77,10 @@ Menschen brauchen Kompetenzen, um in einer digitalen und automatisierten Welt se
 Bildung, Technologie und Verwaltung sind deshalb keine getrennten Nebenthemen, sondern eine gemeinsame Befähigungsstruktur.
 
 Weiterlesen: [Kapitel 3 – Bildung, Technologie und Verwaltung](kapitel/03-bildung-technologie-verwaltung.md)
+
 ### 4. Politik lernfähig und überprüfbar machen
+
+*Wissenschaft als Grundlage. Fehler als Lernchance. Integrität als Pflicht.*
 
 Die vierte Frage lautet: Wie kann Demokratie schwierige Reformen besser entscheiden, korrigieren und legitimieren?
 
@@ -85,6 +94,8 @@ Weiterlesen: [Kapitel 4 – Agile wissenschaftsgetriebene Politik](kapitel/04-ag
 
 ### 5. Zusammenhalt sichern
 
+*Gemeinschaft sichern. Integration ermöglichen. Generationen verbinden.*
+
 Die fünfte Frage lautet: Wie kann Modernisierung gelingen, ohne die Gesellschaft weiter zu spalten?
 
 Technologische, wirtschaftliche und staatliche Reformen können nur funktionieren, wenn Menschen sie als fair, verständlich und gemeinsam getragen erleben. Deshalb braucht die Reformarchitektur eine soziale und kulturelle Klammer.
@@ -94,6 +105,10 @@ Gesellschaftlicher Zusammenhalt bedeutet hier: Teilhabe sichern, Integration ern
 Modernisierung darf nicht als Projekt weniger Gewinner erscheinen. Sie muss so gestaltet werden, dass Bürgerinnen und Bürger erkennen können, welchen Platz sie selbst in dieser Zukunft haben.
 
 Weiterlesen: [Kapitel 5 – Gesellschaftlicher Zusammenhalt](kapitel/05-gesellschaftlicher-zusammenhalt.md)
+
+### Ergänzendes Querschnittsmodul
+
+Die fünf Kapitel werden durch ein eigenständiges Querschnittsmodul ergänzt, das in mehreren Kapiteln gleichzeitig wirkt und deshalb separat geführt wird: das Modul **Reziproke Solidarität**. Es wird im folgenden Abschnitt behandelt.
 
 ---
 
@@ -121,6 +136,8 @@ Das Projekt steht auf dem Boden der freiheitlich-demokratischen Grundordnung.
 
 Es geht nicht darum, Demokratie durch Wissenschaft, Technik oder Expertenherrschaft zu ersetzen. Es geht darum, demokratische Politik durch bessere Verfahren, bessere Informationen, stärkere Integrität und größere institutionelle Lernfähigkeit zu stärken.
 
+Eine ausführlichere Abgrenzung findet sich in [ABGRENZUNG.md](ABGRENZUNG.md).
+
 ---
 
 ## 6. Entwicklungsstand
@@ -137,4 +154,4 @@ Zum weiteren Entwicklungsplan siehe: [Roadmap](ROADMAP.md)
 
 Offene Punkte werden gesammelt unter: [Offene Fragen](OFFENE_FRAGEN.md)
 
-Kritik, Konflikte und Gegenargumente werden dokumentiert unter: [Diskussion und Kritik](diskussion/kritikpunkte.md)
+Kritik, Konflikte und Gegenargumente werden dokumentiert unter: [Kritikpunkte](diskussion/kritikpunkte.md)
