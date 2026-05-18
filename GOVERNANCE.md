@@ -3,13 +3,15 @@
 **Projekt:** Zukunftsdemokratie  
 **Status:** Strukturierte Arbeitsfassung  
 **Version:** v0.1.0  
-**Stand:** Mai 2026  
+**Stand:** Mai 2026
 
 ---
 
 ## 1. Zweck
 
 Dieses Dokument beschreibt, wie die offizielle Fassung von **Zukunftsdemokratie** gepflegt wird, wie Beiträge behandelt werden und wie Forks oder abgeleitete Fassungen einzuordnen sind.
+
+Welche Beiträge inhaltlich zum Geltungsbereich des Projekts gehören, ist in [ABGRENZUNG.md](ABGRENZUNG.md) definiert.
 
 Für den Umgangston und die Diskussionsregeln gilt ergänzend der [Verhaltenskodex](CODE_OF_CONDUCT.md).
 
@@ -25,7 +27,7 @@ Andere Fassungen, Forks, Kopien oder Bearbeitungen gelten nicht als offizielle V
 
 ## 3. Projektpflege
 
-Das Projekt wird derzeit über den GitHub-Account **GermanyScienceVision** gepflegt.
+Das Projekt wird derzeit über den GitHub-Account **GermanyScienceVision** gepflegt. Hintergrund und Anonymität der Projektleitung sind im [README](README.md#wer-hinter-dem-projekt-steht) beschrieben.
 
 Die Entscheidung über Änderungen an der offiziellen Fassung liegt bei der Projektleitung dieses Repositorys.
 
@@ -45,6 +47,8 @@ Die Entscheidung über Änderungen an der offiziellen Fassung liegt bei der Proj
 ## 4. Beiträge
 
 Änderungsvorschläge können über Issues oder Pull Requests eingebracht werden.
+
+Für strukturiertes Feedback steht das [FEEDBACK_TEMPLATE](FEEDBACK_TEMPLATE.md) zur Verfügung.
 
 Willkommen sind insbesondere:
 
