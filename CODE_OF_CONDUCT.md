@@ -1,45 +1,101 @@
-# Verhaltenskodex (Code of Conduct) – Projekt Zukunftsdemokratie
+# Verhaltenskodex
 
-## 1. Unser Versprechen
-
-Als Initiatoren und Beitragende des Projekts „Zukunftsdemokratie“ verpflichten wir uns, die Teilnahme an unserer Community für alle zu einer respektvollen, produktiven und bereichernden Erfahrung zu machen – unabhängig von Hintergrund, Fachwissen oder politischer Grundhaltung.
-
-Dieses Projekt verfolgt einen **postideologischen, evidenzbasierten Ansatz**. Ziel ist es, sachliche und technologische Lösungen für die Resilienz unseres Staates zu entwickeln. Unser Verhaltenskodex dient dazu, diesen geschützten Raum für konstruktive Arbeit zu sichern.
-
----
-
-## 2. Unsere Standards für eine konstruktive Diskussion
-
-Wir fördern eine Kultur des harten, aber fairen sachlichen Diskurses. Folgende Verhaltensweisen spiegeln die Kernwerte des Projekts wider:
-
-* **Evidenz und Substanz vor Meinung:** Untermauere Kritik oder Vorschläge idealerweise mit Daten, empirischen Beispielen, wissenschaftlichen Erkenntnissen oder praktischen Erfahrungswerten aus den jeweiligen Sektoren.
-* **Lösungsorientierung:** Eine reine Mängelrüge hilft dem Projekt nicht weiter. Konstruktive Kritik sollte immer mit einem konkreten Gegenvorschlag, einer architektonischen Alternative oder einer präzisen Fragestellung verbunden sein.
-* **Fokus auf das System, nicht auf die Person:** Diskutiere Konzepte, Code, Strukturen und Prozesse. Vermeide persönliche Angriffe, Unterstellungen oder Ad-hominem-Argumentationen.
-* **Respektvoller und professioneller Ton:** Wir kommunizieren höflich, professionell und wertschätzend. Höre aktiv zu und versuche, die Perspektive von Praktikern (z. B. aus Pflege, Bildung oder Verwaltung) zu verstehen.
+**Projekt:** Zukunftsdemokratie  
+**Status:** Strukturierte Arbeitsfassung  
+**Version:** v0.1.0  
+**Stand:** Mai 2026  
 
 ---
 
-## 3. Inakzeptables Verhalten (Ausschlusskriterien)
+## 1. Zweck
 
-Um den Fokus des Projekts zu schützen, werden folgende Verhaltensweisen in diesem Repository **nicht toleriert**:
+Dieser Verhaltenskodex regelt den Umgangston und die Diskussionskultur in Issues, Pull Requests, Kommentaren und sonstigen Beiträgen zu **Zukunftsdemokratie**.
 
-* **Parteipolitische Polemik & Ideologiedebatten:** Dieses Projekt dient nicht als Bühne für parteipolitische Profilierung, Kulturkämpfe (*Culture Wars*) oder das Wiederholen dogmatischer Phrasen.
-* **Destruktives „Gatekeeping“:** Abwertende Kommentare gegenüber anderen Teilnehmern aufgrund ihres Wissensstandes oder ihrer Herkunft sind untersagt.
-* **Belästigung und Diskriminierung:** Jegliche Form von beleidigender, diskriminierender oder herabwürdigender Sprache in Bezug auf Geschlecht, sexuelle Orientierung, Ethnizität, Religion oder Alter führt zum sofortigen Ausschluss.
-* **Spam und Eigenwerbung:** Beiträge, die nicht direkt zur Weiterentwicklung der Reformmodule beitragen, sondern reine Eigenwerbung oder themenfremden Inhalt darstellen.
+Er ergänzt die [Governance](GOVERNANCE.md), ersetzt sie aber nicht.
 
 ---
 
-## 4. Durchsetzung und Moderation
+## 2. Grundsatz
 
-Die Einhaltung dieses Verhaltenskodex wird durch die Projektleitung (**User GermanyScienceVision**) und ernannte Moderatoren aktiv überwacht.
+Zukunftsdemokratie soll kontrovers, aber sachlich diskutiert werden.
 
-* **Maßnahmen:** Beiträge (Issues, Kommentare, Discussions), die gegen diesen Kodex verstoßen, werden je nach Schweregrad editiert, verborgen oder vollständig gelöscht.
-* **Konsequenzen:** Bei wiederholtem oder schwerwiegendem Verstoß gegen die Spielregeln behalten wir uns das Recht vor, Nutzer temporär oder dauerhaft für dieses GitHub-Repository und alle damit verbundenen Kommunikationskanäle zu sperren.
+Harte Kritik an Ideen, Annahmen, Argumenten und Vorschlägen ist ausdrücklich erwünscht. Persönliche Angriffe, Herabwürdigung, Diskriminierung und destruktive Polemik sind nicht akzeptabel.
+
+Der Maßstab lautet:
+
+> Kritik an Ideen: ja. Abwertung von Personen: nein.
 
 ---
 
-## 5. Meldung von Verstößen
+## 3. Erwünschtes Verhalten
 
-Wenn du ein Verhalten bemerkst, das gegen diesen Verhaltenskodex verstößt, melde dies bitte direkt an die Projektleitung. Wir sichern absolute Vertraulichkeit bei der Prüfung
-des Vorfalls zu.
+Erwünscht sind insbesondere:
+
+- sachliche Argumentation
+- präzise Fragen
+- Hinweise auf Widersprüche oder blinde Flecken
+- juristische, ökonomische, technische oder praktische Einordnungen
+- Quellen, Daten, Beispiele oder Erfahrungswerte, soweit verfügbar
+- konkrete Verbesserungsvorschläge
+- respektvoller Umgang mit abweichenden Positionen
+- Bereitschaft, eigene Annahmen zu überprüfen
+
+Kritik muss nicht vollständig ausgearbeitet sein. Auch gut begründete Zweifel oder offene Fragen können wertvoll sein.
+
+---
+
+## 4. Unerwünschtes Verhalten
+
+Nicht akzeptiert werden insbesondere:
+
+- persönliche Angriffe
+- Beleidigungen
+- herabwürdigende oder diskriminierende Sprache
+- Drohungen oder Einschüchterung
+- Unterstellungen ohne sachliche Grundlage
+- parteipolitische Werbung oder Kampagnenkommunikation
+- Spam, Eigenwerbung oder themenfremde Beiträge
+- wiederholtes Stören von Diskussionen ohne inhaltlichen Beitrag
+- bewusste Falschdarstellungen des Projekts oder seiner offiziellen Fassung
+
+Diskussionen über politische Grundrichtungen sind möglich, wenn sie dem Verständnis oder der Prüfung des Projekts dienen. Reine Lager-, Kulturkampf- oder Parteidebatten gehören nicht in dieses Repository.
+
+---
+
+## 5. Umgang mit kontroversen Themen
+
+Zukunftsdemokratie behandelt Themen, die politisch, rechtlich und gesellschaftlich kontrovers sein können.
+
+Kontroverse ist kein Problem, solange sie sachlich geführt wird.
+
+Erwartet wird:
+
+- Kritik am konkreten Argument statt an der Person
+- Benennung von Unsicherheiten
+- Trennung von Tatsachenbehauptung, Bewertung und politischer Präferenz
+- Bereitschaft, Gegenargumente korrekt wiederzugeben
+- Verzicht auf pauschale Zuschreibungen gegenüber Gruppen
+
+---
+
+## 6. Moderation
+
+Die Projektleitung kann Beiträge moderieren, wenn sie gegen diesen Verhaltenskodex verstoßen.
+
+Mögliche Maßnahmen sind:
+
+- Hinweis auf den Verhaltenskodex
+- Bitte um Überarbeitung eines Beitrags
+- Ausblenden oder Löschen einzelner Beiträge
+- Schließen von Diskussionen
+- Einschränkung weiterer Beteiligung bei wiederholten oder schweren Verstößen
+
+Moderationsentscheidungen sollen sich am Schutz einer sachlichen und produktiven Diskussion orientieren.
+
+---
+
+## 7. Meldung von Verstößen
+
+Verstöße gegen diesen Verhaltenskodex können der Projektleitung gemeldet werden.
+
+Meldungen werden vertraulich behandelt, soweit dies im Rahmen der Prüfung und der technischen Möglichkeiten des jeweiligen Kommunikationskanals möglich ist.
