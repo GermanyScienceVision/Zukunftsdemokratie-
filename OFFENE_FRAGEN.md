@@ -3,7 +3,7 @@
 **Projekt:** Zukunftsdemokratie  
 **Status:** Strukturierte Arbeitsfassung  
 **Version:** v0.1.0  
-**Stand:** Mai 2026  
+**Stand:** Mai 2026
 
 ---
 
@@ -22,6 +22,8 @@ Das Ziel ist:
 - Risiken früh prüfen
 - Gegenargumente ernst nehmen
 - Reformideen belastbarer machen
+
+Dieses Dokument ergänzt das [README](README.md), die [KURZFASSUNG](KURZFASSUNG.md) und die [ROADMAP](ROADMAP.md).
 
 ---
 
@@ -193,6 +195,7 @@ Das Ziel ist:
 - Wie verhindert man, dass ein Gesellschaftsdienst sozial ungleich wirkt?
 - Welche Ausnahmen und Schutzmechanismen braucht es für Menschen, die nicht leistungsfähig sind?
 - Wie kann aktivierende Sozialpolitik stärken, ohne zu demütigen oder zu sanktionieren, wo Hilfe nötig ist?
+- Wie verhindert man eine Stigmatisierung der Empfänger durch Coupon-Systeme oder ähnliche Mechanismen?
 - Wie wird Verantwortung auch bei sehr wohlhabenden Gruppen eingefordert?
 - Welche Missbrauchsrisiken bestehen?
 - Wie lässt sich verhindern, dass das Modul die gesamte Reformarchitektur politisch überlagert?
@@ -215,12 +218,13 @@ Das Ziel ist:
 
 ## 9. Kommunikation und Verständlichkeit
 
-- Ist der Begriff „Zukunftsdemokratie“ verständlich?
+- Ist der Begriff „Zukunftsdemokratie" verständlich?
 - Wirkt das Projekt zu groß?
 - Welche Begriffe können missverstanden werden?
 - Welche Begriffe wirken technokratisch?
 - Welche Begriffe wirken politisch zu radikal?
 - Welche Begriffe wirken parteipolitisch, obwohl sie es nicht sein sollen?
+- Wie lässt sich das Projekt von einem politischen Programm abgrenzen, ohne unpolitisch zu wirken?
 - Wie lässt sich das Projekt in einem Satz erklären?
 - Wie lässt sich das Projekt auf einer Seite erklären?
 - Welche Teile brauchen Beispiele?
@@ -264,3 +268,13 @@ Jede Ausarbeitung im Projekt sollte sich an drei Prüffragen messen lassen:
 1. **Ist die Idee demokratisch legitimierbar?**
 2. **Ist die Idee wissenschaftlich und praktisch belastbar?**
 3. **Hilft die Idee, Deutschland im demografischen Wandel resilienter zu machen?**
+
+---
+
+## Weiterführende Diskussion
+
+Konkrete Kritik, offene Konflikte und Antworten auf Einwände werden in folgenden Dokumenten gesammelt:
+
+- [Kritikpunkte](diskussion/kritikpunkte.md)
+- [Offene Konflikte](diskussion/offene-konflikte.md)
+- [Antworten auf Einwände](diskussion/antworten-auf-einwaende.md)
