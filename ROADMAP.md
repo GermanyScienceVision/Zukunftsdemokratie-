@@ -1,60 +1,238 @@
-# Zielsetzung und Meilensteine (Goals & Roadmap) – Projekt Zukunftsdemokratie
+# Roadmap
 
-Dieses Dokument definiert die strategischen Kernziele des Projekts „Zukunftsdemokratie“ sowie die operativen Meilensteine unserer gestuften Validierungsphase.
-
----
-
-## 1. Strategische Kernziele (Das „Warum“)
-
-Das übergeordnete Ziel des Projekts ist das Design einer krisenfesten staatlichen Gesamtarchitektur, die den demografischen Wandel durch den gezielten Einsatz von Technologie abfedert. Dies gliedert sich in drei Kernziele:
-
-* **🎯 Sicherung der staatlichen Handlungsfähigkeit:** Gewährleistung, dass kritische Sektoren (Verwaltung, Bildung, Pflege, Energie) trotz des massiven Rückgangs an Arbeits- und Fachkräften in den kommenden Jahrzehnten voll funktionsfähig, produktiv und bürgernah bleiben.
-* **🎯 Etablierung digitaler Souveränität (Modell „Residenz“):** Befreiung der Bundesrepublik von kritischen Abhängigkeiten proprietärer, außereuropäischer Software-Monopole auf allen staatlichen Ebenen – bis hinunter zur Betriebssystem-Ebene (OS).
-* **🎯 Konstruktive Verfassungsevolution:** Erarbeitung von konkreten, juristisch sauberen Anpassungsvorschlägen für den verfassungsrechtlichen Rahmen (z. B. Föderalismusreformen), um digitale Innovationen ohne administrative Blockaden flächendeckend ausrollen zu können.
+**Projekt:** Zukunftsdemokratie  
+**Status:** Strukturierte Arbeitsfassung  
+**Version:** v0.1.0  
+**Stand:** Mai 2026  
 
 ---
 
-## 2. Operative Ziele für die Entwicklungsphase
+## 1. Zweck dieser Roadmap
 
-Um diese Großziele zu erreichen, setzen wir uns für die Arbeit in diesem Repository folgende operative Leitplanken:
+Diese Roadmap beschreibt die geplante Entwicklung des Projekts **Zukunftsdemokratie**.
 
-* **Modularität:** Jedes Reformfeld wird so präzise beschrieben, dass einzelne Module unabhängig voneinander diskutiert, optimiert und theoretisch implementiert werden können.
-* **Evidenzsicherung:** Zu jeder These und jedem Architektur-Entwurf wird im Laufe des Prozesses die entsprechende wissenschaftliche oder praktische Evidenz (Studien, Best Practices, Experten-Feedback) hinzugefügt.
-* **Kritik-Resistenz:** Das Konzept wird so lange gegen die härtesten Gegenargumente aus der Praxis geschärft, bis es eine nachweisbare politische und gesellschaftliche Anschlussfähigkeit besitzt.
+Sie dient nicht als politischer Kampagnenplan, sondern als Arbeits- und Entwicklungsplan für ein versioniertes Reformmodell.
 
----
+Ziel ist es, die vorhandenen Inhalte schrittweise in eine nachvollziehbare, prüfbare und diskussionsfähige Repository-Struktur zu überführen.
 
-## 3. Der Fahrplan (Phasenmodell der Validierung)
+Das Leitprinzip lautet:
 
-Das Projekt folgt dem strikten Prinzip **Substanz vor Reichweite**. Der Prozess ist in drei aufeinander aufbauende Phasen unterteilt:
-
-### 🟩 Phase 1: Geschützte Validierung & Fundament (Aktuelle Phase)
-* **Ziel:** Prüfung der Grundideen auf Verständlichkeit, Logikfehler und begriffliche Schärfe.
-* **Fokus:** Vertrauliche Fachgespräche mit Praktikern aus den Basis-Sektoren (Pflege, Schule, Kommunalverwaltung) sowie kleineren, hochspezialisierten Audio-/Videoformaten (Nischen-Podcasts).
-* **Ergebnis:** Ein sprachlich klares, in sich konsistentes Gesamtkonzept, das die unmittelbaren Einwände der Praxis bereits integriert hat.
-
-### 🟨 Phase 2: Fachliche Tiefenprüfung & Substanzgewinn
-* **Ziel:** Validierung der technologischen, wirtschaftlichen und juristischen Machbarkeit.
-* **Fokus:** Einbindung von etablierten Fachpodcasts, Wissenschaftlern, IT-Architekten aus dem KRITIS-Umfeld und politischen Kommentatoren mit mittlerer Reichweite.
-* **Ergebnis:** Ein belastbarer Entwurf, bei dem die wichtigsten wissenschaftlichen Gegenargumente und politischen Konfliktlinien bekannt, analysiert und konzeptionell gelöst sind.
-
-### 🟦 Phase 3: Strategische Vernetzung & Anschlussfähigkeit
-* **Ziel:** Prüfung des Mobilisierungspotenzials und der gesellschaftspolitischen Tragfähigkeit.
-* **Fokus:** Ansprache reichweitenstarker öffentlicher Stimmen, bekannter Wissenschaftskommunikatoren und Akteure mit direktem Zugang zu politischen Institutionen und Medien.
-* **Ergebnis:** Eine fundierte Entscheidungsgrundlage darüber, ob, wann und in welcher Form das Konzept in eine breite, öffentliche Kommunikationsstrategie überführt wird.
+> Erst Substanz schaffen, dann Resonanz suchen.
 
 ---
 
-## 4. Messbare Erfolgskriterien (KPIs) für das Repository
+## 2. Strategisches Ziel
 
-Wir messen den Erfolg dieses Repositories nicht an kurzfristigen "Sterne-Zahlen" (Stars), sondern an der Qualität der Interaktion:
-1. **Qualität der Issues:** Konstruktive Fehlerberichte oder logische Lücken, die von der Community aufgezeigt und über Pull Requests gelöst werden.
-2. **Sektoren-Abdeckung:** Vollständige, detaillierte Ausarbeitung aller 5 Transformations-Sektoren mit konkreten technologischen Architektur-Blaupausen.
-3. **Experten-Validierung:** Dokumentiertes Feedback aus mindestens drei unterschiedlichen Fachdisziplinen pro Sektor vor dem Übergang in die nächste Phase.
+Zukunftsdemokratie verfolgt das Ziel, eine Reformarchitektur für ein demokratisches, wissenschaftsorientiertes und soziales Deutschland im Zeitalter von KI, Demografie und globaler Transformation zu entwickeln.
+
+Im Zentrum steht die Frage:
+
+> Wie kann Deutschland die digitale Revolution nutzen, um den demografischen Wandel resilient zu bewältigen?
+
+Das Projekt verbindet fünf Reformrichtungen:
+
+1. Produktivitäts-Dividende
+2. Öffentliche Grundversorgung
+3. Bildung, Technologie und Verwaltung
+4. Agile wissenschaftsgetriebene Politik
+5. Gesellschaftlicher Zusammenhalt
+
+Ergänzt wird diese Architektur durch das Querschnittsmodul **Reziproke Solidarität**.
 
 ---
 
-**Verantwortlich für die Roadmap-Einhaltung:**  
-Projektleitung: **User GermanyScienceVision**  
-*Status der Roadmap: Laufende Pflege und dynamische Anpassung basierend auf den Ergebnissen der 
-aktuellen Phase 1.*
+## 3. Entwicklungsstufen
+
+Die Entwicklung erfolgt versioniert.
+
+### v0.1.0 – Erste strukturierte Repository-Fassung
+
+**Ziel:**  
+Die Grundstruktur des Projekts wird sichtbar gemacht.
+
+**Inhalt:**
+
+- README überarbeiten
+- Kurzfassung erstellen
+- Ordnerstruktur anlegen
+- Kapiteldateien als strukturierte Platzhalter anlegen
+- Modulordner anlegen
+- Anlagenordner anlegen
+- Diskussionsordner anlegen
+- grundlegende Versionierungslogik einführen
+
+**Status:** aktuelle Arbeitsstufe
+
+---
+
+### v0.2.0 – Vollständige Übertragung der Kapitel
+
+**Ziel:**  
+Die vorhandenen Kapitel werden vollständig in die neue Repository-Struktur übertragen.
+
+**Inhalt:**
+
+- Kapitel 1 vollständig übertragen
+- Kapitel 2 vollständig übertragen
+- Kapitel 3 vollständig übertragen
+- Kapitel 4 Teil 1 und Teil 2 zusammenführen
+- Kapitel 5 als Arbeitsfassung ergänzen
+- Modul Reziproke Solidarität vollständig übertragen
+- interne Links prüfen
+- einheitliche Kopfzeilen und Dokumentstatus sicherstellen
+
+**Ergebnis:**  
+Das Projekt liegt erstmals als vollständige strukturierte Arbeitsfassung im Repository vor.
+
+---
+
+### v0.3.0 – Erste öffentliche Diskussionsfassung
+
+**Ziel:**  
+Das Projekt wird so aufbereitet, dass es fachlich und öffentlich diskutiert werden kann.
+
+**Inhalt:**
+
+- zentrale Begriffe klären
+- offene Fragen systematisieren
+- juristische Prüfbedarfe sammeln
+- Finanzierungslogik gesondert darstellen
+- Quellen- und Prüfbedarf dokumentieren
+- Kritikpunkte und Gegenargumente sichtbar machen
+- Issue-Struktur vorbereiten
+- Beitragshinweise ergänzen
+
+**Ergebnis:**  
+Das Projekt ist als erste öffentliche Diskussionsfassung nutzbar.
+
+---
+
+### v0.4.0 – Überarbeitung nach Rückmeldungen
+
+**Ziel:**  
+Rückmeldungen aus fachlicher und öffentlicher Diskussion werden ausgewertet und eingearbeitet.
+
+**Inhalt:**
+
+- sachliche Kritik prüfen
+- juristische Einwände einordnen
+- ökonomische Plausibilitätsfragen nachschärfen
+- politische Umsetzbarkeit realistischer darstellen
+- Widersprüche markieren oder auflösen
+- unklare Begriffe präzisieren
+- nicht tragfähige Vorschläge überarbeiten oder entfernen
+
+**Ergebnis:**  
+Das Projekt wird robuster gegenüber Kritik und fachlicher Prüfung.
+
+---
+
+### v1.0.0 – Erste stabile Grundfassung
+
+**Ziel:**  
+Eine erste stabile Grundfassung der Reformarchitektur wird veröffentlicht.
+
+**Inhalt:**
+
+- alle Hauptkapitel vollständig ausgearbeitet
+- Modulstruktur geklärt
+- zentrale Anlagen vorhanden
+- offene Fragen transparent dokumentiert
+- wichtigste Gegenargumente beantwortet
+- Governance und Fork-Regeln stabilisiert
+- Lizenz geklärt
+
+**Ergebnis:**  
+Zukunftsdemokratie liegt als stabile, zitierfähige Grundfassung vor.
+
+---
+
+## 4. Operative Arbeitsprinzipien
+
+### Struktur vor Öffentlichkeit
+
+Das Projekt soll zunächst intern und strukturell belastbar sein, bevor es aktiv öffentlich beworben wird.
+
+### Prüfung vor Behauptung
+
+Zentrale Thesen sollen nicht nur behauptet, sondern mit Quellen, Plausibilitätsprüfungen, Gegenargumenten und offenen Fragen unterlegt werden.
+
+### Kritik sichtbar machen
+
+Kritikpunkte, offene Konflikte und Gegenargumente sollen nicht versteckt, sondern dokumentiert werden.
+
+### Versionierung statt Endgültigkeit
+
+Jede Fassung ist ein nachvollziehbarer Arbeitsstand. Änderungen sollen dokumentiert und begründet werden.
+
+### Demokratie bleibt Grundlage
+
+Das Projekt versteht Wissenschaft, Technologie und institutionelle Reform nicht als Ersatz demokratischer Entscheidung, sondern als Mittel, demokratische Politik verantwortlicher, lernfähiger und wirksamer zu machen.
+
+---
+
+## 5. Geplante Arbeitsbereiche
+
+### Kapitel
+
+- [Kapitel 1 – Produktivitäts-Dividende](kapitel/01-produktivitaets-dividende.md)
+- [Kapitel 2 – Öffentliche Grundversorgung](kapitel/02-oeffentliche-grundversorgung.md)
+- [Kapitel 3 – Bildung, Technologie und Verwaltung](kapitel/03-bildung-technologie-verwaltung.md)
+- [Kapitel 4 – Agile wissenschaftsgetriebene Politik](kapitel/04-agile-wissenschaftsgetriebene-politik.md)
+- [Kapitel 5 – Gesellschaftlicher Zusammenhalt](kapitel/05-gesellschaftlicher-zusammenhalt.md)
+
+### Module
+
+- [Modul – Reziproke Solidarität](module/reziproke-solidaritaet.md)
+
+### Anlagen
+
+- [Begriffe](anlagen/begriffe.md)
+- [Juristische Fragen](anlagen/juristische-fragen.md)
+- [Finanzierungslogik](anlagen/finanzierungslogik.md)
+- [Quellen und Prüfbedarf](anlagen/quellen-und-pruefbedarf.md)
+
+### Diskussion
+
+- [Kritikpunkte](diskussion/kritikpunkte.md)
+- [Offene Konflikte](diskussion/offene-konflikte.md)
+- [Antworten auf Einwände](diskussion/antworten-auf-einwaende.md)
+
+---
+
+## 6. Erfolgskriterien
+
+Der Fortschritt des Projekts wird nicht primär an Reichweite, Aufmerksamkeit oder GitHub-Sternen gemessen.
+
+Wichtiger sind:
+
+- Vollständigkeit der Kapitelstruktur
+- Verständlichkeit der Argumentation
+- Nachvollziehbarkeit der Versionen
+- Qualität der Kritik
+- Sichtbarkeit offener Fragen
+- fachliche Prüfbarkeit
+- juristische und ökonomische Plausibilität
+- demokratische Anschlussfähigkeit
+
+---
+
+## 7. Verantwortlichkeit
+
+Die offizielle Fassung dieses Repositorys wird über den GitHub-Account **GermanyScienceVision** gepflegt.
+
+Hinter dem Projekt steht nach aktuellem Stand keine Partei, keine parteinahe Organisation, kein Verband, keine Lobbyorganisation und keine Kampagne.
+
+Die Projektleitung entscheidet, welche Änderungen in die offizielle Fassung übernommen werden. Forks und alternative Bearbeitungen sind möglich, müssen aber als solche kenntlich gemacht werden.
+
+---
+
+## 8. Aktueller Stand
+
+Aktueller Arbeitsstand:
+
+> **v0.1.0 – Erste strukturierte Repository-Fassung**
+
+Diese Fassung dient dazu, die Architektur des Projekts sichtbar zu machen und die vorhandenen Inhalte in eine geordnete Struktur zu überführen.
+
+Sie ist noch keine vollständige öffentliche Diskussionsfassung.
