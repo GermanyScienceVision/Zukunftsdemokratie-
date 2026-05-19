@@ -1,13 +1,11 @@
 # Zukunftsdemokratie
 
-**Für einen Staat, der vorausdenkt.**
-
 Eine Reformarchitektur für ein demokratisches, wissenschaftsorientiertes und soziales Deutschland im Zeitalter von KI, Demografie und globaler Transformation.
 
 Das Projekt versteht sich nicht als Sammlung isolierter Forderungen, sondern als miteinander verzahnte Reformarchitektur.
 
-**Status:** Strukturierte Arbeitsfassung  
-**Version:** v0.1.0  
+**Status:** Strukturierte Arbeitsfassung
+**Version:** v0.1.0
 **Stand:** Mai 2026
 
 ---
@@ -28,7 +26,7 @@ Im Mittelpunkt stehen fünf Herausforderungen:
 
 Zukunftsdemokratie versteht sich nicht als Parteiprogramm, Wahlkampfpapier oder fertiger Gesetzesentwurf, sondern als offene, überprüfbare und weiterzuentwickelnde Reformarchitektur.
 
-Für einen kompakten Einstieg siehe: [Kurzfassung lesen](KURZFASSUNG.md)
+Für einen kompakten Einstieg siehe: [Kurzfassung lesen](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/KURZFASSUNG.md)
 
 ---
 
@@ -37,6 +35,10 @@ Für einen kompakten Einstieg siehe: [Kurzfassung lesen](KURZFASSUNG.md)
 Die zentrale Annahme dieses Projekts lautet:
 
 Deutschland braucht nicht nur einzelne Reformen, sondern eine neue Verbindung aus wirtschaftlicher Leistungsfähigkeit, sozialer Stabilität, demokratischer Kontrolle, wissenschaftlicher Evidenz und gesellschaftlichem Zusammenhalt.
+
+Die im Konzept gewählten Positionen folgen nicht einer politischen Lagerlogik, sondern der Analyse der jeweiligen Problemstellung. Wo die beste Lösung als progressiv gilt, ist sie progressiv. Wo sie als konservativ gilt, ist sie konservativ. Wo sie als liberal gilt, ist sie liberal. Eine künstliche Balance zwischen den Lagern wird nicht angestrebt. Zukunftsdemokratie versteht sich als lösungsorientiert statt lager-orientiert.
+
+Das Konzept ist als zusammenhängende Architektur angelegt, nicht als Sammlung einzeln übernehmbarer Bausteine. Die Kapitel, Module und Anlagen sind aufeinander bezogen. Mitwirkungspflichten setzen Schutzmechanismen voraus, Reformen setzen Verwaltungsmodernisierung voraus, wissenschaftliche Politik setzt institutionelle Verankerung voraus. Wer einzelne Bausteine übernehmen möchte, sollte vorher die Verzahnung mit den anderen Bestandteilen prüfen. Eine selektive Übernahme ohne diese Prüfung kann das Konzept verfehlen und zu Schiefe in der Umsetzung führen.
 
 Die vorgeschlagenen Reformen sollen daher nicht isoliert betrachtet werden. Sie greifen ineinander:
 
@@ -60,7 +62,7 @@ Kapitel 1 beschreibt die finanzielle und ökonomische Grundlage des Reformmodell
 
 Die Leitidee lautet: Wer durch KI, Robotik und Automatisierung massiv produktiver wird, gibt einen Teil dieses Produktivitätsgewinns an die Gesellschaft zurück, die ihn ermöglicht hat.
 
-[Kapitel 1 lesen](kapitel/01-produktivitaets-dividende.md)
+[Kapitel 1 lesen](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/kapitel/01-produktivitaets-dividende.md)
 
 ### 2. Öffentliche Grundversorgung
 
@@ -70,7 +72,7 @@ Kapitel 2 behandelt die demokratische Kontrolle und verlässliche Organisation k
 
 Dazu gehören insbesondere Energie, Wasser, Verkehr, digitale Infrastruktur, Bildung, Gesundheit, Pflege und Wohnraum.
 
-[Kapitel 2 lesen](kapitel/02-oeffentliche-grundversorgung.md)
+[Kapitel 2 lesen](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/kapitel/02-oeffentliche-grundversorgung.md)
 
 ### 3. Bildung, Technologie und Verwaltung
 
@@ -80,7 +82,7 @@ Kapitel 3 verbindet Bildungsreform, technologische Souveränität und Verwaltung
 
 Die Grundannahme lautet: Ohne befähigte Menschen, beherrschbare Technologie und eine handlungsfähige Verwaltung scheitern alle weiteren Reformen.
 
-[Kapitel 3 lesen](kapitel/03-bildung-technologie-verwaltung.md)
+[Kapitel 3 lesen](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/kapitel/03-bildung-technologie-verwaltung.md)
 
 ### 4. Agile wissenschaftsgetriebene Politik
 
@@ -90,7 +92,7 @@ Kapitel 4 beschreibt die Entscheidungsarchitektur des Reformmodells.
 
 Es geht um evidenzbasierte Gesetzgebung, wissenschaftliche Mindeststandards, lernfähige Politik, Evaluation, Sunset-Klauseln, Integrität, Lobbykontrolle und messbare Wahlversprechen.
 
-[Kapitel 4 lesen](kapitel/04-agile-wissenschaftsgetriebene-politik.md)
+[Kapitel 4 lesen](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/kapitel/04-agile-wissenschaftsgetriebene-politik.md)
 
 ### 5. Gesellschaftlicher Zusammenhalt
 
@@ -100,7 +102,7 @@ Kapitel 5 behandelt die soziale, kulturelle und generationelle Klammer der Gesam
 
 Es soll beschreiben, wie Modernisierung so gestaltet werden kann, dass sie nicht spaltet, sondern Zugehörigkeit, Verantwortung und Teilhabe stärkt.
 
-[Kapitel 5 lesen](kapitel/05-gesellschaftlicher-zusammenhalt.md)
+[Kapitel 5 lesen](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/kapitel/05-gesellschaftlicher-zusammenhalt.md)
 
 ---
 
@@ -116,7 +118,7 @@ Das Modul „Reziproke Solidarität" behandelt Verantwortungsteilung, allgemeine
 
 Es ist als Querschnittsmodul angelegt und ergänzt die Sozialstaatslogik der Gesamtkonzeption.
 
-[Modul lesen](module/reziproke-solidaritaet.md)
+[Modul lesen](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/module/reziproke-solidaritaet.md)
 
 ---
 
@@ -124,10 +126,10 @@ Es ist als Querschnittsmodul angelegt und ergänzt die Sozialstaatslogik der Ges
 
 Die Anlagen sammeln technische, juristische, finanzielle und begriffliche Vertiefungen.
 
-- [Begriffe](anlagen/begriffe.md)
-- [Juristische Fragen](anlagen/juristische-fragen.md)
-- [Finanzierungslogik](anlagen/finanzierungslogik.md)
-- [Quellen und Prüfbedarf](anlagen/quellen-und-pruefbedarf.md)
+- [Begriffe](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/anlagen/begriffe.md)
+- [Juristische Fragen](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/anlagen/juristische-fragen.md)
+- [Finanzierungslogik](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/anlagen/finanzierungslogik.md)
+- [Quellen und Prüfbedarf](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/anlagen/quellen-und-pruefbedarf.md)
 
 ---
 
@@ -135,10 +137,10 @@ Die Anlagen sammeln technische, juristische, finanzielle und begriffliche Vertie
 
 Das Projekt versteht sich als Diskussionsgrundlage. Kritik, offene Konflikte und Gegenargumente sollen sichtbar dokumentiert werden.
 
-- Noch nicht abschließend geklärte Punkte werden in [OFFENE_FRAGEN.md](OFFENE_FRAGEN.md) gesammelt.
-- [Kritikpunkte](diskussion/kritikpunkte.md)
-- [Offene Konflikte](diskussion/offene-konflikte.md)
-- [Antworten auf Einwände](diskussion/antworten-auf-einwaende.md)
+- Noch nicht abschließend geklärte Punkte werden in [OFFENE_FRAGEN.md](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/OFFENE_FRAGEN.md) gesammelt.
+- [Kritikpunkte](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/diskussion/kritikpunkte.md)
+- [Offene Konflikte](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/diskussion/offene-konflikte.md)
+- [Antworten auf Einwände](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/diskussion/antworten-auf-einwaende.md)
 
 ---
 
@@ -156,7 +158,7 @@ Geplante Entwicklungsstufen:
 - `v0.4.0` – überarbeitete Fassung nach erstem Feedback
 - `v1.0.0` – erste stabile Grundfassung
 
-Die geplanten Entwicklungsschritte sind in der [Roadmap](ROADMAP.md) dokumentiert.
+Die geplanten Entwicklungsschritte sind in der [Roadmap](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/ROADMAP.md) dokumentiert.
 
 ---
 
@@ -188,7 +190,7 @@ Zukunftsdemokratie ist kein technokratisches Ersatzmodell für Demokratie.
 
 Das Projekt versteht Wissenschaft nicht als Ersatz für demokratische Entscheidung, sondern als Mindeststandard für verantwortliche Politik. Die letzte Entscheidung bleibt demokratisch legitimierten Institutionen vorbehalten.
 
-Eine ausführlichere Abgrenzung des Projekts findet sich in [ABGRENZUNG.md](ABGRENZUNG.md).
+Eine ausführlichere Abgrenzung des Projekts findet sich in [ABGRENZUNG.md](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/ABGRENZUNG.md).
 
 ---
 
@@ -205,9 +207,9 @@ Beiträge sollen sich am Charakter des Projekts orientieren:
 - wissenschaftsoffen
 - nicht parteipolitisch vereinnahmend
 
-Für größere Änderungen sollen Issues oder Pull Requests genutzt werden. Für strukturiertes Feedback steht das [Feedback-Template](FEEDBACK_TEMPLATE.md) zur Verfügung.
+Für größere Änderungen sollen Issues oder Pull Requests genutzt werden.
 
-Regeln für Beiträge, Forks, Projektpflege und offizielle Fassungen sind in der [Governance](GOVERNANCE.md) beschrieben. Der Umgangston und die Diskussionskultur sind im [Verhaltenskodex](CODE_OF_CONDUCT.md) geregelt.
+Regeln für Beiträge, Forks, Projektpflege und offizielle Fassungen sind in der [Governance](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/GOVERNANCE.md) beschrieben.
 
 ---
 
@@ -221,8 +223,10 @@ Forks, Bearbeitungen und Ableitungen sind möglich, müssen aber als solche kenn
 
 ## Lizenz
 
-Dieses Projekt steht unter der **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** Lizenz.
+Die konkrete Lizenzstruktur des Projekts befindet sich noch in Ausarbeitung.
 
-Die Inhalte dürfen geteilt, bearbeitet und weiterentwickelt werden, sofern die Urheberschaft angegeben, Änderungen kenntlich gemacht und abgeleitete Fassungen unter derselben Lizenz veröffentlicht werden. Damit ist offene Weiterentwicklung möglich, während gleichzeitig verhindert wird, dass abgeleitete Fassungen proprietär geschlossen werden.
+Bis zur endgültigen Festlegung der Lizenz dient dieses Repository ausschließlich der öffentlichen Diskussion, Analyse und Weiterentwicklung des Reformkonzepts.
 
-Der vollständige Lizenztext ist in der Datei [LICENSE](LICENSE) dokumentiert. Weitere Informationen zur Lizenz: <https://creativecommons.org/licenses/by-sa/4.0/>
+Forks und Diskussionen sind ausdrücklich erwünscht. Irreführende Nutzung im Namen des Projekts oder die Darstellung inoffizieller Fassungen als offizielle Projektversion soll vermieden werden.
+
+Die konkrete Lizenz ist in der Datei [LICENSE](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/LICENSE) dokumentiert.
