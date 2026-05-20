@@ -242,8 +242,6 @@ Die offene Repository-Struktur ist gerade darauf angelegt, diese Mitarbeit zu er
 ### Diskussion
 
 - [Kritikpunkte](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/diskussion/kritikpunkte.md)
-- [Offene Konflikte](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/diskussion/offene-konflikte.md)
-- [Antworten auf Einwände](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/diskussion/antworten-auf-einwaende.md)
 
 ---
 
