@@ -221,10 +221,4 @@ Forks, Bearbeitungen und Ableitungen sind möglich, müssen aber als solche kenn
 
 ## Lizenz
 
-Die konkrete Lizenzstruktur des Projekts befindet sich noch in Ausarbeitung.
-
-Bis zur endgültigen Festlegung der Lizenz dient dieses Repository ausschließlich der öffentlichen Diskussion, Analyse und Weiterentwicklung des Reformkonzepts.
-
-Forks und Diskussionen sind ausdrücklich erwünscht. Irreführende Nutzung im Namen des Projekts oder die Darstellung inoffizieller Fassungen als offizielle Projektversion soll vermieden werden.
-
-Die konkrete Lizenz ist in der Datei [LICENSE](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/LICENSE) dokumentiert.
+Dieses Projekt steht unter CC BY-SA 4.0. Die Lizenz ist in LICENSE dokumentiert. Ergänzende Hinweise zur korrekten Namensnennung und Kennzeichnung von Forks finden sich in GOVERNANCE.md.
