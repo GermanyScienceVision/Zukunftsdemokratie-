@@ -137,10 +137,8 @@ Die Anlagen sammeln technische, juristische, finanzielle und begriffliche Vertie
 
 Das Projekt versteht sich als Diskussionsgrundlage. Kritik, offene Konflikte und Gegenargumente sollen sichtbar dokumentiert werden.
 
-- Noch nicht abschließend geklärte Punkte werden in [OFFENE_FRAGEN.md](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/OFFENE_FRAGEN.md) gesammelt.
 - [Kritikpunkte](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/diskussion/kritikpunkte.md)
-- [Offene Konflikte](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/diskussion/offene-konflikte.md)
-- [Antworten auf Einwände](https://github.com/GermanyScienceVision/Zukunftsdemokratie-/blob/main/diskussion/antworten-auf-einwaende.md)
+
 
 ---
 
