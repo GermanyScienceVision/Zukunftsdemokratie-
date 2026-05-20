@@ -91,8 +91,6 @@ Grundlegende Einwände, offene Konflikte und Gegenargumente sollen nicht verstec
 
 - [Kritikpunkte](diskussion/kritikpunkte.md)
 - [Offene Konflikte](diskussion/offene-konflikte.md)
-- [Antworten auf Einwände](diskussion/antworten-auf-einwaende.md)
-- [Offene Fragen](OFFENE_FRAGEN.md)
 
 ---
 
