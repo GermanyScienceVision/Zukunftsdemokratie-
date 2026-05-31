@@ -1,11 +1,10 @@
 # Modul: Solidarische Versicherungen
 
 **Leitformel:** *Alle tragen nach Leistungsfähigkeit. Alle erhalten nach Bedarf. Versorgung wird gesichert.*
-
-**Status:** Strukturierte Arbeitsfassung – erste Iteration
-**Version:** v0.1.0
-**Stand:** Mai 2026
 **Teil der Gesamtkonzeption:** Zukunftsdemokratie
+**Typ:** Fachmodul
+
+Dieses Modul ist Teil des Konzepts Zukunftsdemokratie. Es behandelt die grundlegende Reform der Kranken-, Pflege- und Arbeitslosenversicherung als zusammenhängende Architektur und verzahnt sich mit den fünf Kapiteln, den anderen Modulen und den Anlagen. Die strukturellen Grundregeln finden sich in der `ARCHITEKTUR.md` im Repository-Root. Die finanzielle Detail-Architektur findet sich in der Anlage `anlagen/finanzierungslogik.md`.
 
 ---
 
@@ -13,11 +12,11 @@
 
 Dieses Dokument enthält zwei Arten von eingerückten Hinweisboxen, die das Lesen erleichtern sollen.
 
-> **Juristische Einordnung**
-> Hier wird benannt, welche Verfassungs-, EU- oder Verwaltungsrechtsfragen sich an einer bestimmten Stelle stellen, welche Lösungswege existieren und wo juristische Grenzen liegen.
+**Juristische Einordnung**
+Hier wird benannt, welche Verfassungs-, EU- oder Verwaltungsrechtsfragen sich an einer bestimmten Stelle stellen, welche Lösungswege existieren und wo juristische Grenzen liegen.
 
-> **Diskussionspunkt**
-> Hier werden Bedenken transparent benannt, die in der weiteren Diskussion zu klären sind. Sie sind nicht versteckt, sondern bewusst sichtbar gemacht, damit das Konzept ehrlich gegen seine eigenen Schwächen geprüft werden kann.
+**Diskussionspunkt**
+Hier werden Bedenken transparent benannt, die in der weiteren Diskussion zu klären sind. Sie sind nicht versteckt, sondern bewusst sichtbar gemacht, damit das Konzept ehrlich gegen seine eigenen Schwächen geprüft werden kann.
 
 Der Hauptkonzepttext bleibt davon unberührt und kann separat gelesen werden. Die Hinweisboxen vertiefen, schmälern aber nicht die Argumentation.
 
@@ -26,15 +25,35 @@ Der Hauptkonzepttext bleibt davon unberührt und kann separat gelesen werden. Di
 ## Inhaltsverzeichnis
 
 - [Hinweis zur Lesehilfe](#hinweis-zur-lesehilfe)
-- [Teil A: Leitidee und gemeinsame Grundsätze](#teil-a-leitidee-und-gemeinsame-grundsätze)
+- [Einordnung als Hochrisiko-Reform nach Architektur-Regel 1](#einordnung-als-hochrisiko-reform-nach-architektur-regel-1)
+- [Teil A: Leitidee und gemeinsame Grundsätze](#teil-a-leitidee-und-gemeinsame-grundsaetze)
 - [Teil B: Ausgangslage und Zwei-Szenarien-Argumentation](#teil-b-ausgangslage-und-zwei-szenarien-argumentation)
-- [Teil C: Bürger-Gesundheits-Versicherung](#teil-c-bürger-gesundheits-versicherung)
-- [Teil D: Arbeitslosenversicherung mit gleitender Brücke](#teil-d-arbeitslosenversicherung-mit-gleitender-brücke)
+- [Teil C: Bürger-Gesundheits-Versicherung](#teil-c-buerger-gesundheits-versicherung)
+- [Teil D: Arbeitslosenversicherung mit gleitender Brücke](#teil-d-arbeitslosenversicherung-mit-gleitender-bruecke)
 - [Teil E: Gesamtbetrachtung und Zusammenwirken](#teil-e-gesamtbetrachtung-und-zusammenwirken)
 - [Teil F: Risiken und ehrliche Begrenzungen](#teil-f-risiken-und-ehrliche-begrenzungen)
+- [Verzahnung mit der Gesamtkonzeption](#verzahnung-mit-der-gesamtkonzeption)
+- [Die Leitformel zum Schluss](#die-leitformel-zum-schluss)
 
 ---
 
+<a id="einordnung-als-hochrisiko-reform-nach-architektur-regel-1"></a>
+## Einordnung als Hochrisiko-Reform nach Architektur-Regel 1
+
+Das Modul Solidarische Versicherungen ist nach Architektur-Regel 1 der `ARCHITEKTUR.md` als Hochrisiko-Reform eingestuft. Die Einstufung folgt aus der grundrechtlichen, demografischen und finanziellen Tragweite: Die Überführung der privaten Krankenvollversicherung, die Einbeziehung von Beamten und Selbstständigen, die Beitragspflicht auf alle Einkommensarten, die integrierte Pflegevollversicherung und die Behandlung der Altersrückstellungen greifen tief in etablierte Strukturen und in verfassungsrechtlich geschützte Positionen ein.
+
+Die Einstufung bedeutet konkret: Diese Reformelemente unterliegen der Sechsstufen-Eskalations-Architektur aus Kapitel 4 — verbindliche Folgenabschätzung mit Generationenwirkung, parlamentarische Beratung mit den Folgenabschätzungs-Daten, suspensives Veto der zuständigen Fachkammer bei substantiellen Bedenken, Überstimmung durch qualifizierte Mehrheit, vier Mechanismen bei Abweichung (Berichtspflicht, Monitoring, Sunset-Klausel, Volksentscheid-Option) und Volksentscheid als letzte Instanz bei substantieller Persistenz des Konflikts.
+
+Zusätzlich gelten die Pilotierungs-, Folgenabschätzungs-, Evaluations- und Sunset-Anforderungen aus Kapitel 4: Die Reform wird über klar definierte Phasen umgesetzt, mit Zwischenevaluationen durch den Wissenschafts- und Resilienzrat und mit Sunset-Klauseln, die zur regelmäßigen Neubewertung zwingen (siehe Teil C und E).
+
+**Hauptzuständige Fachkammer:**
+
+Die fachliche Aufsicht liegt bei der **Fachkammer Sozialstaat und Reziprozität** des Wissenschafts- und Resilienzrats (Architektur-Regel 1). Sie verantwortet die wissenschaftliche Begleitung, die Folgenabschätzungen und die methodische Aufsicht über die Versicherungsreform. Weitere zuständige Fachkammern sind die Fachkammer Öffentliche Grundversorgung, Infrastruktur und Tarife (für die Versorgungssicherheit als praktische Voraussetzung, Verzahnung mit Kapitel 2), die Fachkammer Generationenfragen (für die Generationenwirkung der Beitrags- und Leistungsstruktur) und die Fachkammer Digitale Souveränität (für die Datenarchitektur der erweiterten Bemessungsgrundlage und die getrennten Datenräume).
+
+Der Gemeinsame Bundesausschuss bleibt als bestehende Institution für die operativen Leistungsbewertungen zuständig; seine Methodik wird am wissenschaftlichen Mindeststandard aus Kapitel 4 ausgerichtet und durch die Fachkammer Sozialstaat und Reziprozität geprüft (siehe Teil C, Leistungskatalog).
+
+
+<a id="teil-a-leitidee-und-gemeinsame-grundsaetze"></a>
 ## Teil A: Leitidee und gemeinsame Grundsätze
 
 ### Die Leitidee
@@ -43,13 +62,13 @@ Die deutsche Sozialversicherung steht vor einer grundlegenden Strukturfrage. Sie
 
 Gleichzeitig sind in mehreren Versicherungszweigen parallele Strukturen entstanden, die strukturelle Ungleichheiten erzeugen. In der Krankenversicherung existiert die gesetzliche neben der privaten Vollversicherung. In der Pflegeversicherung gilt dasselbe. In der Arbeitslosenversicherung sind Selbstständige weitgehend ausgeschlossen, Beamte sind nicht versichert. Diese Asymmetrien sind nicht historisch zwangsläufig, sondern Ergebnis politischer Pfadabhängigkeiten, die heute nicht mehr tragfähig sind.
 
-Das Modul „Solidarische Versicherungen" ist die Antwort des Konzepts Zukunftsdemokratie auf diese Strukturfrage. Es behandelt die grundlegende Reform der Kranken-, Pflege- und Arbeitslosenversicherung als zusammenhängende Architektur, nicht als drei isolierte Reformen. Die zentrale Idee lautet: Solidarität funktioniert nur, wenn alle nach ihrer Leistungsfähigkeit beitragen und alle nach ihrem Bedarf Leistungen erhalten. Wo diese Logik durch parallele Strukturen unterlaufen wird, schwächt sie sich selbst.
+Das Modul Solidarische Versicherungen ist die Antwort des Konzepts Zukunftsdemokratie auf diese Strukturfrage. Es behandelt die grundlegende Reform der Kranken-, Pflege- und Arbeitslosenversicherung als zusammenhängende Architektur, nicht als drei isolierte Reformen. Die zentrale Idee lautet: Solidarität funktioniert nur, wenn alle nach ihrer Leistungsfähigkeit beitragen und alle nach ihrem Bedarf Leistungen erhalten. Wo diese Logik durch parallele Strukturen unterlaufen wird, schwächt sie sich selbst.
 
 ### Drei gemeinsame Grundsätze
 
 Alle Versicherungen in diesem Modul folgen drei gemeinsamen Grundsätzen:
 
-**Erstens, Pflichteinbeziehung aller Erwerbstätigen.** Es gibt keine strukturelle Ausstiegsmöglichkeit aus der Solidargemeinschaft. Angestellte, Selbstständige, Beamte, Politiker, Künstler und Freiberufler sind alle einbezogen. Wahlfreiheit besteht nur bei Zusatzleistungen, nicht bei der Grundversicherung. Wer ein höheres Einkommen erzielt, kann sich nicht aus der Solidargemeinschaft herauskaufen.
+**Erstens, Pflichteinbeziehung aller Erwerbstätigen.** Es gibt keine strukturelle Ausstiegsmöglichkeit aus der Solidargemeinschaft. Angestellte, Selbstständige, Beamte, Politiker, Künstler und Freiberufler sind alle einbezogen. Wahlfreiheit besteht nur bei Zusatzleistungen, nicht bei der Grundversicherung. Wer ein höheres Einkommen erzielt, kann sich nicht aus der Solidargemeinschaft herauskaufen. Dieser Grundsatz ist Teil des Reziprozitätspakets aus Kapitel 5 und dem Modul Reziproke Solidarität: Die Pflichtversicherung für alle Erwerbstätigen ist eines der sechs Elemente, mit denen Reziprozität auch nach oben wirkt.
 
 **Zweitens, alle Einkommensarten als Bemessungsgrundlage.** Beiträge werden nicht nur auf Löhne und Gehälter erhoben, sondern auf das gesamte wirtschaftliche Einkommen einer Person. Kapitalerträge, Mieteinnahmen, Dividenden, Zinsen und selbstständige Einkommen sind beitragspflichtig. Diese Erweiterung der Bemessungsgrundlage ist die wichtigste strukturelle Veränderung gegenüber dem heutigen System. Sie verbreitert die Finanzierungsbasis substanziell und macht die Beitragslast unabhängig von der Art des Einkommens.
 
@@ -61,18 +80,18 @@ Das Modul ist keine Sammlung von Maximal-Forderungen. Es ist keine Lager-orienti
 
 Das Modul ist auch keine isolierte Reform. Es funktioniert nur in Verbindung mit anderen Bestandteilen der Gesamtkonzeption:
 
-- **Kapitel 2 (Öffentliche Grundversorgung):** Die Versorgungssicherheit (kommunale Gesundheitszentren, öffentliche Krankenhäuser, ausreichendes Pflegepersonal) ist die strukturelle Voraussetzung. Ohne Versorgungssicherheit bleibt die Solidarversprechen formal, aber praktisch nicht eingelöst.
-- **Kapitel 4 (Agile wissenschaftsgetriebene Politik):** Die Mechanismen aus Kapitel 4 (Wissenschafts- und Resilienzrat, transparente Verfahren, messbare Wahlversprechen, Karenzzeiten) sind die politische Voraussetzung für die Durchsetzung der Reform gegen organisierte Interessen.
-- **Kapitel 5 (Gesellschaftlicher Zusammenhalt):** Die generationelle Perspektive (Schuldenbremse-Sondermodell, Generationenrücklage, Rentenreform) bettet das Modul in die Generationengerechtigkeits-Architektur ein.
-- **Modul Reziproke Solidarität:** Die Mitwirkungs- und Schutzmechanismen aus diesem Querschnittsmodul greifen an mehreren Stellen (Familienmitversicherung, Übergang von Arbeitslosenversicherung in Bürgergeld).
+- **Kapitel 2 (Öffentliche Grundversorgung):** Die Versorgungssicherheit (kommunale Gesundheitszentren, öffentliche Krankenhäuser, ausreichendes Pflegepersonal) ist die strukturelle Voraussetzung. Ohne Versorgungssicherheit bleibt das Solidarversprechen formal, aber praktisch nicht eingelöst. Die Bürgerversicherung wird in Kapitel 2 operativ als Teil der Gesundheits-Grundversorgung behandelt.
+- **Kapitel 4 (Agile wissenschaftsgetriebene Politik):** Die Mechanismen aus Kapitel 4 (Wissenschafts- und Resilienzrat mit der Fachkammer Sozialstaat und Reziprozität, Sechsstufen-Architektur, transparente Verfahren, messbare Wahlversprechen, Karenzzeiten) sind die politische Voraussetzung für die Durchsetzung der Reform gegen organisierte Interessen.
+- **Kapitel 5 (Gesellschaftlicher Zusammenhalt):** Die generationelle Perspektive (Schuldenbremse-Sondermodell, Generationenrücklage, Rentenreform) bettet das Modul in die Generationengerechtigkeits-Architektur ein. Kapitel 5 nennt die Bürgerversicherung ausdrücklich als Teil der Generationengerechtigkeits-Reform (Säule 3).
+- **Modul Reziproke Solidarität:** Die Mitwirkungs- und Schutzmechanismen aus diesem Querschnittsmodul greifen an mehreren Stellen (Familienmitversicherung, Übergang von Arbeitslosenversicherung in Bürgergeld). Die Pflichtversicherung für alle Erwerbstätigen ist in beiden Modulen als Element des Reziprozitätspakets verankert.
 
 Wer Bestandteile dieses Moduls übernehmen will, muss die Verzahnung mit den anderen Kapiteln und Modulen prüfen. Eine selektive Übernahme ohne diese Prüfung kann das Konzept verfehlen.
 
 > **Diskussionspunkt**
 > Die strukturelle Reform der drei großen Sozialversicherungen ist seit Jahrzehnten in der politischen Debatte. Sie ist mehrfach in Koalitionsverhandlungen aufgegeben worden. Die Vermutung des Konzepts ist, dass dies nicht primär an inhaltlichen Mängeln der Reform-Konzepte liegt, sondern an einer politischen Architektur, die organisierten Interessen mehr Einfluss gibt als wissenschaftlicher Evidenz und Generationengerechtigkeit. Dieses Modul wird deshalb nicht isoliert vorgeschlagen, sondern in Verzahnung mit Kapitel 4, das die politische Architektur reformiert.
 
----
 
+<a id="teil-b-ausgangslage-und-zwei-szenarien-argumentation"></a>
 ## Teil B: Ausgangslage und Zwei-Szenarien-Argumentation
 
 ### Ausgangslage
@@ -89,7 +108,7 @@ Die Bestandsaufnahme erfolgt nüchtern, ohne politische Dramatisierung.
 
 **Strukturelle Ungerechtigkeit bei der Beitragsbemessung.** Ein Angestellter mit 50.000 Euro Jahreseinkommen zahlt Beiträge auf sein gesamtes Einkommen. Ein Bezieher von Kapitalerträgen oder Mieteinnahmen in gleicher Höhe zahlt keinen Sozialversicherungsbeitrag. Ein Angestellter mit 200.000 Euro Jahreseinkommen zahlt nur Beiträge bis zur Beitragsbemessungsgrenze (etwa 66.000 Euro), darüber nichts mehr. Diese Ungleichheit ist strukturell, nicht akzidentell.
 
-**Generationenungleichheit.** Die heute jüngeren Erwerbstätigen finanzieren ein System, das ihnen voraussichtlich nicht in gleichem Umfang zugutekommen wird. Sie zahlen höhere Beiträge bei voraussichtlich niedrigeren Leistungen. Diese Generationenungleichheit ist im Konzept Zukunftsdemokratie eine zentrale Reform-Begründung.
+**Generationenungleichheit.** Die heute jüngeren Erwerbstätigen finanzieren ein System, das ihnen voraussichtlich nicht in gleichem Umfang zugutekommen wird. Sie zahlen höhere Beiträge bei voraussichtlich niedrigeren Leistungen. Diese Generationenungleichheit ist im Konzept Zukunftsdemokratie eine zentrale Reform-Begründung und wird durch die Generationenbilanz aus Kapitel 5 (konsolidierte neun Bewertungsdimensionen) erfasst.
 
 ### Die zwei Wege
 
@@ -99,7 +118,7 @@ Vor diesem Hintergrund stehen Deutschland zwei strukturell unterschiedliche Wege
 
 Wenn die strukturelle Reform durchgeführt wird – Pflichteinbeziehung aller Erwerbstätigen, lineare Beitragsstruktur, alle Einkommensarten als Bemessungsgrundlage, integrierte Bürger-Gesundheits-Versicherung – bleibt der Beitragssatz für die breite Mitte stabil oder sinkt sogar. Die Pflegevollversicherung wird finanzierbar. Die Generationenlast wird gerechter verteilt. Die Versorgungssicherheit kann durch die Maßnahmen aus Kapitel 2 substanziell verbessert werden. Die strukturellen Ungleichheiten zwischen verschiedenen Berufsgruppen und Einkommensarten werden beseitigt.
 
-Diese Reform erfolgt geordnet, mit langen Übergangsfristen, mit Bestandsschutz für bereits abgeschlossene Verträge, mit kompensierenden Mechanismen für die Versicherungswirtschaft. Sie ist verfassungsrechtlich tragfähig und politisch durchsetzbar, wenn die Mechanismen aus Kapitel 4 (wissenschaftlicher Mindeststandard, messbare Wahlversprechen, Karenzzeiten, transparente Verfahren) wirken.
+Diese Reform erfolgt geordnet, mit langen Übergangsfristen, mit Bestandsschutz für bereits abgeschlossene Verträge, mit kompensierenden Mechanismen für die Versicherungswirtschaft. Sie ist verfassungsrechtlich tragfähig und politisch durchsetzbar, wenn die Mechanismen aus Kapitel 4 (wissenschaftlicher Mindeststandard, messbare Wahlversprechen, Karenzzeiten, transparente Verfahren, Sechsstufen-Architektur) wirken.
 
 **Szenario 2: Ungeordneter Kollaps der gesetzlichen Krankenversicherung.**
 
@@ -116,13 +135,15 @@ Die Reform ist anspruchsvoll. Sie greift in etablierte Strukturen ein. Sie wird 
 > **Diskussionspunkt**
 > Die Zwei-Szenarien-Argumentation ist eine bewusste rhetorische und sachliche Wahl. Sie soll deutlich machen, dass es nicht um "Reform oder Stillstand" geht, sondern um "geordnete Reform oder ungeordneten Kollaps". Diese Sichtweise wird unterschiedlich gelesen. Kritiker können argumentieren, dass Szenario 2 dramatisiert ist und das heutige System anpassungsfähiger ist als hier dargestellt. Befürworter werden argumentieren, dass die demografischen und finanziellen Trends bereits absehbar sind und Verzögerung nur die Härte der späteren Anpassung verschärft. Beide Lesarten sind legitim. Das Konzept entscheidet sich bewusst für die strukturelle Reform.
 
----
 
+<a id="teil-c-buerger-gesundheits-versicherung"></a>
 ## Teil C: Bürger-Gesundheits-Versicherung
 
 ### Die Position des Konzepts
 
 Das Konzept entscheidet sich für eine **vollständige Bürger-Gesundheits-Versicherung**, die Krankenversicherung und Pflegeversicherung integriert. Sie umfasst alle in Deutschland lebenden Menschen, finanziert sich durch Beiträge aller Erwerbstätigen auf alle Einkommensarten, und folgt einer linearen Beitragsstruktur statt der heutigen harten Beitragsbemessungsgrenze.
+
+Die Bürger-Gesundheits-Versicherung ist die Versicherungs-Architektur der Bürgerversicherung, die Kapitel 5 (Säule 3) als Teil der Generationengerechtigkeits-Reform und Kapitel 2 (Gesundheit als öffentliche Grundversorgung) operativ vorsehen. Dieses Modul liefert die strukturelle Ausgestaltung; die Versorgungsseite liegt in Kapitel 2, die generationelle Einbettung in Kapitel 5.
 
 Die wichtigsten strukturellen Merkmale:
 
@@ -134,21 +155,21 @@ Die wichtigsten strukturellen Merkmale:
 - **Wahlrecht über die Verwendung der Altersrückstellungen**: Bestandsversicherte entscheiden, ob ihre Altersrückstellungen als Gutschrift in die Bürger-Gesundheits-Versicherung übertragen oder ausgezahlt werden.
 
 > **Juristische Einordnung**
-> Die vollständige Pflichtüberführung greift in mehrere verfassungsrechtlich geschützte Positionen ein: Vertrauensschutz der Bestandsversicherten, Eigentumsgarantie für Altersrückstellungen (Art. 14 GG), Berufsfreiheit privater Versicherer (Art. 12 GG). Diese Eingriffe sind verfassungsrechtlich rechtfertigungsbedürftig, aber nicht ausgeschlossen. Die Rechtfertigung erfolgt über das Solidaritätsprinzip aus Art. 20 GG und über die zwingenden Gründe des Allgemeinwohls (Generationengerechtigkeit, Stabilität der Solidargemeinschaft, demografische Tragfähigkeit), die das Bundesverfassungsgericht in seiner Klimabeschluss-Rechtsprechung von 2021 als verfassungsrechtlich relevant anerkannt hat. Die Verfassungsmäßigkeit wird durch lange Übergangsfristen, Bestandsschutz und Kompensationsmechanismen gesichert.
+> Die vollständige Pflichtüberführung greift in mehrere verfassungsrechtlich geschützte Positionen ein: Vertrauensschutz der Bestandsversicherten, Eigentumsgarantie für Altersrückstellungen (Art. 14 GG), Berufsfreiheit privater Versicherer (Art. 12 GG). Diese Eingriffe sind verfassungsrechtlich rechtfertigungsbedürftig, aber nicht ausgeschlossen. Die Rechtfertigung erfolgt über das Solidaritätsprinzip aus Art. 20 GG und über die zwingenden Gründe des Allgemeinwohls (Generationengerechtigkeit, Stabilität der Solidargemeinschaft, demografische Tragfähigkeit), die das Bundesverfassungsgericht in seiner Klimabeschluss-Rechtsprechung von 2021 als verfassungsrechtlich relevant anerkannt hat. Die Verfassungsmäßigkeit wird durch lange Übergangsfristen, Bestandsschutz und Kompensationsmechanismen gesichert. Die Detailausarbeitung erfolgt in der Anlage `anlagen/juristische-fragen.md`.
 
 ### Übergangsmechanismen: Das Phasenmodell
 
-Die Reform wird über einen Zeitraum von 10-15 Jahren in drei klar definierten Phasen umgesetzt. Diese Phasenstruktur sichert die geordnete Umsetzung, gibt allen Beteiligten Planungssicherheit und reduziert die Disruption am Ende der Übergangsfrist.
+Die Reform wird über einen Zeitraum von 10-15 Jahren in drei klar definierten Phasen umgesetzt. Diese Phasenstruktur sichert die geordnete Umsetzung, gibt allen Beteiligten Planungssicherheit und reduziert die Disruption am Ende der Übergangsfrist. Die Phasen sind in Teil E mit der gemeinsamen Phasenarchitektur nach Architektur-Regel 3 abgeglichen.
 
-**Phase 1: Vorbereitung (Jahre 1-3)**
+**Phase 1: Vorbereitung (erste drei Jahre der Modul-Umsetzung)**
 
 In der ersten Phase wird der gesetzliche Rahmen beschlossen und in Kraft gesetzt. Ab dem Stichtag werden keine neuen Verträge in der privaten Krankenvollversicherung mehr abgeschlossen. Alle Neuversicherten – Berufseinsteiger, Personen mit Statusänderung, Zuzügler – kommen in die Bürger-Gesundheits-Versicherung. Bestandsversicherte bleiben zunächst in ihren bestehenden Verträgen.
 
 Parallel werden die erweiterten Bürgerversicherungs-Strukturen aufgebaut: das neue Beitragssystem mit linearer Logik, die Erfassung aller Einkommensarten, die integrierte Verwaltung von Kranken- und Pflegeversicherung. Erste Pilot-Übernahmen von Strukturen und Mitarbeitern aus der privaten Krankenversicherung beginnen. Die Versorgungssicherheit aus Kapitel 2 wird parallel vorbereitet (kommunale Gesundheitszentren, öffentliche Krankenhäuser, ausreichendes Pflegepersonal).
 
-Der Wissenschafts- und Resilienzrat aus Kapitel 4 begleitet die Reform mit verbindlichen Folgenabschätzungen und wissenschaftlichen Empfehlungen.
+Der Wissenschafts- und Resilienzrat aus Kapitel 4 begleitet die Reform mit verbindlichen Folgenabschätzungen und wissenschaftlichen Empfehlungen über die zuständige Fachkammer Sozialstaat und Reziprozität.
 
-**Phase 2: Übergang (Jahre 4-10)**
+**Phase 2: Übergang (mittlere Phase)**
 
 In der zweiten Phase können Bestandsversicherte freiwillig in die Bürger-Gesundheits-Versicherung wechseln. Anreize fördern den freiwilligen Wechsel: attraktive Übertragung der Altersrückstellungen, vereinfachte Aufnahme, klare Beitragstransparenz. Mit jedem freiwilligen Wechsel und mit jeder natürlichen Reduktion der Bestandsversicherten schrumpft die private Krankenvollversicherung.
 
@@ -160,7 +181,7 @@ Die integrierte Pflegevollversicherung wird in dieser Phase ausgebaut. Pflegegra
 
 Eine erste Zwischenevaluation nach fünf Jahren prüft die Wirkungen der Reform und identifiziert gegebenenfalls Korrekturbedarf. Diese Evaluation erfolgt durch den Wissenschafts- und Resilienzrat aus Kapitel 4, gemäß der Säule Agilität.
 
-**Phase 3: Konsolidierung (Jahre 11-15)**
+**Phase 3: Konsolidierung (Schlussphase)**
 
 In der dritten Phase werden alle verbleibenden Bestandsversicherten in die Bürger-Gesundheits-Versicherung überführt. Die Behandlung der Altersrückstellungen erfolgt gemäß dem Wahlrecht der Versicherten (siehe unten). Die private Krankenvollversicherung wird formal beendet. Verbleibende Versicherungsunternehmen sind vollständig auf Zusatzversicherungen umgestellt oder in andere Strukturen integriert.
 
@@ -199,7 +220,7 @@ Im neuen System werden Beamte vollständig in die Bürger-Gesundheits-Versicheru
 
 Diese Aufteilung folgt den heute individuell festgelegten Beihilfesätzen, die je nach Familienstand, Dienstort und Statusgruppe variieren. Beispielsweise: Beamte ohne Kinder typisch 50/50, Beamte mit zwei Kindern typisch 70/30, Pensionäre typisch 70/30.
 
-Die strukturelle Asymmetrie zwischen Beamten und Nicht-Beamten in der Krankenversicherung wird damit beseitigt. Beamte sind in der gleichen Solidargemeinschaft wie alle anderen, mit den gleichen Leistungen und der gleichen Versorgungsstruktur. Was erhalten bleibt, ist die Aufteilungslogik des Beihilfe-Systems – nicht als Privileg, sondern als Erfüllung der Alimentation-Pflicht des Dienstherrn aus Art. 33 Abs. 5 GG.
+Die strukturelle Asymmetrie zwischen Beamten und Nicht-Beamten in der Krankenversicherung wird damit beseitigt. Beamte sind in der gleichen Solidargemeinschaft wie alle anderen, mit den gleichen Leistungen und der gleichen Versorgungsstruktur. Was erhalten bleibt, ist die Aufteilungslogik des Beihilfe-Systems – nicht als Privileg, sondern als Erfüllung der Alimentation-Pflicht des Dienstherrn aus Art. 33 Abs. 5 GG. Die Einbeziehung folgt der Übergangslogik aus Kapitel 1 und dem Modul Reziproke Solidarität: neue Beamtenverhältnisse werden ab Stichtag erfasst, bestehende Ansprüche geschützt, Sondersysteme laufen über lange Fristen aus.
 
 Die lineare Beitragsstruktur gilt auch für Beamte. Bei Beamten mit höheren Einkommen greift die lineare Absenkung wie bei allen anderen Versicherten.
 
@@ -258,9 +279,9 @@ Diese Definitionen knüpfen an bestehende sozialgesetzliche Strukturen an (Elter
 
 Wenn die Erziehungs- oder Pflegeleistung wegfällt – beispielsweise das jüngste Kind wird 14 Jahre alt, oder der pflegebedürftige Angehörige verstirbt – endet die beitragsfreie Mitversicherung. Es entsteht kein dauerhafter beitragsfreier Versorgungsstatus. Die Person tritt in die Logik der Reziproken Solidarität ein: entweder durch Aufnahme einer Erwerbstätigkeit oder durch Erbringung sozialer Stunden gemäß Modul Reziproke Solidarität.
 
-Diese Konstruktion ist konsistent mit der gesamten Konzept-Architektur: Niemand wird dauerhaft passiv gehalten. Die Solidargemeinschaft trägt diejenigen, die nicht erwerbstätig sein können und einen anerkannten gesellschaftlichen Beitrag leisten (Erziehung, Pflege). Sie trägt nicht diejenigen, die nicht erwerbstätig sein wollen, ohne einen anerkannten Beitrag zu leisten.
+Diese Konstruktion ist konsistent mit der gesamten Konzept-Architektur: Niemand wird dauerhaft passiv gehalten. Die Solidargemeinschaft trägt diejenigen, die nicht erwerbstätig sein können und einen anerkannten gesellschaftlichen Beitrag leisten (Erziehung, Pflege). Sie trägt auch diejenigen ohne anerkannten Beitrag im Rahmen der sozialen Mindestteilhabe – die Mitwirkungserwartung greift bei festgestellter Mitwirkungsfähigkeit, mit allen Schutzmechanismen.
 
-Die Schutzmechanismen aus dem Modul Reziproke Solidarität greifen vom ersten Tag: Verhältnismäßigkeit, gerichtliche Überprüfung, Ethikrat, Schutz des Existenzminimums aus Art. 1 GG.
+Die Schutzmechanismen aus dem Modul Reziproke Solidarität greifen vom ersten Tag: Verhältnismäßigkeit, gerichtliche Überprüfung, Aufsicht durch die Fachkammer Sozialstaat und Reziprozität mit Schwerpunkt Ethik, Schutz des Existenzminimums aus Art. 1 GG, soziale Mindestteilhabe.
 
 > **Diskussionspunkt**
 > Die Familienmitversicherung mit Erziehungs- und Pflegeleistungsanerkennung ist die mittlere Lösung zwischen zwei Extremen: einer vollständigen Familienmitversicherung wie heute (die als Fehlanreiz gegen Frauenerwerbstätigkeit kritisiert wird) und einer individuellen Beitragspflicht ohne familiäre Berücksichtigung (die Care-Arbeit nicht anerkennt). Die mittlere Lösung ist geschlechterneutral formuliert – sie knüpft an konkrete Leistungen an, nicht an Geschlecht oder familiären Status. Die Definition der anerkannten Leistung kann politisch umstritten sein und muss klar im Gesetz festgelegt werden.
@@ -283,20 +304,20 @@ Wo wissenschaftliche Evidenz vorhanden ist, wird der Leistungskatalog gegenüber
 
 Die formale Aufnahme einer Leistung in den Katalog nützt nichts, wenn die Versorgung praktisch nicht verfügbar ist – wenn Wartezeiten von Monaten herrschen, wenn Fachärzte fehlen, wenn Pflegeheime unterbesetzt sind. Die Bürger-Gesundheits-Versicherung wird deshalb nicht nur durch ihren Leistungskatalog definiert, sondern durch die tatsächliche Versorgungssicherheit.
 
-Die Versorgungssicherheit ist in Kapitel 2 (Öffentliche Grundversorgung) systematisch ausgearbeitet: kommunale Gesundheitszentren als wohnortnahe Anlaufstellen, öffentliche Krankenhäuser als zentrale Versorgungsstruktur, ausreichende Pflegeeinrichtungen und ausreichendes Pflegepersonal. Diese strukturelle Reform aus Kapitel 2 ist die praktische Voraussetzung des Solidarversprechens der Bürger-Gesundheits-Versicherung.
+Die Versorgungssicherheit ist in Kapitel 2 (Öffentliche Grundversorgung) systematisch ausgearbeitet: kommunale Gesundheitszentren als wohnortnahe Anlaufstellen, öffentliche Krankenhäuser als zentrale Versorgungsstruktur, ausreichende Pflegeeinrichtungen und ausreichendes Pflegepersonal. Diese strukturelle Reform aus Kapitel 2 ist die praktische Voraussetzung des Solidarversprechens der Bürger-Gesundheits-Versicherung. Sie wird im Gleichwertigkeitsraster aus Kapitel 5 (Dimensionen Erreichbarkeit Gesundheit und Pflege) regional messbar gemacht.
 
 **Wer entscheidet über die Aufnahme oder den Ausschluss von Leistungen?**
 
 Die Entscheidung erfolgt über transparente Verfahren mit öffentlichen Konsultationen:
 
 - Der **Gemeinsame Bundesausschuss (G-BA)** als bestehende Institution wird gestärkt und führt die operativen Bewertungen durch. Die Methodik wird klarer am wissenschaftlichen Mindeststandard aus Kapitel 4 ausgerichtet.
-- Der **Wissenschafts- und Resilienzrat aus Kapitel 4** prüft die Methodik des G-BA und stellt die wissenschaftlichen Mindeststandards sicher.
-- **Transparente Verfahren mit öffentlichen Konsultationen** sind das Kernverfahren: bei jeder Bewertung einer Leistung wird offen kommuniziert, was bewertet wird, welche Evidenz vorliegt, welche Argumente für und gegen die Aufnahme oder den Ausschluss sprechen.
+- Die **Fachkammer Sozialstaat und Reziprozität** des Wissenschafts- und Resilienzrats prüft die Methodik des G-BA und stellt die wissenschaftlichen Mindeststandards sicher.
+- **Transparente Verfahren mit öffentlichen Konsultationen** sind das Kernverfahren: bei jeder Bewertung einer Leistung wird offen kommuniziert, was bewertet wird, welche Evidenz vorliegt, welche Argumente für und gegen die Aufnahme oder den Ausschluss sprechen. Die Konsultationen laufen über die gemeinsame Beteiligungsplattform aus Kapitel 4.
 - **Bürger, Patientenverbände, Ärzteverbände, Wissenschaft und Industrie** können Stellungnahmen einbringen.
 - **Begründete Entscheidung** mit veröffentlichten Argumenten und Minderheitsmeinungen.
 - **Regelmäßige Überprüfung** des Leistungskatalogs durch Sunset-Klauseln aus Kapitel 4.
 
-Diese Struktur macht klar: Die Bürger-Gesundheits-Versicherung ist nicht eine technokratische Veranstaltung, in der Experten hinter verschlossenen Türen entscheiden. Sie ist eine transparente, demokratisch nachvollziehbare Struktur, in der wissenschaftliche Evidenz, Patientenerfahrung und politische Verantwortung in einer geordneten Weise zusammenwirken.
+Diese Struktur macht klar: Die Bürger-Gesundheits-Versicherung ist nicht eine technokratische Veranstaltung, in der Experten hinter verschlossenen Türen entscheiden. Sie ist eine transparente, demokratisch nachvollziehbare Struktur, in der wissenschaftliche Evidenz, Patientenerfahrung und politische Verantwortung in einer geordneten Weise zusammenwirken. Die Letztentscheidung bleibt demokratisch, eingebettet in die Sechsstufen-Architektur aus Kapitel 4.
 
 > **Diskussionspunkt**
 > Die Abschaffung nicht-evidenzbasierter Leistungen wird politisch hart umkämpft sein. In Deutschland sind Homöopathie und anthroposophische Medizin gesellschaftlich verankert. Viele Bürger nutzen diese Therapien und sind überzeugt von ihrer Wirksamkeit. Die Reform wird als "Eingriff in die Behandlungsfreiheit" wahrgenommen werden. Die Antwort des Konzepts: Die Behandlungsfreiheit wird nicht eingeschränkt, nur die Solidarfinanzierung. Wer alternative Therapien wünscht, kann sie weiterhin in Anspruch nehmen – aber nicht aus den Beiträgen aller Versicherten finanzieren lassen. Diese Trennung ist konsistent mit dem wissenschaftlichen Mindeststandard aus Kapitel 4 und mit der Kennzeichnungspflicht für Hypothese und Fakt aus Kapitel 5.
@@ -313,208 +334,220 @@ Sei *E* das Jahres-Gesamteinkommen einer Person (alle Einkommensarten):
 - Wenn Schwellenwert 1 < *E* ≤ Schwellenwert 2: Beitragssatz sinkt linear von *p* auf *q*
 - Wenn *E* > Schwellenwert 2: Beitragssatz = *q* (Endsockel)
 
-**Die Variablen:**
+**Die Variablen (konstitutiv für die Struktur):**
 
-- Schwellenwert 1 (illustrativ ca. 66.000 Euro): Punkt, ab dem die lineare Absenkung beginnt – orientiert am heutigen Niveau der Beitragsbemessungsgrenze
-- Schwellenwert 2 (illustrativ ca. 500.000 Euro): Punkt, ab dem der Endsockel greift
-- *p* (illustrativ 14-17 Prozent): voller Beitragssatz für die breite Mitte
-- *q* (illustrativ 2-3 Prozent): Endsockel für Spitzeneinkommen
+- Schwellenwert 1: Punkt, ab dem die lineare Absenkung beginnt – orientiert am heutigen Niveau der Beitragsbemessungsgrenze
+- Schwellenwert 2: Punkt, ab dem der Endsockel greift
+- *p*: voller Beitragssatz für die breite Mitte
+- *q*: Endsockel für Spitzeneinkommen
 
-**Drei illustrative Beispiele:**
-
-- Eine Person mit 50.000 Euro Jahreseinkommen zahlt den vollen Beitragssatz (alle Einkommensarten, also auch Mieteinnahmen oder Kapitalerträge im selben Jahr).
-- Eine Person mit 200.000 Euro Jahreseinkommen zahlt einen abgesenkten Beitragssatz, der über dem Endsockel liegt (genaue Höhe abhängig von der Kalibrierung).
-- Eine Person mit 2 Millionen Euro Jahreseinkommen zahlt den Endsockel (2-3 Prozent auf alle Einkommensarten).
+Die Formel mit ihren vier Variablen ist konstitutiv für die Struktur und bleibt im Modul. Die konkreten illustrativen Größenordnungen (Schwellenwert 1 in der Größenordnung der heutigen Beitragsbemessungsgrenze, Schwellenwert 2 im Bereich sehr hoher Einkommen, voller Satz im Bereich des heutigen GKV-Satzes, Endsockel als niedriger einstelliger Prozentsatz) sowie die drei Rechenbeispiele sind als illustrative Kalibrierungen in der Anlage `anlagen/finanzierungslogik.md` dokumentiert, mit Prüfampel "offen, externe Kalibrierung".
 
 **Wichtiger Hinweis zur Kalibrierung:**
 
-Die hier genannten Werte sind ausdrücklich illustrative Größenordnungen. Die endgültige Kalibrierung – also die konkrete Festlegung der Schwellenwerte und der Beitragssätze *p* und *q* – erfolgt durch volkswirtschaftliche Modellierung mit Sensitivitätsanalysen. Diese Modellierung muss die Wechselwirkungen mit dem gesamten Steuer- und Sozialsystem berücksichtigen, die Finanzierung der integrierten Pflegevollversicherung sichern und einen Realitätscheck durch Wirtschaftsexperten durchlaufen.
-
-Die Detailausarbeitung der Kalibrierung erfolgt in der Anlage `anlagen/finanzierungslogik.md`. Das Modul beschränkt sich auf das Konzept und den groben Rahmen mit illustrativen Beispielen und der Formel mit Variablen.
+Die endgültige Kalibrierung – also die konkrete Festlegung der Schwellenwerte und der Beitragssätze *p* und *q* – erfolgt durch volkswirtschaftliche Modellierung mit Sensitivitätsanalysen. Diese Modellierung muss die Wechselwirkungen mit dem gesamten Steuer- und Sozialsystem berücksichtigen, die Finanzierung der integrierten Pflegevollversicherung sichern und einen Realitätscheck durch Wirtschaftsexperten durchlaufen. Die Detailausarbeitung erfolgt in der Anlage `anlagen/finanzierungslogik.md`. Das Modul beschränkt sich auf das Konzept und den groben Rahmen mit der Formel und den Variablen.
 
 > **Juristische Einordnung**
 > Die Beitragspflicht auf alle Einkommensarten ist verfassungsrechtlich begründungsbedürftig, weil Kapitalerträge und Mieteinnahmen heute zwar besteuert (Abgeltungsteuer, Einkommensteuer), aber nicht mit Sozialversicherungsbeiträgen belastet werden. Die zusätzliche Beitragspflicht ist gerechtfertigt durch das Solidaritätsprinzip aus Art. 20 GG und die Gleichbehandlung verschiedener Einkommensarten: Wenn die Gesundheitsleistung allen zugutekommt, soll auch jeder nach seiner Leistungsfähigkeit beitragen – unabhängig davon, ob seine Leistungsfähigkeit aus Arbeit oder Kapital stammt. Das Bundesverfassungsgericht hat in vergleichbaren Fällen (Pflegeversicherung, Solidaritätszuschlag) ähnliche Argumentationen anerkannt. Die lineare Absenkung bei sehr hohen Einkommen wahrt die Verhältnismäßigkeit und schließt eine konfiskatorische Belastung aus.
 
----
 
+<a id="teil-d-arbeitslosenversicherung-mit-gleitender-bruecke"></a>
 ## Teil D: Arbeitslosenversicherung mit gleitender Brücke
 
 ### Die Position des Konzepts
 
-Die Arbeitslosenversicherung wird strukturell wie die Bürger-Gesundheits-Versicherung reformiert: Pflichteinbeziehung aller Erwerbstätigen (Angestellte, Selbstständige, Beamte), lineare Beitragsstruktur, alle Einkommensarten als Bemessungsgrundlage. Gleichzeitig bleibt die Versicherungs-Logik erhalten: Der Leistungsanspruch knüpft am früheren Erwerbseinkommen an. Wer mehr eingezahlt hat, erhält im Arbeitslosigkeits-Fall eine höhere Leistung – aber nur, wenn er tatsächlich Erwerbseinkommen verloren hat.
+Die Arbeitslosenversicherung wird so reformiert, dass sie alle Erwerbstätigen einbezieht und einen gleitenden, würdewahrenden Übergang zwischen Erwerbstätigkeit, Arbeitslosenversicherung und Grundsicherung schafft. Die zentrale Idee ist die gleitende Brücke: kein harter Absturz vom Arbeitslosengeld in die Grundsicherung, sondern ein abgestufter Übergang, der Sicherheit gibt und gleichzeitig Aktivierungsanreize wahrt.
 
-Diese Trennung von Beitragspflicht und Leistungsanspruch ist konsistent mit der Logik der Bürger-Gesundheits-Versicherung: Beiträge nach Leistungsfähigkeit, Leistungen nach Bedarf. Wer Kapitalerträge oder Mieteinnahmen hat, zahlt Beiträge, aber im Arbeitslosigkeits-Fall hat er keinen direkten Versicherungsanspruch, weil er kein Erwerbseinkommen verloren hat. Die Beitragspflicht ist gerechtfertigt durch das Solidaritätsprinzip; die Leistungsbeschränkung ist gerechtfertigt durch die Versicherungslogik.
+Die wichtigsten strukturellen Merkmale:
 
-### Strukturelle Reform der Arbeitslosenversicherung
+- **Pflichteinbeziehung aller Erwerbstätigen**, einschließlich Selbstständiger.
+- **Gleitende Brücke** statt harter Statusübergänge: Das Leistungsniveau sinkt schrittweise und vorhersehbar, nicht abrupt.
+- **Verzahnung mit der aktivierenden Sozialhilfe** aus dem Modul Reziproke Solidarität.
+- **Würdewahrung** durch soziale Mindestteilhabe und Schutz des Existenzminimums.
 
-Die wichtigsten Merkmale der Reform:
+### Einbeziehung der Selbstständigen
 
-- **Pflichteinbeziehung aller Erwerbstätigen**: Angestellte wie heute, aber zusätzlich Selbstständige (heute nur freiwillig versichert) und Beamte (heute nicht versichert). Damit sind Erwerbstätige aller Statusgruppen bei Arbeitslosigkeit gesichert und müssen nicht sofort auf das Bürgergeld zurückfallen.
-- **Lineare Beitragsstruktur**: Beiträge folgen derselben Logik wie in der Bürger-Gesundheits-Versicherung. Voller Satz bis zum ersten Schwellenwert, lineare Absenkung bis zum zweiten Schwellenwert, Endsockel. Die genauen Werte werden in der Anlage `finanzierungslogik.md` kalibriert.
-- **Alle Einkommensarten als Bemessungsgrundlage**: Beiträge werden auf das gesamte wirtschaftliche Einkommen erhoben, nicht nur auf Erwerbseinkommen.
-- **Erwerbseinkommens-bezogener Leistungsanspruch**: Im Arbeitslosigkeits-Fall richtet sich die Leistungshöhe nach dem früheren Erwerbseinkommen (wie heute). Kapitalerträge oder Mieteinnahmen begründen keinen zusätzlichen Versicherungsanspruch.
+Selbstständige sind heute weitgehend von der Arbeitslosenversicherung ausgeschlossen. Im neuen System sind sie pflichtversichert. Damit erhalten sie bei Auftragsverlust, Geschäftsaufgabe oder wirtschaftlicher Notlage einen Schutz, der ihnen heute fehlt.
 
-### Die gleitende Brücke zum Bürgergeld
+Die Beitragsbemessung folgt dem tatsächlichen Einkommen. Die lineare Beitragslogik gilt entsprechend. Selbstständige mit schwankendem Einkommen zahlen Beiträge auf Basis eines Durchschnitts- oder Vorjahreseinkommens, mit Anpassungsmechanismen für starke Schwankungen.
 
-Die heutige Arbeitslosenversicherung kennt einen abrupten Übergang von ALG I (mit 60-67 Prozent des früheren Nettogehalts) zum Bürgergeld (auf deutlich niedrigerem Niveau) nach 12 Monaten – bei Älteren bis 24 Monate. Dieser plötzliche Wechsel führt oft zu schnellem Abrutschen in dauerhafte Armut und ist sozial verheerend.
+### Die gleitende Brücke: Drei Stufen
 
-Die Reform schafft eine **gleitende Brücke** in drei Phasen:
+Die gleitende Brücke ersetzt den heutigen harten Übergang vom Arbeitslosengeld I (versicherungsbasiert, einkommensbezogen) zum Bürgergeld (bedarfsbasiert, deutlich niedriger). Dieser harte Übergang ist heute eine zentrale Quelle von Abstiegsangst – gerade in der Mitte der Gesellschaft, wo Menschen mit qualifizierten Berufen und mittleren Einkommen befürchten, bei längerer Arbeitslosigkeit schnell den sozialen Status zu verlieren.
 
-**Phase 1: Arbeitslosengeld I (Monate 1-12).**
-60-67 Prozent des früheren Nettogehalts, vergleichbar mit dem heutigen Niveau. In dieser Phase greifen moderate Mitwirkungspflichten gemäß Modul Reziproke Solidarität: aktive Bewerbung, Aufnahme angebotener Qualifizierungsmaßnahmen, regelmäßige Vermittlungsgespräche. Die Schutzmechanismen aus dem Modul Reziproke Solidarität greifen vom ersten Tag (Verhältnismäßigkeit, gerichtliche Überprüfung, Schutz des Existenzminimums).
+**Stufe 1: Versicherungsleistung (einkommensbezogen).**
+In der ersten Phase der Arbeitslosigkeit erhält die Person eine einkommensbezogene Versicherungsleistung, die an das vorherige Einkommen anknüpft. Die Dauer dieser Phase richtet sich nach der Dauer der vorherigen Beitragszahlung. Diese Stufe entspricht im Prinzip dem heutigen Arbeitslosengeld I, ist aber durch die Einbeziehung aller Erwerbstätigen breiter abgesichert.
 
-**Phase 2: Übergangs-Arbeitslosengeld (Monate 13-24).**
-Stufenweise Absenkung des Leistungsniveaus vom ALG-Niveau in Richtung Bürgergeld-Niveau, gekoppelt an verstärkte aktive Mitwirkung. In dieser Phase wird die Reziproke Solidarität verbindlicher: Qualifizierung, Bewerbung, soziale Stunden als Möglichkeit der gesellschaftlichen Beitragsleistung. Die genaue Stufung wird in der Anlage `finanzierungslogik.md` konkretisiert.
+**Stufe 2: Gleitende Übergangsleistung (abschmelzend).**
+Statt eines harten Absturzes folgt eine gleitende Übergangsleistung, die schrittweise und vorhersehbar abschmilzt. Die Person weiß genau, wie sich ihre Leistung über die Zeit entwickelt, und kann sich darauf einstellen. Während dieser Phase greifen die Aktivierungs- und Qualifizierungsangebote aus dem Modul Reziproke Solidarität und aus Kapitel 1 (Bildungs- und Übergangsoffensive, Qualifizierungsgehalt bei automatisierungsbedingtem Arbeitsplatzverlust). Die gleitende Brücke schafft Zeit und Sicherheit für eine qualifizierte Neuorientierung, statt Menschen in Panik in unpassende Beschäftigung zu drängen.
 
-**Phase 3: Bürgergeld (ab Monat 25).**
-Bürgergeld-Niveau gemäß der Bürgergeld-Logik aus dem aktivierenden Sozialstaat (Kapitel 5) und dem Modul Reziproke Solidarität. Die volle Reziproke Solidarität greift: Arbeit, soziale Stunden, Bildung als Voraussetzung für Leistungen über das Existenzminimum hinaus.
+**Stufe 3: Grundsicherung mit aktivierender Sozialhilfe.**
+Am Ende der gleitenden Brücke steht die Grundsicherung, die nahtlos in die aktivierende Sozialhilfe aus dem Modul Reziproke Solidarität übergeht. Hier greift die Drei-Gruppen-Logik des Moduls Reziproke Solidarität, mit allen Schutzmechanismen.
 
-Die gleitende Brücke vermeidet die heutige Verwerfung und gibt den Betroffenen Zeit zur Umorientierung. Sie ist kein Wegfall der Mitwirkungspflichten, sondern eine sinnvolle Stufung der Anforderungen und Leistungen.
+### Verzahnung mit der aktivierenden Sozialhilfe aus Reziproke Solidarität
+
+Am Übergang von der Arbeitslosenversicherung in die Grundsicherung greift die Logik des Moduls Reziproke Solidarität. Dabei wird die entschärfte, nicht-stigmatisierende Sprache des Moduls konsequent verwendet:
+
+- **Gruppe 1 – Personen ohne hinreichende Mitwirkungsfähigkeit:** Wer aus gesundheitlichen, altersbedingten oder anderen objektiven Gründen nicht oder nur eingeschränkt leistungsfähig ist, wird bedingungslos getragen. Das Existenzminimum aus Art. 1 GG ist unantastbar.
+- **Gruppe 2 – Personen mit Unterstützungsbedarf auf dem Weg zur Mitwirkung:** Wer grundsätzlich leistungsfähig ist, aber Unterstützung braucht, erhält Befähigung: Qualifizierung, Beratung, gesundheitliche und psychosoziale Begleitung, Vermittlung. Die Mitwirkung wird erwartet, aber begleitet und ermöglicht.
+- **Gruppe 3 – Personen mit festgestellter Mitwirkungsfähigkeit ohne hinreichenden Mitwirkungsgrund:** Wer nach überprüfter Einzelfallentscheidung tatsächlich leistungsfähig ist und dennoch ohne hinreichenden Grund nicht mitwirkt, unterliegt der Mitwirkungserwartung mit Konsequenzen – nur nach individueller Prüfung und mit allen rechtsstaatlichen Schutzmechanismen.
+
+Die Einordnung erfolgt durch qualifizierte Sozialarbeiter als erste Diagnoseinstanz, nicht automatisiert. Die soziale Mindestteilhabe bleibt in jedem Fall gesichert. Der Aktivitätsbonus erweitert die Teilhabe nach oben, ohne dass das Minimum nach unten entzogen wird. Alle Schutzmechanismen des Moduls Reziproke Solidarität greifen: Verhältnismäßigkeit, gerichtliche Überprüfbarkeit, Aufsicht durch die Fachkammer Sozialstaat und Reziprozität mit Schwerpunkt Ethik, Schutz des Existenzminimums.
 
 > **Diskussionspunkt**
-> Die gleitende Brücke wird kontrovers diskutiert. Befürworter argumentieren, dass sie sozialen Abstieg verhindert und die Wahrscheinlichkeit der Wiedereingliederung in den Arbeitsmarkt erhöht. Kritiker argumentieren, dass eine verlängerte ALG-Phase Fehlanreize gegen schnelle Wiedereingliederung schafft und das System verteuert. Das Konzept folgt der ersten Argumentation, weil die schnellen Abstürze des heutigen Systems empirisch zu hohen Folgekosten (Armut, Gesundheit, gesellschaftliche Stabilität) führen. Die genaue Stufung der Phase 2 muss volkswirtschaftlich modelliert werden.
+> Die gleitende Brücke ist ein zentrales würdepolitisches Element. Sie nimmt die Abstiegsangst der Mitte ernst, ohne die Aktivierungsanreize aufzugeben. Kritiker von links könnten argumentieren, dass jede Abschmelzung der Leistung Druck erzeugt; Kritiker von rechts könnten argumentieren, dass die gleitende Brücke die Aktivierung verzögert. Das Konzept hält die gleitende Brücke für den ausbalancierten Mittelweg: Sie gibt Sicherheit und Zeit für qualifizierte Neuorientierung, wahrt aber durch die vorhersehbare Abschmelzung und die Verzahnung mit der Aktivierung den Anreiz zur Wiedereingliederung. Die genaue Kalibrierung der Abschmelzung ist eine politische und volkswirtschaftliche Frage, die in der Anlage `anlagen/finanzierungslogik.md` behandelt wird.
 
 > **Juristische Einordnung**
-> Die Pflichteinbeziehung der Selbstständigen und Beamten in die Arbeitslosenversicherung greift in die Berufsfreiheit (Art. 12 GG) und das Alimentation-Prinzip (Art. 33 Abs. 5 GG) ein. Die Eingriffe sind gerechtfertigt durch das Solidaritätsprinzip und die Gleichbehandlung aller Erwerbstätigen. Das Bundesverfassungsgericht hat in der Künstlersozialversicherungs-Rechtsprechung anerkannt, dass eine Pflichtversicherung von Selbstständigen verfassungsrechtlich tragfähig ist. Bei Beamten ist die Lösung eine eigene Frage; eine Möglichkeit ist die Beibehaltung der besonderen dienstrechtlichen Absicherung im Verlustfall (Versorgungsanspruch), kombiniert mit Beiträgen zur Arbeitslosenversicherung als Solidarbeitrag. Die genaue Ausgestaltung erfolgt in der Anlage `juristische-fragen.md`.
+> Die Einbeziehung der Selbstständigen in die Arbeitslosenversicherung ist verfassungsrechtlich unproblematisch, soweit sie an die allgemeine Logik der Pflichtversicherung anknüpft. Die gleitende Brücke bewegt sich im Rahmen des Sozialstaatsprinzips aus Art. 20 GG. Der Übergang in die Grundsicherung muss die Vorgaben des BVerfG-Sanktionsurteils von 2019 wahren: Verhältnismäßigkeit, Schutz des Existenzminimums, keine vollständige Leistungsentziehung. Die soziale Mindestteilhabe aus dem Modul Reziproke Solidarität konkretisiert diese Vorgaben.
 
-### Verzahnung mit dem Modul Reziproke Solidarität
 
-Das Modul Reziproke Solidarität ist die Voraussetzung für die gleitende Brücke. Die dort definierten Mitwirkungspflichten und Schutzmechanismen wirken in allen drei Phasen der Arbeitslosenversicherung. Die drei Empfängergruppen des Moduls Reziproke Solidarität ("kann nicht", "kann mit Hilfe", "will nicht") werden auch in der Arbeitslosenversicherung relevant.
-
-Die ausführliche Behandlung des Bürgergeldes erfolgt nicht in diesem Modul, sondern im Modul Reziproke Solidarität und in Kapitel 5 (Aktivierender Sozialstaat). Dieses Modul beschreibt nur die Schnittstelle: den Übergang von der Arbeitslosenversicherung in die Bürgergeld-Phase.
-
----
-
+<a id="teil-e-gesamtbetrachtung-und-zusammenwirken"></a>
 ## Teil E: Gesamtbetrachtung und Zusammenwirken
 
-### Wie die Reformen zusammenwirken
+### Das Zusammenwirken der drei Versicherungen
 
-Die drei in diesem Modul behandelten Reformen – Bürger-Krankenversicherung, integrierte Pflegevollversicherung, reformierte Arbeitslosenversicherung – sind nicht drei isolierte Reformen, sondern eine zusammenhängende strukturelle Architektur.
+Die drei Versicherungen dieses Moduls – Kranken-, Pflege- und Arbeitslosenversicherung – sind keine isolierten Reformen, sondern eine zusammenhängende Architektur. Sie folgen den gleichen drei Grundsätzen (Pflichteinbeziehung aller Erwerbstätigen, alle Einkommensarten als Bemessungsgrundlage, lineare Beitragsstruktur). Sie verzahnen sich miteinander und mit der Gesamtkonzeption.
 
-Sie folgen denselben drei Grundsätzen (Pflichteinbeziehung aller Erwerbstätigen, alle Einkommensarten als Bemessungsgrundlage, lineare Beitragsstruktur). Sie nutzen dieselbe Verwaltungsstruktur, dieselbe Erfassung der Einkommen, dasselbe Beitragssystem. Die Verwaltungseffizienz wird substanziell höher als heute.
+Die integrierte Bürger-Gesundheits-Versicherung deckt Krankheit und Pflege über die gesamte Lebensspanne ab. Die Arbeitslosenversicherung mit gleitender Brücke sichert die Erwerbsphase und schafft einen würdewahrenden Übergang in die Grundsicherung. Alle drei Versicherungen beziehen alle Erwerbstätigen ein und beenden die strukturellen Ungleichheiten zwischen Berufsgruppen und Einkommensarten.
 
-Sie sind eingebettet in die Gesamtkonzeption:
+### Gemeinsame Phasenarchitektur nach Architektur-Regel 3
 
-- **Kapitel 2 (Öffentliche Grundversorgung)** sichert die praktische Versorgung: Gesundheitszentren, Krankenhäuser, Pflegeeinrichtungen, Pflegepersonal. Ohne diese Versorgungsstruktur bleibt das Solidarversprechen formal, aber praktisch nicht eingelöst.
-- **Kapitel 3 (Bildung, Technologie, Verwaltung)** sichert die Verwaltungsmodernisierung, ohne die die strukturelle Reform der Versicherungen verwaltungsmäßig scheitern würde.
-- **Kapitel 4 (Agile wissenschaftsgetriebene Politik)** ist die politische Voraussetzung: Wissenschaftlicher Mindeststandard, Wissenschafts- und Resilienzrat, transparente Verfahren, Karenzzeiten und messbare Wahlversprechen schützen die Reform vor Lobbyismus und politischer Beliebigkeit.
-- **Kapitel 5 (Gesellschaftlicher Zusammenhalt)** bettet die Reform in die Generationengerechtigkeits-Architektur ein: Schuldenbremse-Sondermodell, Generationenrücklage, Rentenreform, Deutschland-Dashboard.
-- **Modul Reziproke Solidarität** liefert die Mitwirkungs- und Schutzmechanismen für die Übergänge (Familienmitversicherung bei Wegfall der Leistung, Arbeitslosenversicherung beim Übergang ins Bürgergeld).
+Die Phasen dieses Moduls sind mit der gemeinsamen Phasenarchitektur nach Architektur-Regel 3 der `ARCHITEKTUR.md` abgeglichen.
 
-### Zeitliche Einbettung
+**Gemeinsame Aufbauphase 2026-2028:** Das Modul nutzt die gemeinsame Governance-Startarchitektur aus Kapitel 4. In dieser Phase werden die Fachkammer Sozialstaat und Reziprozität, die Datenarchitektur der erweiterten Bemessungsgrundlage (mit getrennten Datenräumen), die Sechsstufen-Architektur und das Deutschland-Dashboard aufgebaut. Der gesetzliche Rahmen der Versicherungsreform wird vorbereitet und beschlossen. Parallel wird die Versorgungssicherheit aus Kapitel 2 aufgebaut, ohne die das Solidarversprechen praktisch nicht eingelöst werden kann.
 
-Die Reform folgt der zeitlichen Logik der Gesamtkonzeption:
+**Phase 1 (Vorbereitung):** Beginnt nach der gemeinsamen Aufbauphase. Stichtag für den Stopp neuer PKV-Vollversicherungs-Verträge, Aufbau der erweiterten Bürgerversicherungs-Strukturen, erste Pilot-Übernahmen.
 
-- Vorbereitung des gesetzlichen Rahmens und Aufbau der Strukturen: Jahre 2029-2030.
-- Phase 1 (Vorbereitung): Jahre 2030-2033.
-- Phase 2 (Übergang): Jahre 2034-2040.
-- Phase 3 (Konsolidierung): Jahre 2041-2045.
+**Phase 2 (Übergang):** Freiwilliger Wechsel der Bestandsversicherten, Umstellung der Versicherungsunternehmen, Ausbau der integrierten Pflegevollversicherung, erste Zwischenevaluation nach fünf Jahren durch den Wissenschafts- und Resilienzrat.
 
-Diese Zeitlinie ist konsistent mit Kapitel 5, das die Bürgerversicherung in Phase 2 der dortigen Roadmap vorsieht. Sie ist auch konsistent mit der politischen Realität: Eine substanzielle Reform der Sozialversicherungen kann nicht in einer Legislaturperiode abgeschlossen werden, sondern braucht mehrere Legislaturperioden und parteiübergreifende Tragfähigkeit. Die Mechanismen aus Kapitel 4 (messbare Wahlversprechen, wissenschaftlicher Mindeststandard) tragen zu dieser Tragfähigkeit bei.
+**Phase 3 (Konsolidierung):** Überführung der verbleibenden Bestandsversicherten, Behandlung der Altersrückstellungen gemäß Wahlrecht, formale Beendigung der PKV-Vollversicherung, abschließende Evaluation.
 
-### Finanzielle Architektur
+Die kapitelspezifische Phasenlogik (10-15 Jahre für die Versicherungsüberführung) liegt damit innerhalb des Rahmens von Architektur-Regel 3: gemeinsame Aufbauphase 2026-2028, danach kapitelspezifische Umsetzung.
 
-Die Finanzierung der reformierten Versicherungen basiert auf vier Säulen:
+### Nachjustierung über die Sechsstufen-Architektur
 
-**Erstens, die erweiterte Bemessungsgrundlage.** Beiträge auf alle Einkommensarten (statt nur Erwerbseinkommen) erhöhen die Finanzierungsbasis substanziell. Personen mit substanziellen Kapitalerträgen, Mieteinnahmen oder Dividenden tragen erstmals zur Solidargemeinschaft bei.
+Werden zentrale Ziele verfehlt oder zeigen sich unerwartete Wirkungen, greift die Sechsstufen-Architektur aus Kapitel 4 – nicht eine separate Kommission. Die wissenschaftliche Folgenabschätzung erfolgt durch die zuständigen Fachkammern (insbesondere die Fachkammer Sozialstaat und Reziprozität), parlamentarische Beratung mit den Folgenabschätzungs-Daten, suspensives Veto möglich, Überstimmung durch qualifizierte Mehrheit, vier Mechanismen bei Abweichung (Berichtspflicht, Monitoring, Sunset-Klausel, Volksentscheid-Option), Volksentscheid als letzte Instanz bei substantieller Persistenz des Konflikts.
 
-**Zweitens, die lineare Beitragsstruktur.** Sehr hohe Einkommen tragen zwar mit einem niedrigeren Beitragssatz bei, aber auf eine substanziell breitere Bemessungsbasis. Im Vergleich zum heutigen System (Beitragsfreiheit oberhalb der BBG) entsteht ein deutlicher Mehrertrag.
+Die Zwischenevaluationen (nach fünf Jahren) und die Sunset-Klauseln zwingen zur regelmäßigen Neubewertung. Damit bleibt die Versicherungsreform lernfähig und korrigierbar, ohne dass parallele Korrekturstrukturen die etablierte Architektur unterlaufen.
 
-**Drittens, die eingesparten Sozialhilfemittel.** Die integrierte Pflegevollversicherung beendet die Lage, in der Pflegebedürftige nach Aufbrauchen ihres Vermögens auf Sozialhilfe angewiesen sind. Die hierfür heute aufgewendeten Mittel werden eingespart.
+### Generationengerechtigkeit und Generationenbilanz
 
-**Viertens, die Verwaltungs-Effizienzgewinne.** Die Integration von Kranken- und Pflegeversicherung, die Beendigung paralleler Strukturen, die Übernahme bestehender PKV-Systeme in die Bürgerversicherung – all dies reduziert Verwaltungskosten substanziell.
+Die Versicherungsreform wird in der Generationenbilanz aus Kapitel 5 bewertet. Die konsolidierten neun Bewertungsdimensionen (langfristige Kosten, langfristiger Nutzen und Teilhabewirkungen, Betriebslasten, soziale Mobilität, Klimawirkung, Infrastrukturzustand, Anbieterabhängigkeiten, Kompetenzaufbau, Datenschutzfolgen) werden auf die Reform angewendet.
 
-Die genaue Berechnung dieser vier Säulen und die Kalibrierung der Beitragsstruktur erfolgen in der Anlage `finanzierungslogik.md`. Das Modul beschränkt sich auf die strukturelle Logik und die illustrativen Größenordnungen.
+Die Reform ist im Kern eine Generationengerechtigkeits-Reform: Sie verteilt die Beitragslast fairer zwischen den Generationen, stabilisiert die Beitragssätze für die heute Jüngeren und verhindert den ungeordneten Kollaps, der die kommenden Generationen am härtesten treffen würde. Die Verzahnung mit der Generationenrücklage und dem Schuldenbremse-Sondermodell aus Kapitel 5 ist substantiell.
 
-> **Diskussionspunkt**
-> Die Kostenwirkungen der Reform sind volkswirtschaftlich anspruchsvoll zu modellieren. Insbesondere die Pflegevollversicherung erzeugt substanzielle Mehrkosten gegenüber der heutigen Pflegeteilkasko (geschätzt 40-60 Milliarden Euro jährlich), die nur durch die erweiterte Bemessungsgrundlage, eingesparte Sozialhilfemittel und Verwaltungs-Effizienzgewinne aufgefangen werden können. Die Kalibrierung der Beitragsstruktur (insbesondere des vollen Satzes *p*) muss diese Mehrkosten realistisch abbilden. Wenn die Kalibrierung zu konservativ erfolgt, wird die Pflegevollversicherung unterfinanziert. Wenn sie zu hoch erfolgt, entsteht eine politisch nicht durchsetzbare Mehrbelastung mittlerer Einkommen. Die volkswirtschaftliche Modellierung in der Anlage `finanzierungslogik.md` ist deshalb keine Nebensache, sondern eine zentrale Voraussetzung der Reform.
+### Finanzielle Gesamtbetrachtung
 
----
+Die finanzielle Gesamtbetrachtung des Moduls erfolgt in der Anlage `anlagen/finanzierungslogik.md`. Dort werden die Beitragsstruktur kalibriert, die Wechselwirkungen mit dem Steuer- und Sozialsystem modelliert, die Finanzierung der integrierten Pflegevollversicherung gesichert und die Übergangskosten (Behandlung der Altersrückstellungen, Strukturumbau) abgeschätzt.
 
+Das Modul selbst beschränkt sich auf das Konzept und den groben Rahmen. Die illustrativen Größenordnungen sind als zu kalibrierender Rahmen mit Prüfampel "offen, externe Kalibrierung" gekennzeichnet. Die endgültige Festlegung erfolgt durch volkswirtschaftliche Modellierung und externe Expertise.
+
+
+<a id="teil-f-risiken-und-ehrliche-begrenzungen"></a>
 ## Teil F: Risiken und ehrliche Begrenzungen
 
-Das Modul ist ehrlich gegen seine eigenen Schwächen. Die folgenden Risiken werden offen benannt, nicht versteckt.
+Das Modul benennt seine Risiken und Begrenzungen transparent. Sie werden in fünf Kategorien geführt, analog zu den Kapiteln.
 
-### Verfassungsrechtliche Risiken
+### Risiko 1: Politische Risiken
 
-- **Klagen vor dem Bundesverfassungsgericht**: Bestandsversicherte der PKV, Versicherungsunternehmen, Beamtenverbände, möglicherweise Selbstständigenvertretungen werden gegen die Reform klagen. Diese Klagen können die Umsetzung um Jahre verzögern. Die im Modul vorgesehenen Schutzmechanismen (lange Übergangsfristen, Wahlrecht über Altersrückstellungen, Beihilfe-Logik für Beamte, Wahlfreiheit der Versicherungsunternehmen) reduzieren das Klagerisiko, eliminieren es aber nicht.
-- **EU-Recht**: Eine grenzüberschreitende Versicherungstätigkeit ist durch EU-Binnenmarktrecht geschützt. Die Pflichtüberführung muss EU-rechtlich tragfähig konstruiert sein.
-- **Detailfragen der Berufsfreiheit**: Die genaue Ausgestaltung der vier Wege für Versicherungsunternehmen muss verfassungsrechtlich sauber sein. Eine zu eng definierte Wahlfreiheit könnte als unzureichende Wahrung der Berufsfreiheit gewertet werden.
+**Widerstand organisierter Interessen.** Die private Versicherungswirtschaft, die Ärzteverbände (soweit sie von der PKV-Vergütung profitieren) und Teile der Beamtenschaft werden Widerstand leisten. Lösungsansatz: Die Mechanismen aus Kapitel 4 (wissenschaftlicher Mindeststandard, Karenzzeiten, transparente Verfahren, messbare Wahlversprechen, Sechsstufen-Architektur) reduzieren den Einfluss organisierter Interessen gegenüber wissenschaftlicher Evidenz und Generationengerechtigkeit.
 
-### Politische Risiken
+**Wahrnehmung als Eingriff in die Behandlungsfreiheit.** Die Abschaffung nicht-evidenzbasierter Leistungen wird als Eingriff wahrgenommen werden. Lösungsansatz: Klare Kommunikation der Trennung zwischen Behandlungsfreiheit (bleibt) und Solidarfinanzierung (nur evidenzbasiert).
 
-- **Wechsel der Bundesregierung während der Übergangsfrist**: Die Reform dauert 10-15 Jahre, also drei bis vier Legislaturperioden. Ein Regierungswechsel kann die Reform verlangsamen, modifizieren oder ganz stoppen. Die Mechanismen aus Kapitel 4 (messbare Wahlversprechen, parteiübergreifende Tragfähigkeit) sind die strukturelle Antwort, aber keine Garantie.
-- **Lobbyismus der Versicherungswirtschaft**: Die PKV verfügt über substanzielle politische Verbindungen und kann Widerstand mobilisieren. Die Karenzzeiten und KI-gestützte Integritätsprüfung aus Kapitel 4 reduzieren diesen Einfluss, eliminieren ihn aber nicht.
-- **Mobilisierung der PKV-Versicherten**: Etwa 9 Millionen Privatversicherte und ihre Familien (12-15 Millionen Menschen) sind politisch aktiv. Sie können substanziellen Wahlkampf gegen die Reform machen.
+**Wahrnehmung als Enteignung.** Die Überführung der PKV und die Behandlung der Altersrückstellungen werden als Enteignung wahrgenommen werden. Lösungsansatz: Das Wahlrecht über die Altersrückstellungen, der Bestandsschutz und die lange Übergangsfrist wahren das Eigentum und die Verhältnismäßigkeit.
 
-### Wirtschaftliche Risiken
+### Risiko 2: Verwaltungs- und Datenschutzrisiken
 
-- **Belastung mittlerer Einkommen**: Wenn die Kalibrierung der Beitragsstruktur zu hoch erfolgt, werden mittlere Einkommen mehr belastet als heute. Dies könnte die politische Akzeptanz untergraben.
-- **Reaktion der Versicherungswirtschaft**: Versicherungsunternehmen könnten in der Übergangsphase Mitarbeiter entlassen oder Strukturen abbauen, statt sie für die Bürgerversicherung verfügbar zu machen. Die Anreize für die aktive Übernahme müssen klar gestaltet sein.
-- **Auswirkungen auf den Gesundheitssektor**: Ärzte, Apotheker und andere Leistungserbringer könnten ihre Einkommen verändert sehen (insbesondere bei Wegfall der Privatpatienten als überdurchschnittlich vergütete Gruppe). Dies muss bei der Vergütungsreform berücksichtigt werden.
+**Komplexität der erweiterten Bemessungsgrundlage.** Die Erfassung aller Einkommensarten (Lohn, Kapital, Mieten, selbstständige Tätigkeit) erfordert einen Datenfluss zwischen Finanzbehörden und Versicherungsträgern. Das ist verwaltungstechnisch anspruchsvoll und datenschutzrechtlich sensibel.
 
-### Verwaltungsrisiken
+**Datenschutz über die Sechs-Schutzräume-Logik aus Kapitel 3.** Der Datenfluss zwischen Finanzbehörden und Versicherungsträgern wird über die Sechs-Schutzräume-Logik aus Kapitel 3 abgesichert. Konkret betrifft das zwei der sechs Schutzräume:
 
-- **IT-Migration**: Die Integration der PKV-Systeme in die Bürgerversicherung und der Aufbau der erweiterten Bemessungsgrundlage (alle Einkommensarten) sind IT-technisch anspruchsvoll. Eine misslungene IT-Migration kann die Reform verzögern.
-- **Komplexität der Integration**: Die Integration von Kranken-, Pflege- und Arbeitslosenversicherung unter einheitlichen Strukturen ist verwaltungsmäßig komplex. Die Vorbereitungsphase muss ausreichend lang sein.
-- **Datenschutz**: Die Erfassung aller Einkommensarten erfordert einen Datenfluss zwischen Finanzbehörden und Versicherungsträgern, der datenschutzrechtlich sauber konstruiert sein muss.
+- Der **Gesundheits-Schutzraum** schützt die Gesundheits- und Versicherungsdaten der Bürger. Versicherungsträger erhalten nur die für die Beitragsbemessung notwendigen Einkommensinformationen, nicht die zugrunde liegenden Detaildaten.
+- Der **Steuer-Schutzraum** schützt die Steuer- und Einkommensdaten. Die Finanzbehörden übermitteln nur die für die Beitragsbemessung erforderlichen aggregierten Einkommensgrößen an die Versicherungsträger, mit strikter Zweckbindung.
 
-### Kalibrierungs-Risiken
+Die beiden Datenräume werden getrennt geführt; es gibt keine ungehinderte Zusammenführung. Die Übermittlung folgt dem Prinzip der Datenminimierung: nur die für die Beitragsbemessung notwendigen Informationen, mit strikter Zweckbindung und ohne Profilbildung. Diese Architektur ist konsistent mit den sechs Schutzräumen aus Kapitel 3 (Gesundheit, Bildung, Sozialleistung, Steuer, Migration, Justiz) und mit den Datenschutzregeln aus Architektur-Regel 6.
 
-- **Zu konservative Kalibrierung**: Wenn der volle Beitragssatz *p* zu niedrig oder die Bemessungsgrundlage zu eng definiert ist, wird die Pflegevollversicherung unterfinanziert. Eigenanteile müssten dann doch erhalten bleiben.
-- **Zu hohe Kalibrierung**: Wenn der volle Beitragssatz zu hoch ist, wird die Akzeptanz mittlerer Einkommen untergraben.
-- **Falsche Schwellenwerte**: Wenn die Schwellenwerte für die lineare Absenkung nicht volkswirtschaftlich tragfähig kalibriert sind, kann das System Fehlanreize gegen Leistung oder Vermögensbildung setzen.
+**Übergangskomplexität.** Der parallele Betrieb von altem und neuem System während der 10-15-jährigen Übergangsfrist ist komplex. Lösungsansatz: klare Phasenstruktur, Übernahme bestehender Strukturen und Mitarbeiter, wissenschaftliche Begleitung.
 
-### Akzeptanz-Risiken
+> **Juristische Einordnung**
+> Der Datenfluss zwischen Finanzbehörden und Versicherungsträgern tangiert das informationelle Selbstbestimmungsrecht und das Steuergeheimnis (§ 30 AO). Die Übermittlung von Einkommensdaten zur Beitragsbemessung ist verfassungsrechtlich machbar, wenn sie klar zweckgebunden ist, dem Prinzip der Datenminimierung folgt und über getrennte Datenräume (Gesundheits- und Steuer-Schutzraum aus Kapitel 3) abgesichert wird. Die Detailausarbeitung erfolgt in der Anlage `anlagen/juristische-fragen.md`.
 
-- **Wahrgenommener Eingriff in Behandlungsfreiheit**: Die Abschaffung nicht-evidenzbasierter Leistungen wird als Eingriff wahrgenommen, auch wenn sie es sachlich nicht ist. Die Kommunikation der Reform muss diese Wahrnehmung adressieren.
-- **Wahrgenommener Verlust von Privilegien**: PKV-Versicherte und Beamte werden den Verlust ihrer heutigen Sonderkonditionen empfinden, auch wenn die strukturelle Gleichheit dafür spricht.
-- **Mediale Polarisierung**: Die Reform wird in den Medien stark polarisiert dargestellt werden. Die Mechanismen aus Kapitel 5 (Kennzeichnungspflicht für Hypothese und Fakt, Schutz vor Polarisierung) sind die strukturelle Antwort.
+### Risiko 3: Rechtliche Risiken
 
-### Was diese Risiken bedeuten
+**Verfassungsrechtliche Eingriffstiefe.** Die Reform greift in Vertrauensschutz, Eigentumsgarantie (Art. 14 GG), Berufsfreiheit (Art. 12 GG) und das Alimentation-Prinzip (Art. 33 Abs. 5 GG) ein. Lösungsansatz: lange Übergangsfristen, Bestandsschutz, Wahlrecht über die Altersrückstellungen, Wahlfreiheit der Versicherungsunternehmen, Kompensationsmechanismen. Die ausführliche juristische Prüfung erfolgt in der Anlage `anlagen/juristische-fragen.md`.
 
-Diese Risiken sind nicht Argumente gegen die Reform. Sie sind Argumente für eine sorgfältige Vorbereitung. Die strukturelle Reform der drei großen Sozialversicherungen ist anspruchsvoll. Sie ist aber notwendig, weil das alternative Szenario – der ungeordnete Kollaps der GKV unter demografischem Druck – noch deutlich härter ausfallen würde.
+**EU-rechtliche Fragen.** Die Beendigung des PKV-Vollversicherungs-Geschäftsmodells könnte EU-binnenmarktrechtliche Fragen aufwerfen (Niederlassungsfreiheit, Dienstleistungsfreiheit). Lösungsansatz: Ausgestaltung im EU-rechtskonformen Rahmen, Wahlfreiheit der Unternehmen.
 
-Das Modul macht die Risiken transparent, damit die Vorbereitung der Reform ihre Schwachstellen adressiert. Die Anlagen `juristische-fragen.md` und `finanzierungslogik.md` werden die Detailausarbeitung der Lösungsansätze enthalten.
+### Risiko 4: Finanzielle Risiken
 
----
+**Kalibrierungsrisiko der Beitragsstruktur.** Wenn die lineare Beitragsstruktur falsch kalibriert wird, kann sie entweder die Mitte überlasten oder die Finanzierung gefährden. Lösungsansatz: volkswirtschaftliche Modellierung mit Sensitivitätsanalysen, Realitätscheck durch Wirtschaftsexperten, Anpassungsmechanismen über die Sechsstufen-Architektur.
 
+**Liquiditätsrisiko bei den Altersrückstellungen.** Eine zu schnelle Auszahlung der Altersrückstellungen könnte die Liquidität der Versicherungsunternehmen überlasten. Lösungsansatz: gestreckte Auszahlung über die Übergangsfrist.
+
+### Risiko 5: Versorgungsrisiken
+
+**Formales Solidarversprechen ohne reale Versorgung.** Die beste Versicherungsstruktur nützt nichts, wenn die Versorgung praktisch nicht verfügbar ist. Lösungsansatz: Die Versorgungssicherheit aus Kapitel 2 ist die zwingende Voraussetzung. Ohne sie bleibt das Solidarversprechen formal. Das Gleichwertigkeitsraster aus Kapitel 5 macht die Versorgungssicherheit regional messbar.
+
+**Fachkräftemangel im Gesundheits- und Pflegebereich.** Die integrierte Pflegevollversicherung erhöht die Nachfrage nach Pflegeleistungen. Ohne ausreichendes Personal entstehen Wartezeiten. Lösungsansatz: Verzahnung mit Kapitel 2 (Pflegepersonal), Kapitel 1 (Pflegeassistenz-Sonderregel, Bildungs- und Übergangsoffensive) und Kapitel 3 (Ausbildung).
+
+### Ehrliche Begrenzungen
+
+Das Modul benennt seine Grenzen offen:
+
+- Die Beitragskalibrierung ist noch nicht erfolgt und muss volkswirtschaftlich modelliert werden.
+- Die genaue Länge der Übergangsfrist ist eine politische Abwägung.
+- Die verfassungsrechtliche Tragfähigkeit mehrerer Elemente muss juristisch vertieft geprüft werden.
+- Die Reform funktioniert nur in Verzahnung mit Kapitel 2 (Versorgung), Kapitel 4 (politische Durchsetzbarkeit) und Kapitel 5 (generationelle Einbettung). Isoliert ist sie nicht tragfähig.
+
+
+<a id="verzahnung-mit-der-gesamtkonzeption"></a>
 ## Verzahnung mit der Gesamtkonzeption
 
-Das Modul „Solidarische Versicherungen" steht nicht für sich allein. Es ist Teil der Gesamtkonzeption Zukunftsdemokratie und kann nur in Verzahnung mit den anderen Bestandteilen wirken.
+Das Modul Solidarische Versicherungen ist eng mit den Kapiteln und den anderen Modulen verzahnt.
 
-**Kapitel 2 (Öffentliche Grundversorgung):**
-Versorgungssicherheit ist die praktische Voraussetzung des Solidarversprechens. Kommunale Gesundheitszentren, öffentliche Krankenhäuser und ausreichendes Pflegepersonal sind in Kapitel 2 ausgearbeitet. Ohne diese strukturelle Reform bleibt das Solidarversprechen formal, aber praktisch nicht eingelöst.
+**Verbindung zu Kapitel 1 (Produktivitäts-Dividende):**
+Die Pflichtversicherung für alle Erwerbstätigen folgt der Übergangslogik aus Kapitel 1. Die Bildungs- und Übergangsoffensive und das Qualifizierungsgehalt aus Kapitel 1 greifen in der gleitenden Brücke der Arbeitslosenversicherung. Die Pflegeassistenz-Sonderregel aus Kapitel 1 ist für die integrierte Pflegevollversicherung relevant.
 
-**Kapitel 3 (Bildung, Technologie, Verwaltung):**
-Die Verwaltungsmodernisierung aus Kapitel 3 ist die operative Voraussetzung. Ohne handlungsfähige Verwaltung, ohne moderne IT-Infrastruktur und ohne ausreichend qualifizierte Mitarbeiter scheitert die Reform verwaltungsmäßig.
+**Verbindung zu Kapitel 2 (Öffentliche Grundversorgung):**
+Die Versorgungssicherheit ist die zwingende praktische Voraussetzung der Bürger-Gesundheits-Versicherung. Die Bürgerversicherung wird in Kapitel 2 operativ als Teil der Gesundheits-Grundversorgung behandelt. Dieses Modul liefert die Versicherungs-Architektur, Kapitel 2 die Versorgungsstruktur.
 
-**Kapitel 4 (Agile wissenschaftsgetriebene Politik):**
-Die Mechanismen aus Kapitel 4 sind die politische Voraussetzung der Reform. Wissenschaftlicher Mindeststandard, Wissenschafts- und Resilienzrat, verbindliche Folgenabschätzung, transparente Verfahren, Karenzzeiten, KI-gestützte Integritätsprüfung und messbare Wahlversprechen schützen die Reform vor Lobbyismus und politischer Beliebigkeit. Die Bürgerversicherung ist deshalb auch ein Test für die Wirksamkeit der Politik-Reform aus Kapitel 4.
+**Verbindung zu Kapitel 3 (Bildung, Technologie und Verwaltung):**
+Die Sechs-Schutzräume-Logik aus Kapitel 3 (insbesondere Gesundheits- und Steuer-Schutzraum) sichert den Datenfluss zwischen Finanzbehörden und Versicherungsträgern. Die Verwaltungsdigitalisierung mit analoger Alternative gilt auch für die Versicherungsverwaltung. Die Ausbildung von Gesundheits- und Pflegefachkräften ist in Kapitel 3 verankert.
 
-**Kapitel 5 (Gesellschaftlicher Zusammenhalt):**
-Die generationelle Perspektive aus Kapitel 5 bettet das Modul in die Generationengerechtigkeits-Architektur ein. Die Reform wirkt zusammen mit der Schuldenbremse mit Sondermodell, der Generationenrücklage, der Rentenreform und dem Deutschland-Dashboard.
+**Verbindung zu Kapitel 4 (Agile wissenschaftsgetriebene Politik):**
+Die Sechsstufen-Architektur ist die Hochrisiko-Verzahnung und der Nachjustierungsmechanismus. Die Fachkammer Sozialstaat und Reziprozität ist die fachliche Aufsicht. Der wissenschaftliche Mindeststandard prägt den evidenzbasierten Leistungskatalog. Die Karenzzeiten und transparenten Verfahren sind die politische Voraussetzung der Durchsetzung. Die gemeinsame Beteiligungsplattform trägt die Leistungskatalog-Konsultationen.
 
-**Modul Reziproke Solidarität:**
-Die Mitwirkungs- und Schutzmechanismen aus diesem Querschnittsmodul greifen an mehreren Stellen: bei der Familienmitversicherung mit Erziehungs- und Pflegeleistungsanerkennung (Übergang in Reziproke Solidarität bei Wegfall der Leistung) und beim Übergang von Arbeitslosenversicherung in Bürgergeld (gleitende Brücke).
+**Verbindung zu Kapitel 5 (Gesellschaftlicher Zusammenhalt):**
+Die Bürgerversicherung ist in Kapitel 5 (Säule 3) als Teil der Generationengerechtigkeits-Reform verankert. Die Generationenbilanz (neun Dimensionen) bewertet die Versicherungsreform. Das Gleichwertigkeitsraster macht die Versorgungssicherheit regional messbar. Die Verzahnung mit Generationenrücklage und Schuldenbremse-Sondermodell ist substantiell.
 
-**Wichtiger Hinweis zur Ganzheitlichkeit:**
-Eine selektive Übernahme einzelner Bausteine dieses Moduls ohne die Verzahnung mit den anderen Kapiteln und Modulen kann die Reform verfehlen. Wer Bestandteile übernehmen will, muss die Verzahnung prüfen. Diese Anforderung ist konsistent mit der grundlegenden Architektur der Zukunftsdemokratie.
+**Verbindung zum Modul Reziproke Solidarität:**
+Die Pflichtversicherung für alle Erwerbstätigen ist in beiden Modulen als Element des Reziprozitätspakets verankert. Die aktivierende Sozialhilfe mit der Drei-Gruppen-Logik greift am Übergang von der Arbeitslosenversicherung in die Grundsicherung. Die Familienmitversicherung verzahnt sich mit der Mitwirkungslogik des Moduls Reziproke Solidarität. Die Schutzmechanismen (Existenzminimum, soziale Mindestteilhabe, Fachkammer mit Schwerpunkt Ethik, gerichtliche Überprüfbarkeit) gelten durchgängig.
 
----
+**Verbindung zu den Anlagen:**
+Die Beitragskalibrierung, die illustrativen Größenordnungen und die Übergangskosten sind in `anlagen/finanzierungslogik.md` dokumentiert. Die verfassungsrechtlichen Fragen sind in `anlagen/juristische-fragen.md` ausgearbeitet.
 
+
+<a id="die-leitformel-zum-schluss"></a>
 ## Die Leitformel zum Schluss
+
+Das Modul Solidarische Versicherungen stellt die Kranken-, Pflege- und Arbeitslosenversicherung auf eine zusammenhängende, zukunftsfeste Architektur. Es beendet die strukturellen Ungleichheiten zwischen Berufsgruppen und Einkommensarten. Es macht die Pflege finanzierbar, ohne Familien zu ruinieren. Es schafft mit der gleitenden Brücke einen würdewahrenden Übergang zwischen Erwerbstätigkeit und Grundsicherung.
+
+Das Modul folgt der grundsätzlichen Linie der Zukunftsdemokratie: lösungsorientiert statt lager-orientiert. Es entscheidet sich für die geordnete Reform statt für den ungeordneten Kollaps. Es nimmt die demografische Realität ernst, ohne zu dramatisieren. Es wahrt die verfassungsrechtlichen Grenzen durch lange Übergangsfristen, Bestandsschutz, Wahlrechte und Kompensationsmechanismen.
+
+Das Modul ist kein fertiges Gesetz, sondern eine Diskussionsgrundlage. Es benennt seine offenen Fragen, seine Kalibrierungsbedarfe und seine verfassungsrechtlichen Grenzen ehrlich. Es funktioniert nur in Verzahnung mit der Gesamtkonzeption – mit der Versorgung aus Kapitel 2, der politischen Architektur aus Kapitel 4, der generationellen Einbettung aus Kapitel 5 und der Mitwirkungslogik des Moduls Reziproke Solidarität.
+
+Die Leitformel bleibt:
 
 > *Alle tragen nach Leistungsfähigkeit. Alle erhalten nach Bedarf. Versorgung wird gesichert.*
 
-Diese Leitformel verbindet die drei strukturellen Anforderungen an die solidarischen Versicherungen.
+Alle tragen nach Leistungsfähigkeit – durch die Pflichteinbeziehung aller Erwerbstätigen, die Bemessung auf alle Einkommensarten und die lineare Beitragsstruktur, die auch sehr hohe Einkommen substanziell einbezieht.
 
-**Alle tragen nach Leistungsfähigkeit:** Pflichteinbeziehung aller Erwerbstätigen, Beiträge auf alle Einkommensarten, lineare Beitragsstruktur. Niemand kann sich strukturell aus der Solidargemeinschaft herauskaufen. Wer wirtschaftlich leistungsfähig ist, trägt zur Gemeinschaft bei, unabhängig von der Art seines Einkommens oder seiner Berufsstellung.
+Alle erhalten nach Bedarf – durch den evidenzbasierten Leistungskatalog, die integrierte Pflegevollversicherung ohne ruinöse Eigenanteile und die gleitende Brücke, die Abstiegsangst nimmt.
 
-**Alle erhalten nach Bedarf:** Bürger-Gesundheits-Versicherung deckt Vorsorge, Akutmedizin und Pflege als integrierte Vollversicherung. Niemand wird durch Pflegebedürftigkeit oder Krankheit finanziell ruiniert. Der Leistungskatalog folgt evidenzbasierten Standards, nicht wirtschaftlicher Selektion oder politischer Beliebigkeit.
+Versorgung wird gesichert – durch die zwingende Verzahnung mit der Versorgungssicherheit aus Kapitel 2, ohne die das Solidarversprechen formal bliebe.
 
-**Versorgung wird gesichert:** Das Solidarversprechen wird nicht nur formal, sondern praktisch eingelöst. Versorgungsstrukturen (kommunale Gesundheitszentren, öffentliche Krankenhäuser, ausreichendes Pflegepersonal) sind die strukturelle Voraussetzung, ohne die das Versprechen leer bleibt.
+Solidarität ist kein Selbstzweck und keine Rhetorik. Sie ist das Prinzip, das eine alternde, vielfältige Gesellschaft zusammenhält – wenn alle nach ihrer Leistungsfähigkeit beitragen und alle nach ihrem Bedarf versorgt werden.
 
-Die Reform ist anspruchsvoll. Sie ist verfassungsrechtlich, politisch und wirtschaftlich herausfordernd. Aber sie ist notwendig, weil das alternative Szenario – der ungeordnete Kollaps der gesetzlichen Krankenversicherung unter demografischem Druck – deutlich härter ausfallen würde. Eine geordnete Reform schützt die Solidargemeinschaft besser als ein ungeordneter Kollaps.
+---
 
-Das Modul „Solidarische Versicherungen" ist der konkrete Vorschlag des Konzepts Zukunftsdemokratie für diese Reform.
+**Dieses Modul ist Teil des Konzepts Zukunftsdemokratie. Aktuelle Version siehe README.md. Strukturelle Grundregeln siehe `ARCHITEKTUR.md`. Finanzielle Detail-Architektur siehe `anlagen/finanzierungslogik.md`.**
